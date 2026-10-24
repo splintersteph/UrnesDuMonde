@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23",
+ "updated": "2026-10-24",
  "elections": [
   {
    "id": "br-2026-r2",
@@ -1591,35 +1591,220 @@
    },
    "note": "Chiffre des partis arabes non relevé",
    "source": "https://www.haaretz.com/israel-news/elections/2026-10-22/ty-article/new-polls-show-eisenkot-bloc-leading-netanyahus-but-short-of-majority/000001a1-61de-d3a9-a9bb-69ff31b00000"
+  },
+  {
+   "electionId": "rs-2026",
+   "pollster": "Ipsos (commandé par la liste Serbie unie)",
+   "fieldwork": "20–22 oct.",
+   "published": "2026-10-22",
+   "n": 3624,
+   "base": "Électeurs décidés",
+   "unit": "%",
+   "values": {
+    "Serbie unie (SNS)": 47.4,
+    "Liste étudiante": 40.0,
+    "SPS": 3.2
+   },
+   "note": "Téléphone (90 %) et panel en ligne (10 %). SPS : liste « Ivica Dačić – Faktor stabilnosti! ». Participation estimée à 64,7 %",
+   "source": "https://www.ipsos.com/sr-rs/rezultati-istrazivanja-pred-parlamentarne-izbore-oktobar-2026"
+  },
+  {
+   "electionId": "il-2026",
+   "pollster": "Zman Yisrael (Times of Israel)",
+   "fieldwork": "14–15 oct.",
+   "published": "2026-10-22",
+   "n": 500,
+   "base": "Projection en sièges",
+   "unit": "sièges",
+   "values": {
+    "Bloc Netanyahou": 51,
+    "Opposition": 51,
+    "Partis arabes": 14
+   },
+   "note": "Yashar 23, Likoud 21 ; Réservistes 4 (non alignés). Présenté comme le dernier sondage du Times of Israel",
+   "source": "https://www.timesofisrael.com/netanyahu-and-eisenkot-in-dead-heat-five-days-before-election-final-toi-poll-shows/"
   }
  ],
  "articles": [
   {
    "electionId": "br-2026-r2",
+   "lang": "fr",
+   "title": "Brésil-Bolsonaro et Lula au coude à coude avant le second tour de la présidentielle-sondage",
+   "source": "Boursorama (Reuters)",
+   "date": "2026-10-23",
+   "url": "https://boursorama.com/actualite-economique/actualites/bresil-bolsonaro-et-lula-au-coude-a-coude-avant-le-second-tour-de-la-presidentielle-sondage-bcaf48bfcbd25341daab3985d06a9236",
+   "summary": "Selon le dernier sondage Datafolha publié jeudi, les deux candidats sont pratiquement à égalité à trois jours du second tour."
+  },
+  {
+   "electionId": "br-2026-r2",
+   "lang": "fr",
+   "title": "Brésil: Lula a déposé son recours pour disqualifier Bolsonaro de la présidentielle",
+   "source": "La DH (Belga/AFP)",
+   "date": "2026-10-22",
+   "url": "https://www.dhnet.be/dernieres-depeches/2026/10/22/bresil-lula-a-depose-son-recours-pour-disqualifier-bolsonaro-de-la-presidentielle-JXTTLUHMVFCCFN5T7ZDN5QIHAA/",
+   "summary": "Le camp de Lula a saisi le tribunal électoral pour demander l'annulation de la candidature de Flávio Bolsonaro, au lendemain d'une démarche identique visant le président sortant. Les deux recours portent sur l'usage des réseaux sociaux pendant la campagne."
+  },
+  {
+   "electionId": "br-2026-r2",
    "lang": "en",
-   "title": "Bolsonaro and Lula head into the final stretch of Brazil's campaign in a statistical tie",
-   "source": "MercoPress",
-   "date": "2026-10-17",
-   "url": "https://en.mercopress.com/2026/10/17/bolsonaro-and-lula-head-into-the-final-stretch-of-brazil-s-campaign-in-a-statistical-tie",
-   "summary": "Les derniers Datafolha et Quaest donnent un léger avantage à Flávio Bolsonaro, dans la marge d'erreur. Plus de la moitié des électeurs rejettent chacun des deux candidats."
+   "title": "Datafolha Poll Has Flávio 50%, Lula 50%",
+   "source": "The Rio Times",
+   "date": "2026-10-22",
+   "url": "https://www.riotimesonline.com/datafolha-poll-flavio-50-lula-50-runoff-2026",
+   "summary": "Le dernier sondage Datafolha place les deux candidats à 50 % des suffrages valides, contre 51-49 en faveur de Flávio Bolsonaro une semaine plus tôt. L'écart reste dans la marge d'erreur."
+  },
+  {
+   "electionId": "br-2026-r2",
+   "lang": "fr",
+   "title": "Brésil: Lula et Bolsonaro cherchent à se disqualifier mutuellement, à quelques jours du second tour",
+   "source": "RFI",
+   "date": "2026-10-21",
+   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261021-br%C3%A9sil-lula-et-bolsonaro-cherchent-%C3%A0-se-disqualifier-mutuellement-%C3%A0-quelques-jours-du-second-tour",
+   "summary": "Les deux camps ont saisi la justice électorale pour demander l'inéligibilité de l'adversaire. Le différend porte sur le rôle des plateformes de Meta dans la campagne."
+  },
+  {
+   "electionId": "br-2026-r2",
+   "lang": "en",
+   "title": "Bolsonaro's lead over Lula narrows ahead Brazil runoff, Quaest poll shows",
+   "source": "Reuters (via Yahoo News)",
+   "date": "2026-10-21",
+   "url": "https://sg.news.yahoo.com/bolsonaros-lead-over-lula-narrows-133031193.html",
+   "summary": "Premier sondage Quaest publié après le débat télévisé : Flávio Bolsonaro recule d'un point à 45 %, Lula reste à 44 %, un écart inférieur à la marge d'erreur."
+  },
+  {
+   "electionId": "br-2026-r2",
+   "lang": "en",
+   "title": "Meta tells Brazil's electoral court it gives equal treatment to Lula and Flávio Bolsonaro",
+   "source": "AP via PBS NewsHour",
+   "date": "2026-10-20",
+   "url": "https://www.pbs.org/newshour/world/meta-tells-brazils-electoral-court-it-gives-equal-treatment-to-lula-and-flavio-bolsonaro",
+   "summary": "Meta affirme au tribunal électoral avoir appliqué l'ordre de traiter les deux candidats de façon égale sur ses plateformes. La campagne de Lula accusait le groupe de favoriser son adversaire, ce que Meta conteste."
+  },
+  {
+   "electionId": "br-2026-r2",
+   "lang": "en",
+   "title": "Lula and Bolsonaro spar in Brazil's fiery first presidential run-off debate",
+   "source": "Al Jazeera",
+   "date": "2026-10-19",
+   "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate",
+   "summary": "Premier débat télévisé du second tour, une semaine avant le vote, marqué par des accusations de corruption et des échanges sur la sécurité et la santé. Les sondages donnent une légère avance à Flávio Bolsonaro."
+  },
+  {
+   "electionId": "br-2026-r2",
+   "lang": "fr",
+   "title": "Présidentielle au Brésil: Lula et Flavio Bolsonaro s'invectivent lors de leur premier débat",
+   "source": "L'essentiel (AFP)",
+   "date": "2026-10-19",
+   "url": "https://lessentiel.lu/fr/story/presidentielle-au-bresil-lula-et-flavio-bolsonaro-s-invectivent-lors-de-leur-premier-debat-103651864",
+   "summary": "Compte rendu du débat de São Paulo du 18 octobre, où les deux candidats se sont mutuellement mis en cause sur des affaires judiciaires visant leurs proches."
+  },
+  {
+   "electionId": "br-2026-r2",
+   "lang": "fr",
+   "title": "Présidentielle au Brésil: entre Lula et Flavio Bolsonaro, un premier débat télévisé stérile et violent",
+   "source": "RFI",
+   "date": "2026-10-19",
+   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261019-pr%C3%A9sidentielle-au-br%C3%A9sil-entre-lula-et-flavio-bolsonaro-un-premier-d%C3%A9bat-t%C3%A9l%C3%A9vis%C3%A9-st%C3%A9rile-et-violent",
+   "summary": "Premier débat télévisé du second tour entre Lula et Flávio Bolsonaro, à moins d'une semaine du vote. Les échanges ont surtout porté sur des attaques personnelles plutôt que sur les programmes."
+  },
+  {
+   "electionId": "br-2026-r2",
+   "lang": "en",
+   "title": "AtlasIntel Poll Has Flávio 49.8%, Lula 47.6%",
+   "source": "The Rio Times",
+   "date": "2026-10-19",
+   "url": "https://www.riotimesonline.com/brazil-atlasintel-poll-flavio-lula-runoff-2026/",
+   "summary": "Le dernier AtlasIntel place Flávio Bolsonaro devant Lula de 2,2 points. L'écart s'est réduit par rapport à la vague du 9 octobre de cet institut."
   },
   {
    "electionId": "rs-2026",
    "lang": "fr",
-   "title": "Élections en Serbie • fil info en continu",
-   "source": "Le Courrier des Balkans",
-   "date": "2026-10-17",
-   "url": "https://www.courrierdesbalkans.fr/elections-en-serbie-fil-info-en-continu-99497/",
-   "summary": "Suivi quotidien de la campagne : meetings, marches étudiantes et situation des médias. Le fil évoque aussi des analyses des listes électorales."
+   "title": "Serbie : des étudiants convergent vers Belgrade avant le dernier rassemblement électoral",
+   "source": "Boursorama (AFP)",
+   "date": "2026-10-22",
+   "url": "https://www.boursorama.com/actualite-economique/actualites/serbie-des-etudiants-convergent-vers-belgrade-avant-le-dernier-rassemblement-electoral-efeda7a9c0551e5c884bbee7a1a32b7d",
+   "summary": "Des colonnes d'étudiants rejoignent Belgrade pour le dernier rassemblement de la Liste étudiante, à trois jours des législatives anticipées du 25 octobre."
+  },
+  {
+   "electionId": "rs-2026",
+   "lang": "fr",
+   "title": "Serbie : une foule en liesse accueille les étudiants à Belgrade",
+   "source": "Euronews (via Yahoo Actualités)",
+   "date": "2026-10-22",
+   "url": "https://fr.news.yahoo.com/serbie-%C3%A9tudiants-manifestants-envahissent-belgrade-072052082.html",
+   "summary": "Des milliers de personnes ont accueilli à Belgrade les étudiants venus de tout le pays à pied. Ce rassemblement constituait la dernière grande mobilisation du mouvement avant le scrutin du 25 octobre."
   },
   {
    "electionId": "rs-2026",
    "lang": "en",
-   "title": "Serbian populist leader Aleksandar Vucic returns to tragedy-hit Novi Sad for preelection rally",
-   "source": "AP via ABC News",
-   "date": "2026-10-16",
-   "url": "https://abcnews.com/International/wireStory/serbian-populist-leader-aleksandar-vucic-returns-tragedy-hit-137329440",
-   "summary": "Aleksandar Vučić a tenu un meeting à Novi Sad, ville où l'effondrement de l'auvent de la gare avait déclenché les manifestations. Il brigue le poste de Premier ministre à l'issue du scrutin du 25 octobre."
+   "title": "Huge crowds gather at final pre-election rally of Serbia's students",
+   "source": "AP (via Arab News)",
+   "date": "2026-10-22",
+   "url": "https://www.arabnews.com/world/huge-crowds-gather-at-final-pre-election-rally-of-serbias-students-3007782",
+   "summary": "Le mouvement étudiant a tenu son dernier meeting de campagne place Slavija, le même jour que celui d'Aleksandar Vučić, qui s'est dit confiant. Des analystes évoquent un risque d'instabilité si le résultat est serré."
+  },
+  {
+   "electionId": "rs-2026",
+   "lang": "en",
+   "title": "As Serbia votes, students emerge as greatest threat to Vucic's long rule",
+   "source": "Reuters (via Internazionale)",
+   "date": "2026-10-21",
+   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/21/as-serbia-votes-students-emerge-as-greatest-threat-to-vucic-s-long-rule",
+   "summary": "Retour sur l'essor du mouvement étudiant né de l'effondrement de Novi Sad en 2024, devenu le principal adversaire d'Aleksandar Vučić. Les sondages divergent et les analystes s'interrogent sur la manière dont les étudiants gouverneraient."
+  },
+  {
+   "electionId": "rs-2026",
+   "lang": "fr",
+   "title": "Série Gen Z : en Serbie, les étudiants ont monté une liste électorale pour « créer un nouveau système »",
+   "source": "France Inter",
+   "date": "2026-10-20",
+   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-mardi-20-octobre-2026-3760961",
+   "summary": "Reportage sur la liste étudiante, issue de deux ans de manifestations, qui présente 250 candidats de la société civile, dont une majorité de doctorants."
+  },
+  {
+   "electionId": "rs-2026",
+   "lang": "en",
+   "title": "Between Vucic and the future: Five post-election scenarios for Serbia",
+   "source": "ECFR",
+   "date": "2026-10-20",
+   "url": "https://ecfr.eu/article/between-vucic-and-the-future-five-post-election-scenarios-for-serbia/",
+   "summary": "Deux chercheurs du Conseil européen pour les relations internationales décrivent cinq scénarios possibles après le vote, d'une nette victoire du pouvoir à un succès de la Liste étudiante. Ils formulent des recommandations à l'intention de l'Union européenne."
+  },
+  {
+   "electionId": "rs-2026",
+   "lang": "en",
+   "title": "Serbian students will conclude the election campaign with a rally in Belgrade",
+   "source": "ANSA",
+   "date": "2026-10-19",
+   "url": "https://www.ansa.it/nuova_europa/en/news/countries/serbia/2026/10/19/serbian-students-will-conclude-the-election-campaign-with-a-rally-in-belgrade_96489e82-19e9-4051-80ac-67ad26bb43ad.html",
+   "summary": "La Liste étudiante clôturera sa campagne le 22 octobre par un rassemblement place Slavija à Belgrade. Des cortèges partis à pied de plusieurs villes, dont Novi Sad et Zaječar, convergent vers la capitale."
+  },
+  {
+   "electionId": "rs-2026",
+   "lang": "en",
+   "title": "Serbian students march on Belgrade for final rally ahead of election",
+   "source": "bne IntelliNews",
+   "date": "2026-10-19",
+   "url": "https://www.intellinews.com/serbian-students-march-on-belgrade-for-final-rally-ahead-of-election-476870",
+   "summary": "Des étudiants et des partisans de la Liste étudiante marchent depuis plusieurs villes vers Belgrade. Cette marche doit aboutir au dernier rassemblement de leur campagne."
+  },
+  {
+   "electionId": "rs-2026",
+   "lang": "en",
+   "title": "Serbia's Student Movement Takes on Vucic With a New Model for Challenging Entrenched Leaders",
+   "source": "TT via Sweden Herald",
+   "date": "2026-10-19",
+   "url": "https://swedenherald.com/article/serbias-student-movement-takes-on-vucic-with-a-new-model-for-challenging-entrenched-leaders",
+   "summary": "L'article retrace le passage du mouvement de protestation né à Novi Sad à une liste de 250 candidats. Un politologue y évoque l'intérêt de ce modèle et ses risques de divisions internes."
+  },
+  {
+   "electionId": "rs-2026",
+   "lang": "en",
+   "title": "Vučić rallies in Novi Sad as students march towards campaign finale in Belgrade",
+   "source": "European Western Balkans",
+   "date": "2026-10-18",
+   "url": "https://europeanwesternbalkans.com/2026/10/18/vucic-rallies-in-novi-sad-as-students-march-towards-campaign-finale-in-belgrade/",
+   "summary": "Aleksandar Vučić a tenu un meeting à Novi Sad, une première depuis l'effondrement de l'auvent de la gare en 2024. Les étudiants marchent vers Belgrade pour un rassemblement final le 22 octobre."
   },
   {
    "electionId": "us-2026",
@@ -1649,166 +1834,58 @@
    "summary": "Pourquoi ces dates ont été retenues et les critiques sur un second tour au lendemain du 1er mai."
   },
   {
-   "electionId": "br-2026-r2",
+   "electionId": "bg-2026-p1",
    "lang": "en",
-   "title": "Lula and Bolsonaro spar in Brazil's fiery first presidential run-off debate",
-   "source": "Al Jazeera",
-   "date": "2026-10-19",
-   "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate",
-   "summary": "Premier débat télévisé du second tour, une semaine avant le vote, marqué par des accusations de corruption et des échanges sur la sécurité et la santé. Les sondages donnent une légère avance à Flávio Bolsonaro."
+   "title": "Presidential Candidates Iotova and Valchev Close Campaign in Plovdiv",
+   "source": "BTA",
+   "date": "2026-10-22",
+   "url": "https://www.bta.bg/en/news/bulgaria/1230740-presidential-candidates-iotova-and-valchev-close-campaign-in-plovdiv",
+   "summary": "La présidente sortante Iliana Iotova et son colistier Kiril Valchev achèvent leur campagne à Plovdiv, avant la journée de réflexion précédant le scrutin."
   },
   {
-   "electionId": "br-2026-r2",
+   "electionId": "bg-2026-p1",
    "lang": "fr",
-   "title": "Présidentielle au Brésil: Lula et Flavio Bolsonaro s'invectivent lors de leur premier débat",
-   "source": "L'essentiel (AFP)",
-   "date": "2026-10-19",
-   "url": "https://lessentiel.lu/fr/story/presidentielle-au-bresil-lula-et-flavio-bolsonaro-s-invectivent-lors-de-leur-premier-debat-103651864",
-   "summary": "Compte rendu du débat de São Paulo du 18 octobre, où les deux candidats se sont mutuellement mis en cause sur des affaires judiciaires visant leurs proches."
-  },
-  {
-   "electionId": "br-2026-r2",
-   "lang": "en",
-   "title": "Lula Leads 51% to 49% in Vox Brasil Poll",
-   "source": "The Rio Times",
-   "date": "2026-10-18",
-   "url": "https://www.riotimesonline.com/vox-brasil-poll-lula-51-flavio-49-runoff-2026",
-   "summary": "Un sondage Vox Brasil réalisé du 15 au 17 octobre place Lula légèrement devant, à l'inverse de Datafolha et Quaest. L'écart reste dans la marge d'erreur."
-  },
-  {
-   "electionId": "rs-2026",
-   "lang": "en",
-   "title": "Vučić rallies in Novi Sad as students march towards campaign finale in Belgrade",
-   "source": "European Western Balkans",
-   "date": "2026-10-18",
-   "url": "https://europeanwesternbalkans.com/2026/10/18/vucic-rallies-in-novi-sad-as-students-march-towards-campaign-finale-in-belgrade/",
-   "summary": "Aleksandar Vučić a tenu un meeting à Novi Sad, une première depuis l'effondrement de l'auvent de la gare en 2024. Les étudiants marchent vers Belgrade pour un rassemblement final le 22 octobre."
-  },
-  {
-   "electionId": "rs-2026",
-   "lang": "en",
-   "title": "The mass student march is crossing Serbia for the final showdown with Vučić",
-   "source": "Il Sole 24 Ore",
-   "date": "2026-10-16",
-   "url": "https://en.ilsole24ore.com/art/the-mass-student-march-crosses-serbia-vucics-final-challenge-AJOtcGlB",
-   "summary": "Des marches étudiantes traversent la Serbie pendant une semaine pour mobiliser les abstentionnistes avant le scrutin. L'article évoque aussi les craintes d'irrégularités exprimées par des observateurs."
+   "title": "Sondage Myara: Iliyana Yotova 43,4%, Andrey Gurov 28,9% au scrutin du 25 octobre",
+   "source": "Radio Bulgarie",
+   "date": "2026-10-22",
+   "url": "https://bnrnews.bg/fr/post/545946/sondage-myara-iliyana-yotova-434percent-andrey-gurov-289percent-au-scrutin-du-25-octobre",
+   "summary": "Le dernier sondage Myara confirme l'avance d'Iliana Iotova sur Andreï Guiourov, devant Kostadin Kostadinov. L'institut estime la participation au premier tour à environ 39 %."
   },
   {
    "electionId": "bg-2026-p1",
    "lang": "en",
-   "title": "President and Presidential Candidate Iotova Calls for National Unity and Stronger State Support for Citizens",
-   "source": "BTA",
-   "date": "2026-10-17",
-   "url": "https://www.bta.bg/en/news/bulgaria/1227067-president-and-presidential-candidate-iotova-calls-for-national-unity-and-stronge",
-   "summary": "En meeting à Vidin, Iliana Iotova a présenté ses priorités sociales et plaidé pour une solution diplomatique à la guerre en Ukraine."
+   "title": "Change or More of the Same: Bulgaria Picks a President on Sunday",
+   "source": "Novinite",
+   "date": "2026-10-22",
+   "url": "https://www.novinite.com/articles/241182/Change+or+More+of+the+Same:+Bulgaria+Picks+a+President+on+Sunday",
+   "summary": "Présentation des trois principaux candidats parmi les 27 en lice et des derniers sondages. Un second tour le 1er novembre est jugé probable en raison d'une participation attendue faible."
   },
   {
-   "electionId": "il-2026",
-   "lang": "en",
-   "title": "Blocs struggle to reach Knesset majority in polls, as Gadi Eisenkot leads Benjamin Netanyahu",
-   "source": "The Jerusalem Post",
-   "date": "2026-10-18",
-   "url": "https://www.jpost.com/israel-election-2026/article-912004",
-   "summary": "Synthèse de quatre sondages récents (Maariv, Channel 13, Kan, Channel 12) : aucun bloc n'atteint les 61 sièges."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "en",
-   "title": "Spain's Sánchez calls snap election for 29 November after housing defeat",
-   "source": "Euronews",
-   "date": "2026-10-05",
-   "url": "https://www.euronews.com/2026/10/05/pedro-sanchez-calls-early-elections-in-spain-after-defeat-of-housing-decrees",
-   "summary": "Pedro Sánchez convoque des élections anticipées après le rejet par le Congrès de deux décrets sur le logement."
-  },
-  {
-   "electionId": "br-2026-r2",
+   "electionId": "bg-2026-p1",
    "lang": "fr",
-   "title": "Présidentielle au Brésil: entre Lula et Flavio Bolsonaro, un premier débat télévisé stérile et violent",
-   "source": "RFI",
-   "date": "2026-10-19",
-   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261019-pr%C3%A9sidentielle-au-br%C3%A9sil-entre-lula-et-flavio-bolsonaro-un-premier-d%C3%A9bat-t%C3%A9l%C3%A9vis%C3%A9-st%C3%A9rile-et-violent",
-   "summary": "Premier débat télévisé du second tour entre Lula et Flávio Bolsonaro, à moins d'une semaine du vote. Les échanges ont surtout porté sur des attaques personnelles plutôt que sur les programmes."
-  },
-  {
-   "electionId": "br-2026-r2",
-   "lang": "en",
-   "title": "AtlasIntel Poll Has Flávio 49.8%, Lula 47.6%",
-   "source": "The Rio Times",
-   "date": "2026-10-19",
-   "url": "https://www.riotimesonline.com/brazil-atlasintel-poll-flavio-lula-runoff-2026/",
-   "summary": "Le dernier AtlasIntel place Flávio Bolsonaro devant Lula de 2,2 points. L'écart s'est réduit par rapport à la vague du 9 octobre de cet institut."
-  },
-  {
-   "electionId": "rs-2026",
-   "lang": "en",
-   "title": "Serbian students will conclude the election campaign with a rally in Belgrade",
-   "source": "ANSA",
-   "date": "2026-10-19",
-   "url": "https://www.ansa.it/nuova_europa/en/news/countries/serbia/2026/10/19/serbian-students-will-conclude-the-election-campaign-with-a-rally-in-belgrade_96489e82-19e9-4051-80ac-67ad26bb43ad.html",
-   "summary": "La Liste étudiante clôturera sa campagne le 22 octobre par un rassemblement place Slavija à Belgrade. Des cortèges partis à pied de plusieurs villes, dont Novi Sad et Zaječar, convergent vers la capitale."
+   "title": "Sondage: 39% de participation à la présidentielle du 25 octobre",
+   "source": "Radio Bulgarie",
+   "date": "2026-10-21",
+   "url": "https://bnrnews.bg/fr/post/545144/sondage-39percent-de-participation-a-la-presidentielle-du-25-octobre",
+   "summary": "Selon Market Links pour bTV, la participation attendue est de 39 % et le ticket d'Iliana Iotova arrive en tête avec 47,3 %. Un second tour le 1er novembre apparaît très probable."
   },
   {
    "electionId": "bg-2026-p1",
    "lang": "en",
-   "title": "Media Review: October 19",
-   "source": "BTA",
-   "date": "2026-10-19",
-   "url": "https://www.bta.bg/en/news/bulgaria/1227696-media-review-october-19",
-   "summary": "Revue de presse de l'agence publique : des politologues jugent un second tour quasi certain et voient Iliana Iotova favorite face à Andreï Guiourov. Le Mouvement vert annonce son soutien au ticket Guiourov–Kandev."
+   "title": "Bulgaria’s 2026 presidential elections: Yotova 47.3%, Gyurov 30.6%",
+   "source": "The Sofia Globe",
+   "date": "2026-10-21",
+   "url": "https://sofiaglobe.com/2026/10/21/bulgarias-2026-presidential-elections-yotova-47-3-gyurov-30-6-market-links-poll/",
+   "summary": "Le sondage Market Links réalisé du 13 au 19 octobre voit Andreï Guiourov progresser nettement depuis septembre, Iliana Iotova restant en tête sans atteindre la majorité absolue."
   },
   {
    "electionId": "bg-2026-p1",
    "lang": "en",
-   "title": "There Are No Lost Generations, Presidential Candidate Iotova Tells Students",
+   "title": "Presidential Ticket Gurov and Kandev Close Campaign in Plovdiv",
    "source": "BTA",
-   "date": "2026-10-18",
-   "url": "https://www.bta.bg/en/news/bulgaria/1227213-there-are-no-lost-generations-presidential-candidate-iotova-tells-students",
-   "summary": "Devant des étudiants à Sofia, la présidente sortante a proposé un conseil consultatif de la jeunesse auprès de la présidence et des stages rémunérés. Elle a affirmé que l'orientation européenne de la Bulgarie ne changerait pas."
-  },
-  {
-   "electionId": "il-2026",
-   "lang": "fr",
-   "title": "À l'approche des législatives en Israël, Netanyahu met en avant son alliance avec Trump",
-   "source": "France 24",
-   "date": "2026-10-19",
-   "url": "https://www.france24.com/fr/moyen-orient/20261019-%C3%A0-l-approche-des-l%C3%A9gislatives-en-isra%C3%ABl-netanyahu-met-en-avant-son-alliance-avec-trump",
-   "summary": "Benjamin Netanyahou a diffusé un échange téléphonique avec Donald Trump, qui y prédit sa victoire le 27 octobre. Les sondages annoncent un scrutin très serré."
-  },
-  {
-   "electionId": "br-2026-r2",
-   "lang": "en",
-   "title": "Meta tells Brazil's electoral court it gives equal treatment to Lula and Flávio Bolsonaro",
-   "source": "AP via PBS NewsHour",
-   "date": "2026-10-20",
-   "url": "https://www.pbs.org/newshour/world/meta-tells-brazils-electoral-court-it-gives-equal-treatment-to-lula-and-flavio-bolsonaro",
-   "summary": "Meta affirme au tribunal électoral avoir appliqué l'ordre de traiter les deux candidats de façon égale sur ses plateformes. La campagne de Lula accusait le groupe de favoriser son adversaire, ce que Meta conteste."
-  },
-  {
-   "electionId": "br-2026-r2",
-   "lang": "fr",
-   "title": "Brésil : face à un Bolsonaro favori, Lula peut-il inverser la tendance ?",
-   "source": "Euronews",
-   "date": "2026-10-19",
-   "url": "https://fr.euronews.com/2026/10/19/bresil-face-a-un-bolsonaro-favori-comment-lula-peut-il-inverser-la-tendance",
-   "summary": "Analyse géographique du second tour : le Minas Gerais et l'État de São Paulo apparaissent décisifs. Le Nord-Est, le District fédéral et les abstentionnistes du premier tour sont aussi présentés comme des enjeux."
-  },
-  {
-   "electionId": "rs-2026",
-   "lang": "en",
-   "title": "Serbian students march on Belgrade for final rally ahead of election",
-   "source": "bne IntelliNews",
-   "date": "2026-10-19",
-   "url": "https://www.intellinews.com/serbian-students-march-on-belgrade-for-final-rally-ahead-of-election-476870",
-   "summary": "Des étudiants et des partisans de la Liste étudiante marchent depuis plusieurs villes vers Belgrade. Cette marche doit aboutir au dernier rassemblement de leur campagne."
-  },
-  {
-   "electionId": "rs-2026",
-   "lang": "en",
-   "title": "Serbia's Student Movement Takes on Vucic With a New Model for Challenging Entrenched Leaders",
-   "source": "TT via Sweden Herald",
-   "date": "2026-10-19",
-   "url": "https://swedenherald.com/article/serbias-student-movement-takes-on-vucic-with-a-new-model-for-challenging-entrenched-leaders",
-   "summary": "L'article retrace le passage du mouvement de protestation né à Novi Sad à une liste de 250 candidats. Un politologue y évoque l'intérêt de ce modèle et ses risques de divisions internes."
+   "date": "2026-10-21",
+   "url": "https://www.bta.bg/en/news/bulgaria/1229843-presidential-ticket-gurov-and-kandev-close-campaign-in-plovdiv",
+   "summary": "Le binôme Andreï Guiourov – Georgi Kandev clôt à son tour sa campagne à Plovdiv, deux jours avant la fin légale de la campagne."
   },
   {
    "electionId": "bg-2026-p1",
@@ -1840,11 +1917,47 @@
   {
    "electionId": "il-2026",
    "lang": "en",
-   "title": "Israel's elections 2026 explained in maps and charts",
-   "source": "Al Jazeera",
-   "date": "2026-10-20",
-   "url": "https://www.aljazeera.com/news/2026/10/20/israels-elections-2026-explained-in-maps-and-charts",
-   "summary": "Présentation illustrée du scrutin du 27 octobre, sixième élection nationale depuis 2019. Aucun des deux grands blocs ne semble en mesure d'atteindre les 61 sièges."
+   "title": "New Polls Show Eisenkot Ahead, Two Parties at Edge of Electoral Threshold",
+   "source": "Haaretz",
+   "date": "2026-10-22",
+   "url": "https://www.haaretz.com/israel-news/elections/2026-10-22/ty-article/new-polls-show-eisenkot-bloc-leading-netanyahus-but-short-of-majority/000001a1-61de-d3a9-a9bb-69ff31b00000",
+   "summary": "Deux nouveaux sondages télévisés placent le bloc mené par Gadi Eisenkot devant celui de Benyamin Netanyahou, sans majorité de 61 sièges ; deux petites listes restent proches du seuil."
+  },
+  {
+   "electionId": "il-2026",
+   "lang": "en",
+   "title": "Final Israeli polls point to stalemate ahead of Tuesday's election",
+   "source": "Jewish Insider",
+   "date": "2026-10-22",
+   "url": "https://jewishinsider.com/2026/10/final-israeli-polls-stalemate-tuesdays-election/",
+   "summary": "Synthèse des derniers sondages : aucun bloc n'atteint 61 sièges dans la moyenne générale, tandis que les enquêtes de Channel 14 et i24NEWS se distinguent par des chiffres plus favorables au camp de Benyamin Netanyahou."
+  },
+  {
+   "electionId": "il-2026",
+   "lang": "en",
+   "title": "Netanyahu and Eisenkot in dead heat five days before election, final ToI poll shows",
+   "source": "The Times of Israel",
+   "date": "2026-10-22",
+   "url": "https://www.timesofisrael.com/netanyahu-and-eisenkot-in-dead-heat-five-days-before-election-final-toi-poll-shows/",
+   "summary": "Le dernier sondage Zman Yisrael donne 51 sièges à chacun des deux blocs, loin des 61 nécessaires. Yashar devance le Likoud de deux sièges."
+  },
+  {
+   "electionId": "il-2026",
+   "lang": "en",
+   "title": "Yashar ahead of Likud in election polls, but Knesset majority still out of reach for both - poll",
+   "source": "The Jerusalem Post (Maariv)",
+   "date": "2026-10-21",
+   "url": "https://www.jpost.com/israel-election-2026/article-912371",
+   "summary": "Synthèse de quatre sondages télévisés et en ligne : Yashar devance le Likoud, mais aucun bloc n'atteint les 61 sièges."
+  },
+  {
+   "electionId": "il-2026",
+   "lang": "fr",
+   "title": "Élections en Israël : Les 4 scénarios possibles",
+   "source": "The Times of Israël (AFP)",
+   "date": "2026-10-21",
+   "url": "https://fr.timesofisrael.com/elections-en-israel-les-4-scenarios-possibles",
+   "summary": "L'AFP passe en revue quatre issues possibles du scrutin : coalition majoritaire, gouvernement minoritaire, union nationale ou nouvelle élection. Les sondages ne donnent de majorité claire à aucun bloc."
   },
   {
    "electionId": "il-2026",
@@ -1865,69 +1978,6 @@
    "summary": "Une moyenne de sept sondages donne les deux blocs à égalité, loin de la majorité. Les partis arabes progresseraient par rapport à la Knesset sortante."
   },
   {
-   "electionId": "br-2026-r2",
-   "lang": "fr",
-   "title": "Brésil: Lula et Bolsonaro cherchent à se disqualifier mutuellement, à quelques jours du second tour",
-   "source": "RFI",
-   "date": "2026-10-21",
-   "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261021-br%C3%A9sil-lula-et-bolsonaro-cherchent-%C3%A0-se-disqualifier-mutuellement-%C3%A0-quelques-jours-du-second-tour",
-   "summary": "Les deux camps ont saisi la justice électorale pour demander l'inéligibilité de l'adversaire. Le différend porte sur le rôle des plateformes de Meta dans la campagne."
-  },
-  {
-   "electionId": "br-2026-r2",
-   "lang": "en",
-   "title": "Bolsonaro's lead over Lula narrows ahead Brazil runoff, Quaest poll shows",
-   "source": "Reuters (via Yahoo News)",
-   "date": "2026-10-21",
-   "url": "https://sg.news.yahoo.com/bolsonaros-lead-over-lula-narrows-133031193.html",
-   "summary": "Premier sondage Quaest publié après le débat télévisé : Flávio Bolsonaro recule d'un point à 45 %, Lula reste à 44 %, un écart inférieur à la marge d'erreur."
-  },
-  {
-   "electionId": "rs-2026",
-   "lang": "fr",
-   "title": "Série Gen Z : en Serbie, les étudiants ont monté une liste électorale pour « créer un nouveau système »",
-   "source": "France Inter",
-   "date": "2026-10-20",
-   "url": "https://www.radiofrance.fr/franceinter/podcasts/le-reportage-d-un-jour-dans-le-monde/le-reportage-d-un-jour-dans-le-monde-du-mardi-20-octobre-2026-3760961",
-   "summary": "Reportage sur la liste étudiante, issue de deux ans de manifestations, qui présente 250 candidats de la société civile, dont une majorité de doctorants."
-  },
-  {
-   "electionId": "rs-2026",
-   "lang": "en",
-   "title": "As Serbia votes, students emerge as greatest threat to Vucic's long rule",
-   "source": "Reuters (via Internazionale)",
-   "date": "2026-10-21",
-   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/21/as-serbia-votes-students-emerge-as-greatest-threat-to-vucic-s-long-rule",
-   "summary": "Retour sur l'essor du mouvement étudiant né de l'effondrement de Novi Sad en 2024, devenu le principal adversaire d'Aleksandar Vučić. Les sondages divergent et les analystes s'interrogent sur la manière dont les étudiants gouverneraient."
-  },
-  {
-   "electionId": "bg-2026-p1",
-   "lang": "fr",
-   "title": "Sondage: 39% de participation à la présidentielle du 25 octobre",
-   "source": "Radio Bulgarie",
-   "date": "2026-10-21",
-   "url": "https://bnrnews.bg/fr/post/545144/sondage-39percent-de-participation-a-la-presidentielle-du-25-octobre",
-   "summary": "Selon Market Links pour bTV, la participation attendue est de 39 % et le ticket d'Iliana Iotova arrive en tête avec 47,3 %. Un second tour le 1er novembre apparaît très probable."
-  },
-  {
-   "electionId": "bg-2026-p1",
-   "lang": "en",
-   "title": "Bulgaria’s 2026 presidential elections: Yotova 47.3%, Gyurov 30.6%",
-   "source": "The Sofia Globe",
-   "date": "2026-10-21",
-   "url": "https://sofiaglobe.com/2026/10/21/bulgarias-2026-presidential-elections-yotova-47-3-gyurov-30-6-market-links-poll/",
-   "summary": "Le sondage Market Links réalisé du 13 au 19 octobre voit Andreï Guiourov progresser nettement depuis septembre, Iliana Iotova restant en tête sans atteindre la majorité absolue."
-  },
-  {
-   "electionId": "il-2026",
-   "lang": "fr",
-   "title": "Elections législatives israéliennes : Benny Gantz se retire de la course",
-   "source": "Radio J",
-   "date": "2026-10-19",
-   "url": "https://radioj.media-j.com/article/72287/elections-legislatives-israeliennes-benny-gantz-se-retire-de-la-course",
-   "summary": "Le chef de Bleu et Blanc renonce à huit jours du scrutin, les sondages plaçant son parti sous le seuil d'éligibilité."
-  },
-  {
    "electionId": "il-2026",
    "lang": "en",
    "title": "From malls to synagogues, Israel's parties battle for every vote with one week until election",
@@ -1939,56 +1989,38 @@
   {
    "electionId": "il-2026",
    "lang": "en",
-   "title": "Yashar ahead of Likud in election polls, but Knesset majority still out of reach for both - poll",
-   "source": "The Jerusalem Post (Maariv)",
-   "date": "2026-10-21",
-   "url": "https://www.jpost.com/israel-election-2026/article-912371",
-   "summary": "Synthèse de quatre sondages télévisés et en ligne : Yashar devance le Likoud, mais aucun bloc n'atteint les 61 sièges."
-  },
-  {
-   "electionId": "rs-2026",
-   "lang": "fr",
-   "title": "Serbie : des étudiants convergent vers Belgrade avant le dernier rassemblement électoral",
-   "source": "Boursorama (AFP)",
-   "date": "2026-10-22",
-   "url": "https://www.boursorama.com/actualite-economique/actualites/serbie-des-etudiants-convergent-vers-belgrade-avant-le-dernier-rassemblement-electoral-efeda7a9c0551e5c884bbee7a1a32b7d",
-   "summary": "Des colonnes d'étudiants rejoignent Belgrade pour le dernier rassemblement de la Liste étudiante, à trois jours des législatives anticipées du 25 octobre."
-  },
-  {
-   "electionId": "bg-2026-p1",
-   "lang": "en",
-   "title": "Presidential Candidates Iotova and Valchev Close Campaign in Plovdiv",
-   "source": "BTA",
-   "date": "2026-10-22",
-   "url": "https://www.bta.bg/en/news/bulgaria/1230740-presidential-candidates-iotova-and-valchev-close-campaign-in-plovdiv",
-   "summary": "La présidente sortante Iliana Iotova et son colistier Kiril Valchev achèvent leur campagne à Plovdiv, avant la journée de réflexion précédant le scrutin."
-  },
-  {
-   "electionId": "bg-2026-p1",
-   "lang": "en",
-   "title": "Presidential Ticket Gurov and Kandev Close Campaign in Plovdiv",
-   "source": "BTA",
-   "date": "2026-10-21",
-   "url": "https://www.bta.bg/en/news/bulgaria/1229843-presidential-ticket-gurov-and-kandev-close-campaign-in-plovdiv",
-   "summary": "Le binôme Andreï Guiourov – Georgi Kandev clôt à son tour sa campagne à Plovdiv, deux jours avant la fin légale de la campagne."
-  },
-  {
-   "electionId": "il-2026",
-   "lang": "en",
-   "title": "New Polls Show Eisenkot Ahead, Two Parties at Edge of Electoral Threshold",
-   "source": "Haaretz",
-   "date": "2026-10-22",
-   "url": "https://www.haaretz.com/israel-news/elections/2026-10-22/ty-article/new-polls-show-eisenkot-bloc-leading-netanyahus-but-short-of-majority/000001a1-61de-d3a9-a9bb-69ff31b00000",
-   "summary": "Deux nouveaux sondages télévisés placent le bloc mené par Gadi Eisenkot devant celui de Benyamin Netanyahou, sans majorité de 61 sièges ; deux petites listes restent proches du seuil."
-  },
-  {
-   "electionId": "il-2026",
-   "lang": "en",
    "title": "Israel Election: Neither Netanyahu nor his Opponents Are Expected to Win Outright",
    "source": "Foreign Policy",
    "date": "2026-10-20",
    "url": "https://foreignpolicy.com/2026/10/20/israel-election-netanyahu-eisenkot-trump-palestinians-gaza/",
    "summary": "Analyse des enjeux du scrutin du 27 octobre : aucun des deux camps n'est attendu avec une majorité nette, ce qui ouvre la voie à des négociations de coalition."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "Spain's Sánchez calls snap election for 29 November after housing defeat",
+   "source": "Euronews",
+   "date": "2026-10-05",
+   "url": "https://www.euronews.com/2026/10/05/pedro-sanchez-calls-early-elections-in-spain-after-defeat-of-housing-decrees",
+   "summary": "Pedro Sánchez convoque des élections anticipées après le rejet par le Congrès de deux décrets sur le logement."
+  },
+  {
+   "electionId": "bg-2026-p1",
+   "lang": "en",
+   "title": "Bulgaria heads to presidential election amid Black Sea tensions, with Iliana Iotova leading polls",
+   "source": "ProtoThema English",
+   "date": "2026-10-23",
+   "url": "https://en.protothema.gr/2026/10/23/bulgaria-heads-to-presidential-election-amid-black-sea-tensions-with-iliana-iotova-leading-polls/",
+   "summary": "Vue depuis la presse grecque, la veille du premier tour : Iliana Iotova resterait en tête des intentions de vote, devant Andreï Guiourov puis Kostadin Kostadinov, dans un contexte de tensions en mer Noire."
+  },
+  {
+   "electionId": "il-2026",
+   "lang": "en",
+   "title": "Last polls before election put Eisenkot ahead of Netanyahu as both lack majority",
+   "source": "Haaretz",
+   "date": "2026-10-24",
+   "url": "https://www.haaretz.com/israel-news/elections/2026-10-24/ty-article-live/last-polls-before-election-put-eisenkot-ahead-of-netanyahu-as-both-lack-majority/000001a1-6b76-d9e6-a5b1-6f7fd3320000",
+   "summary": "Le suivi en direct de Haaretz fait le point sur les derniers sondages avant la fin de la période de publication autorisée : selon le quotidien, ni le bloc de Benyamin Netanyahou ni celui de Gadi Eisenkot n'atteindrait 61 sièges."
   }
  ]
 }
