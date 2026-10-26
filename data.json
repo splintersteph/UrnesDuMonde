@@ -100,7 +100,7 @@
    "region": "Europe",
    "type": "Présidentielle",
    "body": "Président et vice-président (1er tour)",
-   "note": "27 candidats. Aucun candidat n'a dépassé 50 % le 25 octobre, dans un contexte de participation très faible : Iliana Iotova et Andreï Guiourov se qualifient pour le second tour du 1er novembre. Les résultats définitifs n'étaient pas encore publiés.",
+   "note": "27 candidats. Aucun candidat n'a dépassé 50 % le 25 octobre, avec une participation très faible : après traitement de 95,29 % des procès-verbaux, Iliana Iotova (34,6 %) devance Andreï Guiourov (32,0 %) et Kostadin Kostadinov (12,7 %). Second tour le 1er novembre ; résultats officiels attendus d'ici le 27 octobre.",
    "series": [
     "Iliana Iotova",
     "Andreï Guiourov",
@@ -183,8 +183,8 @@
    "region": "Europe",
    "type": "Présidentielle",
    "body": "Président (2d tour)",
-   "note": "Second tour entre la présidente en exercice Iliana Iotova et l'ancien Premier ministre intérimaire Andreï Guiourov. Au premier tour, Iotova arrivait en tête de peu selon les premiers dépouillements ; les décomptes parallèles des instituts divergent et le résultat officiel n'était pas encore publié.",
-   "source": "https://www.cnn.com/2026/10/25/europe/bulgaria-presidential-race-heads-to-runoff-latam-intl",
+   "note": "Second tour entre la présidente en exercice Iliana Iotova et l'ancien Premier ministre intérimaire Andreï Guiourov. Après traitement de 95,29 % des procès-verbaux, la Commission électorale centrale donnait 34,6 % à Iotova et 32,0 % à Guiourov au premier tour ; les résultats officiels sont attendus d'ici le 27 octobre.",
+   "source": "https://www.bta.bg/en/news/bulgaria/1232658-after-95-29-of-tally-sheets-processed-2-6-gap-between-first-two-tickets-in-bu",
    "series": [
     "Iliana Iotova",
     "Andreï Guiourov"
@@ -1992,33 +1992,6 @@
    "summary": "Le sondage Market Links réalisé du 13 au 19 octobre voit Andreï Guiourov progresser nettement depuis septembre, Iliana Iotova restant en tête sans atteindre la majorité absolue."
   },
   {
-   "electionId": "il-2026",
-   "lang": "en",
-   "title": "New Polls Show Eisenkot Ahead, Two Parties at Edge of Electoral Threshold",
-   "source": "Haaretz",
-   "date": "2026-10-22",
-   "url": "https://www.haaretz.com/israel-news/elections/2026-10-22/ty-article/new-polls-show-eisenkot-bloc-leading-netanyahus-but-short-of-majority/000001a1-61de-d3a9-a9bb-69ff31b00000",
-   "summary": "Deux nouveaux sondages télévisés placent le bloc mené par Gadi Eisenkot devant celui de Benyamin Netanyahou, sans majorité de 61 sièges ; deux petites listes restent proches du seuil."
-  },
-  {
-   "electionId": "il-2026",
-   "lang": "en",
-   "title": "Final Israeli polls point to stalemate ahead of Tuesday's election",
-   "source": "Jewish Insider",
-   "date": "2026-10-22",
-   "url": "https://jewishinsider.com/2026/10/final-israeli-polls-stalemate-tuesdays-election/",
-   "summary": "Synthèse des derniers sondages : aucun bloc n'atteint 61 sièges dans la moyenne générale, tandis que les enquêtes de Channel 14 et i24NEWS se distinguent par des chiffres plus favorables au camp de Benyamin Netanyahou."
-  },
-  {
-   "electionId": "il-2026",
-   "lang": "en",
-   "title": "Netanyahu and Eisenkot in dead heat five days before election, final ToI poll shows",
-   "source": "The Times of Israel",
-   "date": "2026-10-22",
-   "url": "https://www.timesofisrael.com/netanyahu-and-eisenkot-in-dead-heat-five-days-before-election-final-toi-poll-shows/",
-   "summary": "Le dernier sondage Zman Yisrael donne 51 sièges à chacun des deux blocs, loin des 61 nécessaires. Yashar devance le Likoud de deux sièges."
-  },
-  {
    "electionId": "es-2026",
    "lang": "en",
    "title": "Spain's Sánchez calls snap election for 29 November after housing defeat",
@@ -2278,6 +2251,69 @@
    "date": "2026-10-25",
    "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader",
    "summary": "Aleksandar Vučić admet que sa liste est battue par la Liste étudiante, dans un scrutin à la participation décrite comme la plus forte depuis des décennies."
+  },
+  {
+   "electionId": "il-2026",
+   "lang": "fr",
+   "title": "Élections en Israël: Trump soutient Netanyahu, Eisenkot prône l'unité",
+   "source": "Le Matin (AFP)",
+   "date": "2026-10-26",
+   "url": "https://www.lematin.ch/story/etats-unis-trump-appelle-a-voter-pour-le-guerrier-exceptionnel-netanyahu-103656413",
+   "summary": "À la veille du scrutin, Donald Trump appelle publiquement à voter pour Benyamin Netanyahou, tandis que Gadi Eisenkot, au coude-à-coude dans les sondages, plaide pour la réconciliation nationale lors de son dernier meeting à Tel-Aviv."
+  },
+  {
+   "electionId": "il-2026",
+   "lang": "en",
+   "title": "Israel election 2026: Netanyahu's rivals, key parties and what's at stake",
+   "source": "Business Standard",
+   "date": "2026-10-26",
+   "url": "https://www.business-standard.com/amp/world-news/israel-election-2026-netanyahu-s-rivals-key-parties-and-what-s-at-stake-126102600126_1.html",
+   "summary": "Présentation des principaux adversaires de Benyamin Netanyahou et des enjeux du vote (7-Octobre, guerre à Gaza, exemptions militaires des ultraorthodoxes). Les derniers sondages laissent entrevoir une impasse, les petits partis pouvant arbitrer la formation du gouvernement."
+  },
+  {
+   "electionId": "il-2026",
+   "lang": "en",
+   "title": "Israel Election 2026: Gadi Eisenkot leads Benjamin Netanyahu but Knesset deadlock looms",
+   "source": "The Jerusalem Post (Maariv)",
+   "date": "2026-10-25",
+   "url": "https://www.jpost.com/israel-election-2026/article-912743",
+   "summary": "Récapitulatif des quatre derniers sondages publiés avant l'interdiction légale : Yashar devance de peu le Likoud, mais aucun bloc n'atteint les 61 sièges ; le parti d'Ofer Winter est donné juste sous le seuil de 3,25 %."
+  },
+  {
+   "electionId": "bg-2026-p2",
+   "lang": "fr",
+   "title": "Présidentielle en Bulgarie: Iliana Iotova arrive en tête mais déçoit son camp",
+   "source": "L'essentiel (AFP)",
+   "date": "2026-10-25",
+   "url": "https://www.lessentiel.lu/fr/story/bulgarie-la-presidente-sortante-en-tete-au-1er-tour-des-presidentielles-103656360",
+   "summary": "Selon les sondages de sortie des urnes, la présidente sortante obtient entre 35 et 36,5 % au premier tour, un score inférieur aux attentes de son camp. Elle affrontera Andreï Guiourov, soutenu par l'opposition pro-occidentale, le dimanche suivant."
+  },
+  {
+   "electionId": "bg-2026-p2",
+   "lang": "fr",
+   "title": "La présidente bulgare sortante en tête de l'élection présidentielle, mais un second tour sera nécessaire",
+   "source": "Xinhua (édition française)",
+   "date": "2026-10-26",
+   "url": "http://french.xinhuanet.com/20261026/8266604e182e4e97a893b0a8a182519a/c.html",
+   "summary": "Dépêche sur les sondages de sortie des urnes, qui donnent environ 35 % à Iliana Iotova et 32 % à Andreï Guiourov, avec une participation d'environ 22 %. Les résultats officiels sont attendus d'ici mardi soir."
+  },
+  {
+   "electionId": "bg-2026-p2",
+   "lang": "en",
+   "title": "After 95.29% of Tally Sheets Processed: 2.6% Gap Between First Two Tickets in Bulgaria's Presidential Elections",
+   "source": "BTA",
+   "date": "2026-10-26",
+   "url": "https://www.bta.bg/en/news/bulgaria/1232658-after-95-29-of-tally-sheets-processed-2-6-gap-between-first-two-tickets-in-bu",
+   "summary": "Selon le décompte partiel de la Commission électorale centrale, le ticket Iotova-Valtchev obtient 34,6 % contre 32,0 % pour Guiourov-Kandev, devant Kostadin Kostadinov (12,7 %). Le second tour est fixé au 1er novembre."
+  },
+  {
+   "electionId": "bg-2026-p2",
+   "lang": "en",
+   "title": "Presidential elections in Bulgaria: President Iotova wins narrowly, the fight will be decided in the second round",
+   "source": "Spotmedia (Roumanie)",
+   "date": "2026-10-25",
+   "url": "https://spotmedia.ro/en/news/news/presidential-elections-in-bulgaria-president-iotova-wins-narrowly-the-fight-will-be-decided-in-the-second-round",
+   "summary": "Vu de Roumanie voisine, compte rendu du premier tour : la présidente sortante devance de peu l'ancien Premier ministre intérimaire, les deux candidats devant se départager une semaine plus tard."
   }
  ],
  "results": [
@@ -2344,10 +2380,24 @@
    "region": "Europe",
    "type": "Présidentielle",
    "body": "Président et vice-président (1er tour)",
-   "status": "en attente",
-   "rows": [],
-   "note": "Aucun candidat au-dessus de 50 % : Iliana Iotova et Andreï Guiourov se qualifient pour le second tour du 1er novembre. Résultats officiels non encore publiés.",
-   "source": "https://www.cnn.com/2026/10/25/europe/bulgaria-presidential-race-heads-to-runoff-latam-intl"
+   "status": "provisoire",
+   "rows": [
+    {
+     "name": "Iliana Iotova",
+     "value": 34.6
+    },
+    {
+     "name": "Andreï Guiourov",
+     "value": 32.0
+    },
+    {
+     "name": "Kostadin Kostadinov",
+     "value": 12.7
+    }
+   ],
+   "note": "Aucun candidat au-dessus de 50 % : second tour le 1er novembre entre Iotova et Guiourov. Résultats officiels attendus d'ici le 27 octobre.",
+   "source": "https://www.bta.bg/en/news/bulgaria/1232658-after-95-29-of-tally-sheets-processed-2-6-gap-between-first-two-tickets-in-bu",
+   "base": "Suffrages exprimés, 95,29 % des procès-verbaux traités (CEC)"
   }
  ]
 }
