@@ -2279,5 +2279,75 @@
    "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader",
    "summary": "Aleksandar Vučić admet que sa liste est battue par la Liste étudiante, dans un scrutin à la participation décrite comme la plus forte depuis des décennies."
   }
+ ],
+ "results": [
+  {
+   "id": "br-2026-r2",
+   "date": "2026-10-25",
+   "country": "Brésil",
+   "region": "Amériques",
+   "type": "Présidentielle",
+   "body": "Président de la République (2d tour)",
+   "status": "officiel",
+   "base": "Suffrages exprimés",
+   "rows": [
+    {
+     "name": "Lula",
+     "value": 51.79
+    },
+    {
+     "name": "Flávio Bolsonaro",
+     "value": 48.21
+    }
+   ],
+   "note": "Lula obtient un quatrième mandat. Flávio Bolsonaro ne reconnaît pas le résultat.",
+   "source": "https://www.cbsnews.com/news/brazil-presidential-runoff-lula-flavio-bolsonaro/"
+  },
+  {
+   "id": "br-2026-r1",
+   "date": "2026-10-04",
+   "country": "Brésil",
+   "region": "Amériques",
+   "type": "Présidentielle",
+   "body": "Président de la République (1er tour)",
+   "status": "officiel",
+   "base": "Suffrages exprimés (deux premiers candidats)",
+   "rows": [
+    {
+     "name": "Flávio Bolsonaro",
+     "value": 47.03
+    },
+    {
+     "name": "Lula",
+     "value": 45.16
+    }
+   ],
+   "note": "Aucun candidat n'a atteint la majorité absolue ; second tour le 25 octobre.",
+   "source": "https://en.wikipedia.org/wiki/2026_Brazilian_general_election"
+  },
+  {
+   "id": "rs-2026",
+   "date": "2026-10-25",
+   "country": "Serbie",
+   "region": "Europe",
+   "type": "Législatives",
+   "body": "Assemblée nationale, 250 sièges (anticipées)",
+   "status": "en attente",
+   "rows": [],
+   "note": "Aleksandar Vučić a reconnu la défaite de sa liste face à la Liste étudiante. Résultats officiels non encore publiés.",
+   "source": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader"
+  },
+  {
+   "id": "bg-2026-p1",
+   "date": "2026-10-25",
+   "country": "Bulgarie",
+   "region": "Europe",
+   "type": "Présidentielle",
+   "body": "Président et vice-président (1er tour)",
+   "status": "en attente",
+   "rows": [],
+   "note": "Aucun candidat au-dessus de 50 % : Iliana Iotova et Andreï Guiourov se qualifient pour le second tour du 1er novembre. Résultats officiels non encore publiés.",
+   "source": "https://www.cnn.com/2026/10/25/europe/bulgaria-presidential-race-heads-to-runoff-latam-intl"
+  }
  ]
 }
