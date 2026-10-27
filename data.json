@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-26",
+ "updated": "2026-10-27",
  "elections": [
   {
    "id": "br-2026-r2",
@@ -100,7 +100,7 @@
    "region": "Europe",
    "type": "Présidentielle",
    "body": "Président et vice-président (1er tour)",
-   "note": "27 candidats. Aucun candidat n'a dépassé 50 % le 25 octobre, avec une participation très faible : après traitement de 95,29 % des procès-verbaux, Iliana Iotova (34,6 %) devance Andreï Guiourov (32,0 %) et Kostadin Kostadinov (12,7 %). Second tour le 1er novembre ; résultats officiels attendus d'ici le 27 octobre.",
+   "note": "27 candidats, participation très faible (environ 22,5 %). Aucun candidat n'a dépassé 50 % le 25 octobre : après traitement de 99,94 % des bulletins, Iliana Iotova (34,8 %) devance Andreï Guiourov (31,9 %). Second tour le 1er novembre.",
    "series": [
     "Iliana Iotova",
     "Andreï Guiourov",
@@ -183,8 +183,8 @@
    "region": "Europe",
    "type": "Présidentielle",
    "body": "Président (2d tour)",
-   "note": "Second tour entre la présidente en exercice Iliana Iotova et l'ancien Premier ministre intérimaire Andreï Guiourov. Après traitement de 95,29 % des procès-verbaux, la Commission électorale centrale donnait 34,6 % à Iotova et 32,0 % à Guiourov au premier tour ; les résultats officiels sont attendus d'ici le 27 octobre.",
-   "source": "https://www.bta.bg/en/news/bulgaria/1232658-after-95-29-of-tally-sheets-processed-2-6-gap-between-first-two-tickets-in-bu",
+   "note": "Second tour entre la présidente en exercice Iliana Iotova et l'ancien Premier ministre intérimaire Andreï Guiourov. Au premier tour, après traitement de 99,94 % des bulletins, Iotova a obtenu 34,8 % et Guiourov 31,9 %.",
+   "source": "https://balkaninsight.com/2026/10/26/bulgarias-presidential-election-heads-to-runoff-after-record-low-turnout/bi/",
    "series": [
     "Iliana Iotova",
     "Andreï Guiourov"
@@ -208,7 +208,14 @@
      "credit": "auteur inconnu",
      "license": "CC BY 4.0"
     }
-   ]
+   ],
+   "reference": {
+    "label": "Résultat du 1er tour, 25 oct. (99,94 % des bulletins traités)",
+    "values": {
+     "Iliana Iotova": 34.8,
+     "Andreï Guiourov": 31.9
+    }
+   }
   },
   {
    "id": "us-2026",
@@ -2083,24 +2090,6 @@
   },
   {
    "electionId": "il-2026",
-   "lang": "fr",
-   "title": "PORTRAIT-ISRAEL/ELECTIONS-Eisenkot concurrence Netanyahu en incarnation de la sécurité d'Israël",
-   "source": "Boursorama (Reuters)",
-   "date": "2026-10-23",
-   "url": "https://www.boursorama.com/actualite-economique/actualites/portrait-israel-elections-eisenkot-concurrence-netanyahu-en-incarnation-de-la-securite-d-israel-a73da298979820d9670322c17103fa0d",
-   "summary": "Portrait de Gadi Eisenkot, ancien chef d'état-major dont le parti Yashar devance le Likoud dans les sondages, et de sa stratégie de campagne centrée sur la sécurité."
-  },
-  {
-   "electionId": "il-2026",
-   "lang": "en",
-   "title": "Final 100 hours: Netanyahu rallies Likud strongholds as Eisenkot and Bennett chase swing voters",
-   "source": "Ynetnews",
-   "date": "2026-10-23",
-   "url": "https://www.ynetnews.com/article/rjgschongx",
-   "summary": "Tour d'horizon des derniers jours de campagne : Benyamin Netanyahou mobilise l'électorat du Likoud dans une vingtaine de villes, tandis que Gadi Eisenkot et Naftali Bennett ciblent les indécis et la périphérie."
-  },
-  {
-   "electionId": "il-2026",
    "lang": "en",
    "title": "Israelis are heading to the polls in their most seismic election in decades",
    "source": "ABC News (Australie)",
@@ -2314,6 +2303,42 @@
    "date": "2026-10-25",
    "url": "https://spotmedia.ro/en/news/news/presidential-elections-in-bulgaria-president-iotova-wins-narrowly-the-fight-will-be-decided-in-the-second-round",
    "summary": "Vu de Roumanie voisine, compte rendu du premier tour : la présidente sortante devance de peu l'ancien Premier ministre intérimaire, les deux candidats devant se départager une semaine plus tard."
+  },
+  {
+   "electionId": "bg-2026-p2",
+   "lang": "en",
+   "title": "Bulgaria's Presidential Election Heads to Runoff After Record Low Turnout",
+   "source": "Balkan Insight",
+   "date": "2026-10-26",
+   "url": "https://balkaninsight.com/2026/10/26/bulgarias-presidential-election-heads-to-runoff-after-record-low-turnout/bi/",
+   "summary": "Après traitement de 99,94 % des bulletins, Iliana Iotova (34,8 %) devance Andreï Guiourov (31,9 %) ; la participation, d'environ 22,5 %, est la plus faible jamais enregistrée pour une présidentielle bulgare."
+  },
+  {
+   "electionId": "bg-2026-p2",
+   "lang": "en",
+   "title": "Presidential race in Bulgaria heads to runoff due to record low turnout",
+   "source": "PBS NewsHour (AP)",
+   "date": "2026-10-25",
+   "url": "https://www.pbs.org/newshour/world/presidential-race-in-bulgaria-heads-to-runoff-due-to-record-low-turnout",
+   "summary": "Aucun candidat n'ayant obtenu la majorité, un second tour est nécessaire ; la dépêche souligne le niveau très bas de la participation."
+  },
+  {
+   "electionId": "il-2026",
+   "lang": "en",
+   "title": "What happens on Israeli election day?",
+   "source": "The National",
+   "date": "2026-10-26",
+   "url": "https://www.thenationalnews.com/news/mena/2026/10/26/what-happens-on-israeli-election-day/",
+   "summary": "Présentation du déroulement du scrutin du 27 octobre : les chaînes diffusent leurs sondages à la sortie des urnes à 22 h et les résultats officiels sont attendus au plus tard le 4 novembre."
+  },
+  {
+   "electionId": "il-2026",
+   "lang": "en",
+   "title": "Israeli election draws tens of thousands of citizens flying back to vote",
+   "source": "CNBC",
+   "date": "2026-10-27",
+   "url": "https://www.cnbc.com/2026/10/27/israeli-election-citizens-flying-back-vote.html",
+   "summary": "Plusieurs dizaines de milliers d'Israéliens vivant à l'étranger sont rentrés pour voter, dans un scrutin que les derniers sondages donnaient très serré entre les deux blocs."
   }
  ],
  "results": [
@@ -2384,20 +2409,16 @@
    "rows": [
     {
      "name": "Iliana Iotova",
-     "value": 34.6
+     "value": 34.8
     },
     {
      "name": "Andreï Guiourov",
-     "value": 32.0
-    },
-    {
-     "name": "Kostadin Kostadinov",
-     "value": 12.7
+     "value": 31.9
     }
    ],
-   "note": "Aucun candidat au-dessus de 50 % : second tour le 1er novembre entre Iotova et Guiourov. Résultats officiels attendus d'ici le 27 octobre.",
-   "source": "https://www.bta.bg/en/news/bulgaria/1232658-after-95-29-of-tally-sheets-processed-2-6-gap-between-first-two-tickets-in-bu",
-   "base": "Suffrages exprimés, 95,29 % des procès-verbaux traités (CEC)"
+   "note": "Aucun candidat au-dessus de 50 % : second tour le 1er novembre entre Iotova et Guiourov. Participation d'environ 22,5 %.",
+   "source": "https://balkaninsight.com/2026/10/26/bulgarias-presidential-election-heads-to-runoff-after-record-low-turnout/bi/",
+   "base": "Suffrages exprimés, 99,94 % des bulletins traités"
   }
  ]
 }
