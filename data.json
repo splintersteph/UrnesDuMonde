@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28",
+ "updated": "2026-10-29",
  "elections": [
   {
    "id": "br-2026-r2",
@@ -1919,6 +1919,36 @@
    },
    "note": "Vote générique pour la Chambre (vote ou penchant) ; échantillon total de 1 679 adultes, nombre d'électeurs probables non précisé",
    "source": "https://www.ipsos.com/en-us/democrats-hold-9-point-edge-midterm-congressional-ballot"
+  },
+  {
+   "electionId": "bg-2026-p2",
+   "pollster": "Sova Harris (pour Trud)",
+   "fieldwork": "13–17 oct.",
+   "published": "2026-10-20",
+   "n": 1000,
+   "base": "Non précisée",
+   "unit": "%",
+   "values": {
+    "Iliana Iotova": 65.8,
+    "Andreï Guiourov": 34.2
+   },
+   "note": "Hypothèse de second tour mesurée avant le premier tour ; entretiens en face à face",
+   "source": "https://www.bta.bg/en/news/bulgaria/1228341-sova-harris-poll-gives-iotova-valchev-65-8-in-hypothetical-presidential-runoff-"
+  },
+  {
+   "electionId": "us-2026",
+   "pollster": "Marist (pour NPR/PBS News)",
+   "fieldwork": "19–20 oct.",
+   "published": "2026-10-27",
+   "n": 1289,
+   "base": "Électeurs probables",
+   "unit": "%",
+   "values": {
+    "Démocrates": 52,
+    "Républicains": 44
+   },
+   "note": "Vote générique pour le Congrès ; échantillon de 1 289 électeurs inscrits (avance démocrate de 10 points parmi eux), nombre d'électeurs probables non précisé",
+   "source": "https://maristpoll.marist.edu/polls/u-s-midterm-elections-october-2026/"
   }
  ],
  "articles": [
@@ -1993,15 +2023,6 @@
    "date": "2026-10-21",
    "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/21/as-serbia-votes-students-emerge-as-greatest-threat-to-vucic-s-long-rule",
    "summary": "Retour sur l'essor du mouvement étudiant né de l'effondrement de Novi Sad en 2024, devenu le principal adversaire d'Aleksandar Vučić. Les sondages divergent et les analystes s'interrogent sur la manière dont les étudiants gouverneraient."
-  },
-  {
-   "electionId": "us-2026",
-   "lang": "en",
-   "title": "United States Congress elections, 2026",
-   "source": "Ballotpedia",
-   "date": "2026-10-17",
-   "url": "https://ballotpedia.org/United_States_Congress_elections,_2026",
-   "summary": "Page de référence : sièges en jeu, majorités sortantes et calendrier des élections spéciales."
   },
   {
    "electionId": "fr-2027-r1",
@@ -2249,15 +2270,6 @@
   {
    "electionId": "bg-2026-p2",
    "lang": "fr",
-   "title": "Présidentielle en Bulgarie: Iliana Iotova arrive en tête mais déçoit son camp",
-   "source": "L'essentiel (AFP)",
-   "date": "2026-10-25",
-   "url": "https://www.lessentiel.lu/fr/story/bulgarie-la-presidente-sortante-en-tete-au-1er-tour-des-presidentielles-103656360",
-   "summary": "Selon les sondages de sortie des urnes, la présidente sortante obtient entre 35 et 36,5 % au premier tour, un score inférieur aux attentes de son camp. Elle affrontera Andreï Guiourov, soutenu par l'opposition pro-occidentale, le dimanche suivant."
-  },
-  {
-   "electionId": "bg-2026-p2",
-   "lang": "fr",
    "title": "La présidente bulgare sortante en tête de l'élection présidentielle, mais un second tour sera nécessaire",
    "source": "Xinhua (édition française)",
    "date": "2026-10-26",
@@ -2276,29 +2288,11 @@
   {
    "electionId": "bg-2026-p2",
    "lang": "en",
-   "title": "Presidential elections in Bulgaria: President Iotova wins narrowly, the fight will be decided in the second round",
-   "source": "Spotmedia (Roumanie)",
-   "date": "2026-10-25",
-   "url": "https://spotmedia.ro/en/news/news/presidential-elections-in-bulgaria-president-iotova-wins-narrowly-the-fight-will-be-decided-in-the-second-round",
-   "summary": "Vu de Roumanie voisine, compte rendu du premier tour : la présidente sortante devance de peu l'ancien Premier ministre intérimaire, les deux candidats devant se départager une semaine plus tard."
-  },
-  {
-   "electionId": "bg-2026-p2",
-   "lang": "en",
    "title": "Bulgaria's Presidential Election Heads to Runoff After Record Low Turnout",
    "source": "Balkan Insight",
    "date": "2026-10-26",
    "url": "https://balkaninsight.com/2026/10/26/bulgarias-presidential-election-heads-to-runoff-after-record-low-turnout/bi/",
    "summary": "Après traitement de 99,94 % des bulletins, Iliana Iotova (34,8 %) devance Andreï Guiourov (31,9 %) ; la participation, d'environ 22,5 %, est la plus faible jamais enregistrée pour une présidentielle bulgare."
-  },
-  {
-   "electionId": "bg-2026-p2",
-   "lang": "en",
-   "title": "Presidential race in Bulgaria heads to runoff due to record low turnout",
-   "source": "PBS NewsHour (AP)",
-   "date": "2026-10-25",
-   "url": "https://www.pbs.org/newshour/world/presidential-race-in-bulgaria-heads-to-runoff-due-to-record-low-turnout",
-   "summary": "Aucun candidat n'ayant obtenu la majorité, un second tour est nécessaire ; la dépêche souligne le niveau très bas de la participation."
   },
   {
    "electionId": "il-2026",
@@ -2443,6 +2437,87 @@
    "date": "2026-10-27",
    "url": "https://www.jpost.com/israel-election-2026/article-913053",
    "summary": "Le quotidien présente les estimations de sortie des urnes, qui ne donnent de majorité à aucun des deux camps."
+  },
+  {
+   "electionId": "bg-2026-p2",
+   "lang": "fr",
+   "title": "Bulgarie : le second tour entre Iotova et Gyurov officiellement confirmé",
+   "source": "LaPresse (Italie)",
+   "date": "2026-10-26",
+   "url": "https://fr.lapresse.it/etranger-fr/2026/10/26/bulgarie-le-second-tour-entre-iotova-et-gyurov-officiellement-confirme/",
+   "summary": "L'agence italienne fait le point sur le dépouillement du premier tour, qui place Iliana Iotova devant Andreï Guiourov et rend nécessaire un second tour le 1er novembre. Elle relève une participation historiquement basse."
+  },
+  {
+   "electionId": "us-2026",
+   "lang": "fr",
+   "title": "Les élections américaines de mi-mandat en chiffres",
+   "source": "AFP (Boursorama)",
+   "date": "2026-10-27",
+   "url": "https://www.boursorama.com/actualite-economique/actualites/les-elections-americaines-de-mi-mandat-en-chiffres-1f1be32ebf383a6d46957f728f54dc84",
+   "summary": "Panorama chiffré du scrutin du 3 novembre : sièges en jeu à la Chambre et au Sénat, état des sondages et dépenses publicitaires record. La dépêche évoque aussi les enjeux pour la présidence en cas de changement de majorité."
+  },
+  {
+   "electionId": "us-2026",
+   "lang": "en",
+   "title": "What our final poll before Election Day says about midterms and Trump",
+   "source": "PBS News",
+   "date": "2026-10-27",
+   "url": "https://www.pbs.org/newshour/politics/poll-likely-voters-favor-democrats-as-trump-disapproval-drives-early-turnout",
+   "summary": "Présentation du dernier sondage PBS News/NPR/Marist avant le scrutin, qui donne l'avantage aux démocrates dans le vote générique parmi les électeurs probables. L'écart se resserre légèrement chez les électeurs inscrits par rapport au mois précédent."
+  },
+  {
+   "electionId": "us-2026",
+   "lang": "en",
+   "title": "CBS News poll finds Democrats still boosted by voters' economic concerns, but many don't think either party has a plan",
+   "source": "CBS News",
+   "date": "2026-10-25",
+   "url": "https://www.cbsnews.com/news/poll-house-estimate-midterm-elections-2026/",
+   "summary": "Le sondage CBS News/YouGov réalisé du 21 au 23 octobre examine le poids des préoccupations économiques dans le vote. Le modèle de la chaîne projette une majorité démocrate à la Chambre."
+  },
+  {
+   "electionId": "us-2026",
+   "lang": "en",
+   "title": "Democrats Hold Big Lead on Generic Ballot",
+   "source": "Political Wire",
+   "date": "2026-10-26",
+   "url": "https://politicalwire.com/2026/10/26/democrats-hold-big-lead-on-generic-ballot-2/",
+   "summary": "Billet de veille signalant l'avance des démocrates dans les intentions de vote générique pour la Chambre à une semaine du scrutin."
+  },
+  {
+   "electionId": "us-2026",
+   "lang": "en",
+   "title": "House Democrats Lead Generic Ballot By 9 Points, Seeking 218 Seats For Majority: how 8 outlets framed it",
+   "source": "Newscord",
+   "date": "2026-10-28",
+   "url": "https://newscord.org/article/house-democrats-lead-generic-ballot-by-9-points-seeking-218-seats-for-majority--Story_20261028_HowtotellifDemocratsb7636609",
+   "summary": "Comparaison de la manière dont huit médias présentent une avance démocrate d'environ neuf points dans les sondages et l'enjeu des 218 sièges de la majorité."
+  },
+  {
+   "electionId": "us-2026",
+   "lang": "en",
+   "title": "Generic Congressional Ballot: Latest Polls",
+   "source": "Silver Bulletin",
+   "date": "2026-10-28",
+   "url": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls",
+   "summary": "Moyenne des sondages de vote générique tenue à jour par le Silver Bulletin, avec un avantage démocrate d'environ neuf points au 28 octobre."
+  },
+  {
+   "electionId": "bg-2026-p2",
+   "lang": "en",
+   "title": "Bulgaria's Presidential Election Heads To Runoff After Record Low Turnout",
+   "source": "Eurasia Review",
+   "date": "2026-10-27",
+   "url": "https://www.eurasiareview.com/27102026-bulgarias-presidential-election-heads-to-runoff-after-record-low-turnout/",
+   "summary": "Compte rendu du premier tour, marqué par une participation très faible, et de l'opposition entre Iotova et Guiourov au second tour."
+  },
+  {
+   "electionId": "bg-2026-p2",
+   "lang": "en",
+   "title": "Explainer: Why Bulgaria's presidential election heads for runoff",
+   "source": "The Star (Malaisie)",
+   "date": "2026-10-27",
+   "url": "https://www.thestar.com.my/news/world/2026/10/27/explainer-why-bulgaria039s-presidential-election-heads-for-runoff",
+   "summary": "Article explicatif sur les raisons pour lesquelles aucun candidat n'a atteint la majorité absolue au premier tour et sur les enjeux du second tour."
   }
  ],
  "results": [
