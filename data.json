@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "elections": [
   {
    "id": "br-2026-r2",
@@ -146,7 +146,7 @@
    "region": "Moyen-Orient",
    "type": "Législatives",
    "body": "Knesset, 120 sièges",
-   "note": "Il faut 61 sièges pour gouverner. Les sondages placent le Likoud de Benyamin Netanyahou et Yashar de Gadi Eisenkot au coude-à-coude, sans majorité nette pour aucun bloc. Benny Gantz (Bleu et Blanc) a retiré sa candidature le 19 octobre. Au soir du 27 octobre, les estimations de sortie des urnes ne donnaient de majorité à aucun bloc ; le décompte officiel était en cours.",
+   "note": "Il faut 61 sièges pour gouverner. Les sondages placent le Likoud de Benyamin Netanyahou et Yashar de Gadi Eisenkot au coude-à-coude, sans majorité nette pour aucun bloc. Benny Gantz (Bleu et Blanc) a retiré sa candidature le 19 octobre. Au soir du 27 octobre, les estimations de sortie des urnes ne donnaient de majorité à aucun bloc ; le décompte officiel était en cours. Selon un décompte partiel (85,6 % des voix, hors votes à double enveloppe) rapporté par Ynet le 28 octobre, le bloc Netanyahou obtiendrait 53 sièges, celui de Gadi Eisenkot 48 et les partis arabes 19 ; les résultats officiels restent attendus.",
    "series": [
     "Bloc Netanyahou",
     "Opposition",
@@ -1949,6 +1949,36 @@
    },
    "note": "Vote générique pour le Congrès ; échantillon de 1 289 électeurs inscrits (avance démocrate de 10 points parmi eux), nombre d'électeurs probables non précisé",
    "source": "https://maristpoll.marist.edu/polls/u-s-midterm-elections-october-2026/"
+  },
+  {
+   "electionId": "us-2026",
+   "pollster": "YouGov (pour The Economist)",
+   "fieldwork": "23–26 oct.",
+   "published": "2026-10-27",
+   "n": 1440,
+   "base": "Électeurs inscrits",
+   "unit": "%",
+   "values": {
+    "Démocrates": 46,
+    "Républicains": 40
+   },
+   "note": "Vote générique pour le Congrès ; 1 430 répondants à la question",
+   "source": "https://data.ddhq.io/polls/2026/10/27/YouGov/The-Economist-National-2026-10-23-2026-10-26"
+  },
+  {
+   "electionId": "us-2026",
+   "pollster": "YouGov (pour CBS News)",
+   "fieldwork": "21–23 oct.",
+   "published": "2026-10-25",
+   "n": 2355,
+   "base": "Électeurs probables",
+   "unit": "%",
+   "values": {
+    "Démocrates": 53,
+    "Républicains": 45
+   },
+   "note": "Vote générique pour la Chambre ; échantillon total de 2 355 adultes, nombre d'électeurs probables non précisé (marge d'erreur ±3 points parmi eux)",
+   "source": "https://politicalwire.com/2026/10/25/democrats-maintain-lead-on-generic-ballot-2/"
   }
  ],
  "articles": [
@@ -2268,33 +2298,6 @@
    "summary": "Présentation des principaux adversaires de Benyamin Netanyahou et des enjeux du vote (7-Octobre, guerre à Gaza, exemptions militaires des ultraorthodoxes). Les derniers sondages laissent entrevoir une impasse, les petits partis pouvant arbitrer la formation du gouvernement."
   },
   {
-   "electionId": "bg-2026-p2",
-   "lang": "fr",
-   "title": "La présidente bulgare sortante en tête de l'élection présidentielle, mais un second tour sera nécessaire",
-   "source": "Xinhua (édition française)",
-   "date": "2026-10-26",
-   "url": "http://french.xinhuanet.com/20261026/8266604e182e4e97a893b0a8a182519a/c.html",
-   "summary": "Dépêche sur les sondages de sortie des urnes, qui donnent environ 35 % à Iliana Iotova et 32 % à Andreï Guiourov, avec une participation d'environ 22 %. Les résultats officiels sont attendus d'ici mardi soir."
-  },
-  {
-   "electionId": "bg-2026-p2",
-   "lang": "en",
-   "title": "After 95.29% of Tally Sheets Processed: 2.6% Gap Between First Two Tickets in Bulgaria's Presidential Elections",
-   "source": "BTA",
-   "date": "2026-10-26",
-   "url": "https://www.bta.bg/en/news/bulgaria/1232658-after-95-29-of-tally-sheets-processed-2-6-gap-between-first-two-tickets-in-bu",
-   "summary": "Selon le décompte partiel de la Commission électorale centrale, le ticket Iotova-Valtchev obtient 34,6 % contre 32,0 % pour Guiourov-Kandev, devant Kostadin Kostadinov (12,7 %). Le second tour est fixé au 1er novembre."
-  },
-  {
-   "electionId": "bg-2026-p2",
-   "lang": "en",
-   "title": "Bulgaria's Presidential Election Heads to Runoff After Record Low Turnout",
-   "source": "Balkan Insight",
-   "date": "2026-10-26",
-   "url": "https://balkaninsight.com/2026/10/26/bulgarias-presidential-election-heads-to-runoff-after-record-low-turnout/bi/",
-   "summary": "Après traitement de 99,94 % des bulletins, Iliana Iotova (34,8 %) devance Andreï Guiourov (31,9 %) ; la participation, d'environ 22,5 %, est la plus faible jamais enregistrée pour une présidentielle bulgare."
-  },
-  {
    "electionId": "il-2026",
    "lang": "en",
    "title": "What happens on Israeli election day?",
@@ -2377,24 +2380,6 @@
   },
   {
    "electionId": "us-2026",
-   "lang": "fr",
-   "title": "Midterms : tout savoir sur les élections américaines du 3 novembre",
-   "source": "Toute l'Europe",
-   "date": "2026-10-23",
-   "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/midterms-tout-savoir-sur-les-elections-americaines-du-3-novembre/",
-   "summary": "Présentation des élections de mi-mandat : renouvellement des 435 sièges de la Chambre et de 35 sièges du Sénat, deux chambres aujourd'hui à majorité républicaine. L'article évoque aussi l'avance démocrate dans un sondage Reuters/Ipsos de la mi-octobre."
-  },
-  {
-   "electionId": "us-2026",
-   "lang": "fr",
-   "title": "Midterms aux États-Unis : ce que les sondages récents laissent présager",
-   "source": "Atlantico",
-   "date": "2026-10-22",
-   "url": "https://atlantico.fr/article/decryptage/midterms-aux-etats-unis-ce-que-les-sondages-recents-laissent-presager-democrates-republicains-donald-trump-vote-opinion-citoyens-americains",
-   "summary": "Le politiste Paul Whiteley analyse les sondages récents, marqués par l'impopularité du président et l'inquiétude sur l'inflation. Les démocrates devancent les républicains pour la Chambre, la course au Sénat apparaissant plus serrée."
-  },
-  {
-   "electionId": "us-2026",
    "lang": "en",
    "title": "One week away, the stakes if the midterm elections loom large",
    "source": "News9 (Oklahoma)",
@@ -2468,15 +2453,6 @@
   {
    "electionId": "us-2026",
    "lang": "en",
-   "title": "CBS News poll finds Democrats still boosted by voters' economic concerns, but many don't think either party has a plan",
-   "source": "CBS News",
-   "date": "2026-10-25",
-   "url": "https://www.cbsnews.com/news/poll-house-estimate-midterm-elections-2026/",
-   "summary": "Le sondage CBS News/YouGov réalisé du 21 au 23 octobre examine le poids des préoccupations économiques dans le vote. Le modèle de la chaîne projette une majorité démocrate à la Chambre."
-  },
-  {
-   "electionId": "us-2026",
-   "lang": "en",
    "title": "Democrats Hold Big Lead on Generic Ballot",
    "source": "Political Wire",
    "date": "2026-10-26",
@@ -2518,6 +2494,60 @@
    "date": "2026-10-27",
    "url": "https://www.thestar.com.my/news/world/2026/10/27/explainer-why-bulgaria039s-presidential-election-heads-for-runoff",
    "summary": "Article explicatif sur les raisons pour lesquelles aucun candidat n'a atteint la majorité absolue au premier tour et sur les enjeux du second tour."
+  },
+  {
+   "electionId": "bg-2026-p2",
+   "lang": "en",
+   "title": "Bulgaria’s 2026 presidential elections: Yotova and Gyurov set for live television debate on October 29",
+   "source": "The Sofia Globe",
+   "date": "2026-10-28",
+   "url": "https://sofiaglobe.com/2026/10/28/bulgarias-2026-presidential-elections-yotova-and-gyurov-set-for-live-television-debate-on-october-29/",
+   "summary": "Les deux finalistes doivent débattre en direct sur la télévision publique BNT le 29 octobre. La commission électorale a également attribué à chacun un temps de parole sur la BNT le 30 octobre."
+  },
+  {
+   "electionId": "bg-2026-p2",
+   "lang": "en",
+   "title": "Bulgaria's presidential election: record-low turnout and a tight race in the first round",
+   "source": "OBC Transeuropa",
+   "date": "2026-10-26",
+   "url": "https://www.balcanicaucaso.org/en/cp_article/bulgarias-presidential-election-record-low-turnout-and-a-tight-race-in-the-first-round/",
+   "summary": "Analyse du premier tour, marqué par une participation historiquement faible et un faible écart entre Iliana Iotova et Andreï Guiourov. L'auteur estime l'issue du second tour ouverte, alors que les sondages prévoyaient une avance plus large de la présidente."
+  },
+  {
+   "electionId": "bg-2026-p2",
+   "lang": "fr",
+   "title": "Bulgarie : Iliana Iotova et Andrey Gyurov qualifiés pour le second tour de la présidentielle",
+   "source": "Le Brief (Maroc)",
+   "date": "2026-10-28",
+   "url": "https://www.lebrief.ma/bulgarie-iliana-iotova-et-andrey-gyurov-100171390/",
+   "summary": "La commission électorale centrale a confirmé le second tour du 1er novembre entre la présidente sortante et l'ancien Premier ministre intérimaire, aucun candidat n'ayant rempli les conditions d'une élection dès le premier tour."
+  },
+  {
+   "electionId": "us-2026",
+   "lang": "en",
+   "title": "US midterms: Six days left – who leads in the polls as Trump, Obama rally",
+   "source": "Al Jazeera",
+   "date": "2026-10-28",
+   "url": "https://www.aljazeera.com/news/2026/10/28/us-midterms-six-days-left-who-leads-in-the-polls-as-trump-obama-rally",
+   "summary": "Point sur les sondages à six jours du scrutin : les démocrates mènent au niveau national, mais plusieurs courses sénatoriales restent indécises. L'article recense aussi les déplacements de campagne des principales figures des deux partis."
+  },
+  {
+   "electionId": "us-2026",
+   "lang": "fr",
+   "title": "Elections de mi-mandat aux États-Unis - Les Démocrates rêvent d'une vague bleue sur le Congrès face à Trump",
+   "source": "DH (Belga)",
+   "date": "2026-10-28",
+   "url": "https://www.dhnet.be/dernieres-depeches/2026/10/28/elections-de-mi-mandat-aux-etats-unis-les-democrates-revent-dune-vague-bleue-sur-le-congres-face-a-trump-PEWQW4637FEPJIH5RXIINZQ7OI/",
+   "summary": "Dépêche de l'agence Belga présentant les enjeux du scrutin : les démocrates sont donnés favoris pour la Chambre, tandis que le contrôle du Sénat reste incertain."
+  },
+  {
+   "electionId": "us-2026",
+   "lang": "fr",
+   "title": "Midterms : à une semaine de l'élection, la cote de popularité de Donald Trump remonte légèrement, mais les démocrates sont toujours en tête",
+   "source": "Toute l'Europe",
+   "date": "2026-10-27",
+   "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/midterms-a-une-semaine-de-l-election-la-cote-de-popularite-de-donald-trump-remonte-legerement-mais-les-democrates-sont-toujours-en-tete/",
+   "summary": "Synthèse des derniers sondages sur la popularité du président et les intentions de vote, qui placent toujours les démocrates en tête. L'article relève que le scrutin prend l'allure d'un référendum sur l'action de la Maison-Blanche."
   }
  ],
  "results": [
@@ -2584,10 +2614,20 @@
    "region": "Europe",
    "type": "Législatives",
    "body": "Assemblée nationale, 250 sièges (anticipées)",
-   "status": "en attente",
-   "rows": [],
-   "note": "Aleksandar Vučić a reconnu la défaite de sa liste face à la Liste étudiante. Résultats officiels non encore publiés.",
-   "source": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader"
+   "status": "provisoire",
+   "rows": [
+    {
+     "name": "Liste étudiante",
+     "value": 52.54
+    },
+    {
+     "name": "Serbie unie (SNS)",
+     "value": 39.17
+    }
+   ],
+   "note": "Aleksandar Vučić a reconnu la défaite de sa liste face à la Liste étudiante. Décompte préliminaire ; la répartition officielle des sièges n'est pas encore confirmée.",
+   "source": "https://n1info.rs/english/news/election-commission-confirms-landslide-victory-for-student-list-in-preliminary-count/",
+   "base": "Suffrages exprimés, 8 077 bureaux sur 8 392 dépouillés (commission électorale, décompte préliminaire)"
   },
   {
    "id": "bg-2026-p1",
