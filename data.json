@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "elections": [
   {
    "id": "br-2026-r2",
@@ -183,7 +183,7 @@
    "region": "Europe",
    "type": "Présidentielle",
    "body": "Président (2d tour)",
-   "note": "Second tour entre la présidente en exercice Iliana Iotova et l'ancien Premier ministre intérimaire Andreï Guiourov. Au premier tour, selon la commission électorale centrale (100 % des procès-verbaux), Iotova a obtenu 34,76 % et Guiourov 31,95 %, pour une participation de 21,91 %.",
+   "note": "Second tour entre la présidente en exercice Iliana Iotova et l'ancien Premier ministre intérimaire Andreï Guiourov. Au premier tour, selon la commission électorale centrale (100 % des procès-verbaux), Iotova a obtenu 34,76 % et Guiourov 31,95 %, pour une participation de 21,91 %. Second tour du 1er novembre : selon les premiers résultats rapportés par la presse, Iotova l'emporte et Guiourov reconnaît sa défaite ; chiffres définitifs de la commission électorale non encore relevés.",
    "source": "https://bnrnews.bg/fr/post/548053/presidentielle-resultats-apres-depouillement-de-9995percent-des-proces-verbaux",
    "series": [
     "Iliana Iotova",
@@ -2069,6 +2069,36 @@
    },
    "note": "Vote pour un parti ; ACT 10,1 %, Opportunity 7,2 %, Te Pāti Māori 1,9 %",
    "source": "https://www.interest.co.nz/public-policy/140873/national-dips-248-labour-306-support-latest-rnz-poll"
+  },
+  {
+   "electionId": "us-2026",
+   "pollster": "ActiVote",
+   "fieldwork": "22–30 oct.",
+   "published": "2026-10-30",
+   "n": 2000,
+   "base": "Électeurs probables (choix forcé entre les deux partis)",
+   "unit": "%",
+   "values": {
+    "Démocrates": 53.5,
+    "Républicains": 46.5
+   },
+   "note": "Intentions de vote pour la Chambre (vote générique), dernier sondage de l'institut avant le scrutin",
+   "source": "https://www.activote.net/polls/generic-ballot/2026-10-30/"
+  },
+  {
+   "electionId": "us-2026",
+   "pollster": "Rasmussen Reports",
+   "fieldwork": "15 et 18–21 oct.",
+   "published": "2026-10-26",
+   "n": 1755,
+   "base": "Électeurs probables",
+   "unit": "%",
+   "values": {
+    "Démocrates": 48,
+    "Républicains": 43
+   },
+   "note": "Vote générique pour le Congrès ; 4 % pour un autre candidat, 6 % d'indécis",
+   "source": "https://www.rasmussenreports.com/public_content/politics/mood_of_america/generic_congressional_ballot"
   }
  ],
  "articles": [
@@ -2462,47 +2492,11 @@
   {
    "electionId": "us-2026",
    "lang": "en",
-   "title": "House Democrats Lead Generic Ballot By 9 Points, Seeking 218 Seats For Majority: how 8 outlets framed it",
-   "source": "Newscord",
-   "date": "2026-10-28",
-   "url": "https://newscord.org/article/house-democrats-lead-generic-ballot-by-9-points-seeking-218-seats-for-majority--Story_20261028_HowtotellifDemocratsb7636609",
-   "summary": "Comparaison de la manière dont huit médias présentent une avance démocrate d'environ neuf points dans les sondages et l'enjeu des 218 sièges de la majorité."
-  },
-  {
-   "electionId": "us-2026",
-   "lang": "en",
    "title": "Generic Congressional Ballot: Latest Polls",
    "source": "Silver Bulletin",
    "date": "2026-10-28",
    "url": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls",
    "summary": "Moyenne des sondages de vote générique tenue à jour par le Silver Bulletin, avec un avantage démocrate d'environ neuf points au 28 octobre."
-  },
-  {
-   "electionId": "bg-2026-p2",
-   "lang": "en",
-   "title": "Bulgaria's Presidential Election Heads To Runoff After Record Low Turnout",
-   "source": "Eurasia Review",
-   "date": "2026-10-27",
-   "url": "https://www.eurasiareview.com/27102026-bulgarias-presidential-election-heads-to-runoff-after-record-low-turnout/",
-   "summary": "Compte rendu du premier tour, marqué par une participation très faible, et de l'opposition entre Iotova et Guiourov au second tour."
-  },
-  {
-   "electionId": "bg-2026-p2",
-   "lang": "en",
-   "title": "Explainer: Why Bulgaria's presidential election heads for runoff",
-   "source": "The Star (Malaisie)",
-   "date": "2026-10-27",
-   "url": "https://www.thestar.com.my/news/world/2026/10/27/explainer-why-bulgaria039s-presidential-election-heads-for-runoff",
-   "summary": "Article explicatif sur les raisons pour lesquelles aucun candidat n'a atteint la majorité absolue au premier tour et sur les enjeux du second tour."
-  },
-  {
-   "electionId": "bg-2026-p2",
-   "lang": "en",
-   "title": "Bulgaria’s 2026 presidential elections: Yotova and Gyurov set for live television debate on October 29",
-   "source": "The Sofia Globe",
-   "date": "2026-10-28",
-   "url": "https://sofiaglobe.com/2026/10/28/bulgarias-2026-presidential-elections-yotova-and-gyurov-set-for-live-television-debate-on-october-29/",
-   "summary": "Les deux finalistes doivent débattre en direct sur la télévision publique BNT le 29 octobre. La commission électorale a également attribué à chacun un temps de parole sur la BNT le 30 octobre."
   },
   {
    "electionId": "bg-2026-p2",
@@ -2530,15 +2524,6 @@
    "date": "2026-10-28",
    "url": "https://www.dhnet.be/dernieres-depeches/2026/10/28/elections-de-mi-mandat-aux-etats-unis-les-democrates-revent-dune-vague-bleue-sur-le-congres-face-a-trump-PEWQW4637FEPJIH5RXIINZQ7OI/",
    "summary": "Dépêche de l'agence Belga présentant les enjeux du scrutin : les démocrates sont donnés favoris pour la Chambre, tandis que le contrôle du Sénat reste incertain."
-  },
-  {
-   "electionId": "us-2026",
-   "lang": "fr",
-   "title": "Midterms : à une semaine de l'élection, la cote de popularité de Donald Trump remonte légèrement, mais les démocrates sont toujours en tête",
-   "source": "Toute l'Europe",
-   "date": "2026-10-27",
-   "url": "https://www.touteleurope.eu/l-ue-dans-le-monde/midterms-a-une-semaine-de-l-election-la-cote-de-popularite-de-donald-trump-remonte-legerement-mais-les-democrates-sont-toujours-en-tete/",
-   "summary": "Synthèse des derniers sondages sur la popularité du président et les intentions de vote, qui placent toujours les démocrates en tête. L'article relève que le scrutin prend l'allure d'un référendum sur l'action de la Maison-Blanche."
   },
   {
    "electionId": "bg-2026-p2",
@@ -2660,14 +2645,71 @@
   {
    "electionId": "bg-2026-p2",
    "lang": "en",
-   "title": "Bulgarian incumbent president faces pro-Western reformist in runoff on Sunday",
-   "source": "La Nación (Argentine)",
-   "date": "2026-10-26",
-   "url": "https://www.lanacion.com.ar/usa/bulgarian-incumbent-president-faces-pro-western-reformist-in-runoff-on-sunday-nid26102026/",
-   "summary": "Présentation du second tour opposant la présidente sortante à son rival pro-occidental, après un premier tour plus serré que prévu."
+   "title": "Bulgarians vote in a presidential runoff marked by regional security threats",
+   "source": "Associated Press (News4JAX)",
+   "date": "2026-11-01",
+   "url": "https://www.news4jax.com/news/world/2026/11/01/bulgarians-vote-in-a-presidential-runoff-marked-by-regional-security-threats/",
+   "summary": "Les Bulgares départagent dimanche la présidente par intérim Iliana Iotova et l'ancien Premier ministre intérimaire Andreï Guiourov. Le scrutin se tient sur fond de difficultés économiques et d'attaques de drones en mer Noire, les deux candidats divergeant sur la Russie et l'Ukraine."
+  },
+  {
+   "electionId": "bg-2026-p2",
+   "lang": "fr",
+   "title": "Les Bulgares élisent leur président, sur fond de tensions",
+   "source": "LFM (Keystone-ATS / AFP)",
+   "date": "2026-11-01",
+   "url": "https://www.lfm.ch/actualite/international/les-bulgares-elisent-leur-president-sur-fond-de-tensions/",
+   "summary": "Dépêche d'agence sur l'ouverture du second tour de la présidentielle bulgare, dans un contexte de tensions accrues en mer Noire. Elle présente les positions respectives des deux finalistes à l'égard de Moscou et de l'Occident."
+  },
+  {
+   "electionId": "bg-2026-p2",
+   "lang": "en",
+   "title": "Bulgaria Faces Nov. 1 Presidential Runoff Amid Low Turnout",
+   "source": "Kyiv Post (TVP World)",
+   "date": "2026-10-31",
+   "url": "https://kyivpost.com/post/88758",
+   "summary": "Présentation du second tour, rendu nécessaire faute de majorité absolue au premier tour marqué par une participation historiquement basse. L'article rappelle l'écart serré entre les deux qualifiés et leurs divergences sur la guerre en Ukraine."
+  },
+  {
+   "electionId": "us-2026",
+   "lang": "en",
+   "title": "2026 elections live updates as Trump rallies Florida voters, El-Sayed clashes with Stevens",
+   "source": "CBS News",
+   "date": "2026-10-31",
+   "url": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
+   "summary": "Suivi en direct du dernier week-end de campagne, avec les meetings de Donald Trump et plusieurs contentieux électoraux en cours. Le fil évoque notamment une décision de justice en Californie et la course sénatoriale au Michigan."
+  },
+  {
+   "electionId": "us-2026",
+   "lang": "fr",
+   "title": "Élections de mi-mandat aux États-Unis : 'Les démocrates ont retourné la stratégie de Donald Trump contre lui'",
+   "source": "RTBF",
+   "date": "2026-10-30",
+   "url": "https://www.rtbf.be/article/elections-de-mi-mandat-aux-etats-unis-les-democrates-ont-retourne-la-strategie-de-donald-trump-contre-lui-11808063",
+   "summary": "Entretien avec l'historien Serge Jaumain (ULB) sur les rapports de force à l'approche du scrutin, dont les démocrates abordent la fin de campagne en position favorable selon les sondages. Il analyse la façon dont l'élection est devenue un vote sur le bilan présidentiel et les divisions possibles des démocrates d'ici 2028."
+  },
+  {
+   "electionId": "bg-2026-p2",
+   "lang": "en",
+   "title": "Initial results indicate victory for Iotova in Bulgarian presidential vote",
+   "source": "Al Jazeera",
+   "date": "2026-11-01",
+   "url": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show",
+   "summary": "Les premiers résultats du second tour donnent la présidente sortante Iliana Iotova en tête face à Andreï Guiourov, dans un scrutin marqué par une faible participation."
   }
  ],
  "results": [
+  {
+   "id": "bg-2026-p2",
+   "date": "2026-11-01",
+   "country": "Bulgarie",
+   "region": "Europe",
+   "type": "Présidentielle",
+   "body": "Président et vice-président (2d tour)",
+   "status": "en attente",
+   "rows": [],
+   "note": "Premiers résultats : Iliana Iotova en tête et élue selon la presse, Andreï Guiourov a reconnu sa défaite ; pourcentages définitifs de la commission électorale non encore relevés.",
+   "source": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show"
+  },
   {
    "id": "il-2026",
    "date": "2026-10-27",
