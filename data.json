@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "elections": [
   {
    "id": "br-2026-r2",
@@ -183,8 +183,8 @@
    "region": "Europe",
    "type": "Présidentielle",
    "body": "Président (2d tour)",
-   "note": "Second tour entre la présidente en exercice Iliana Iotova et l'ancien Premier ministre intérimaire Andreï Guiourov. Au premier tour, selon la commission électorale centrale (100 % des procès-verbaux), Iotova a obtenu 34,76 % et Guiourov 31,95 %, pour une participation de 21,91 %. Second tour du 1er novembre : selon les premiers résultats rapportés par la presse, Iotova l'emporte et Guiourov reconnaît sa défaite ; chiffres définitifs de la commission électorale non encore relevés.",
-   "source": "https://bnrnews.bg/fr/post/548053/presidentielle-resultats-apres-depouillement-de-9995percent-des-proces-verbaux",
+   "note": "Second tour entre la présidente en exercice Iliana Iotova et l'ancien Premier ministre intérimaire Andreï Guiourov. Au premier tour, selon la commission électorale centrale (100 % des procès-verbaux), Iotova a obtenu 34,76 % et Guiourov 31,95 %, pour une participation de 21,91 %. Second tour du 1er novembre : selon la commission électorale (99,68 % des procès-verbaux), Iotova l'emporte avec 57,66 % contre 39,38 % pour Guiourov ; 2,96 % pour l'option « Je ne soutiens personne ».",
+   "source": "https://frognews.bg/novini/tsik-pri-99-68procenta-obraboteni-protokoli-iotova-pecheli-57-66procenta-sreshtu-39-38procenta-giurov.html",
    "series": [
     "Iliana Iotova",
     "Andreï Guiourov"
@@ -2099,6 +2099,87 @@
    },
    "note": "Vote générique pour le Congrès ; 4 % pour un autre candidat, 6 % d'indécis",
    "source": "https://www.rasmussenreports.com/public_content/politics/mood_of_america/generic_congressional_ballot"
+  },
+  {
+   "electionId": "us-2026",
+   "pollster": "NBC News",
+   "fieldwork": "28–30 oct.",
+   "published": "2026-11-01",
+   "n": 1000,
+   "base": "Électeurs inscrits",
+   "unit": "%",
+   "values": {
+    "Démocrates": 52,
+    "Républicains": 45
+   },
+   "note": "Préférence pour le contrôle du Congrès ; marge d'erreur ±3,1 points ; entretiens par téléphone et en ligne",
+   "source": "https://www.yahoo.com/news/politics/articles/poll-voters-demand-change-check-140040957.html"
+  },
+  {
+   "electionId": "us-2026",
+   "pollster": "Big Data Poll",
+   "fieldwork": "27–30 oct.",
+   "published": "2026-10-31",
+   "n": 3214,
+   "base": "Non précisée (3 214 électeurs probables, 3 418 inscrits)",
+   "unit": "%",
+   "values": {
+    "Démocrates": 52.3,
+    "Républicains": 40.0
+   },
+   "note": "Vote générique pour le Congrès ; la publication ne précise pas sur quelle population porte ce chiffre",
+   "source": "https://www.bigdatapoll.com/blog/democrats-head-into-midterms-with-big-advantage-in-final-poll/"
+  },
+  {
+   "electionId": "nz-2026",
+   "pollster": "1News-Verian",
+   "fieldwork": "21–25 oct.",
+   "published": "2026-10-27",
+   "n": 1000,
+   "base": "Électeurs décidés",
+   "unit": "%",
+   "values": {
+    "National": 28.9,
+    "Labour": 27.3,
+    "Verts": 14.8,
+    "NZ First": 10.0
+   },
+   "note": "Vote pour un parti ; ACT 12,4 %, Opportunity 6,3 %, Te Pāti Māori 0,1 % ; 11 % d'indécis ou refus exclus",
+   "source": "https://www.1news.co.nz/2026/10/27/poll-coalition-has-path-to-power-but-labour-steady-amid-gangs-row/"
+  },
+  {
+   "electionId": "nz-2026",
+   "pollster": "1News-Verian",
+   "fieldwork": "15–19 oct.",
+   "published": "2026-10-20",
+   "n": 1003,
+   "base": "Électeurs décidés",
+   "unit": "%",
+   "values": {
+    "National": 32,
+    "Labour": 27,
+    "Verts": 16,
+    "NZ First": 8
+   },
+   "note": "Vote pour un parti ; ACT 11 %, Opportunity 7 %",
+   "source": "https://newswire.co.nz/2026/10/luxon-hipkins-final-leaders-debate-two-polls-opposite-directions/"
+  },
+  {
+   "electionId": "nz-2026",
+   "pollster": "Freshwater Strategy (pour The Post)",
+   "fieldwork": "9–19 oct.",
+   "published": "2026-10-20",
+   "n": 1458,
+   "base": "Non précisée",
+   "unit": "%",
+   "values": {
+    "National": 27.6,
+    "Labour": 28.7,
+    "Verts": 14.3,
+    "NZ First": 11.8
+   },
+   "note": "Vote pour un parti ; ACT 9 %, Opportunity 5,4 % ; réalisé en partenariat avec Infrastructure New Zealand",
+   "source": "https://newswire.co.nz/2026/10/luxon-hipkins-final-leaders-debate-two-polls-opposite-directions/"
   }
  ],
  "articles": [
@@ -2553,15 +2634,6 @@
    "summary": "Présentation des enjeux du scrutin du 3 novembre, dominé par la question du coût de la vie. Des politologues de l'UCLouvain jugent un basculement de la Chambre plus probable que celui du Sénat."
   },
   {
-   "electionId": "us-2026",
-   "lang": "en",
-   "title": "Live updates: Final week of early voting underway in Texas as Harris County sets record numbers",
-   "source": "ABC13 Houston",
-   "date": "2026-10-28",
-   "url": "https://abc13.com/live-updates/2026-midterm-election-early-voting-starts-monday-runs-oct-30-texas/19850056/",
-   "summary": "Suivi du vote anticipé au Texas, ouvert du 19 au 30 octobre, avec une participation record dans le comté de Harris. Plus de 4 millions de Texans avaient voté dès la première semaine."
-  },
-  {
    "electionId": "bg-2026-p2",
    "lang": "en",
    "title": "Presidential Candidates Iotova and Gurov Clash over Powers, Budget and Security",
@@ -2578,15 +2650,6 @@
    "date": "2026-10-30",
    "url": "https://balkaninsight.com/2026/10/30/bulgarias-presidential-race-heads-to-runoff-as-russia-divides-the-two-candidates/bi/",
    "summary": "Analyse du second tour bulgare, présenté comme marqué par des positions différentes des deux candidats à l'égard de la Russie."
-  },
-  {
-   "electionId": "bg-2026-p2",
-   "lang": "fr",
-   "title": "Bulgarie/présidentielle : la présidente sortante affrontera l'ancien PM par intérim au second tour",
-   "source": "Xinhua (français)",
-   "date": "2026-10-28",
-   "url": "http://french.xinhuanet.com/20261028/0307faf437614498915dcad62986f0b7/c.html",
-   "summary": "Dépêche sur les résultats définitifs du premier tour : Iliana Iotova a recueilli 528 951 voix contre 486 232 pour Andreï Guiourov. Environ 1,5 million des quelque 6,6 millions d'électeurs inscrits ont voté."
   },
   {
    "electionId": "us-2026",
@@ -2695,6 +2758,78 @@
    "date": "2026-11-01",
    "url": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show",
    "summary": "Les premiers résultats du second tour donnent la présidente sortante Iliana Iotova en tête face à Andreï Guiourov, dans un scrutin marqué par une faible participation."
+  },
+  {
+   "electionId": "us-2026",
+   "lang": "en",
+   "title": "Donald Trump makes final midterm campaign push",
+   "source": "The National",
+   "date": "2026-11-01",
+   "url": "https://www.thenationalnews.com/news/us/2026/11/01/donald-trump-makes-final-midterm-campaign-push/",
+   "summary": "À la veille du scrutin, Donald Trump tient des meetings en Iowa et au Kansas pour défendre les courtes majorités républicaines. L'article évoque une popularité présidentielle historiquement basse et des démocrates en tête dans plusieurs courses clés."
+  },
+  {
+   "electionId": "nz-2026",
+   "lang": "en",
+   "title": "New Zealand's two-speed economy poses election dilemma for ruling National party",
+   "source": "Reuters (Internazionale)",
+   "date": "2026-11-01",
+   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/01/new-zealand-s-two-speed-economy-poses-election-dilemma-for-ruling-national-party",
+   "summary": "Reuters analyse le poids de la reprise lente et du coût de la vie sur le Parti national, notamment dans les villes. Les sondages ne dessinent pas de majorité claire pour l'un ou l'autre bloc."
+  },
+  {
+   "electionId": "nz-2026",
+   "lang": "en",
+   "title": "At odds polling shows tightness of New Zealand election",
+   "source": "AAP (Yahoo News Australia)",
+   "date": "2026-10-29",
+   "url": "https://au.news.yahoo.com/odds-polling-shows-tightness-zealand-004126370.html",
+   "summary": "L'agence australienne compare des sondages divergents : le dernier relevé RNZ-Reid Research avantage le bloc de gauche, d'autres instituts donnent une image différente. Le parti Opportunity apparaît en position d'arbitre."
+  },
+  {
+   "electionId": "nz-2026",
+   "lang": "fr",
+   "title": "Le Premier ministre néo-zélandais, Christopher Luxon, conforté par son parti",
+   "source": "Le Petit Journal Nouvelle-Zélande",
+   "date": "2026-08-13",
+   "url": "https://lepetitjournal.com/nouvelle-zelande/le-premier-ministre-neo-zelandais-christopher-luxon-conforte-par-son-parti-450950",
+   "summary": "Après une contestation interne, Christopher Luxon a conservé la direction du Parti national lors d'un vote de confiance des députés le 12 août. L'article rappelle les modalités d'inscription pour les électeurs français éligibles avant le scrutin du 7 novembre."
+  },
+  {
+   "electionId": "bg-2026-p2",
+   "lang": "fr",
+   "title": "Iliana Iotova remporte la présidentielle bulgare avec un appel au dialogue",
+   "source": "20 minutes (AFP)",
+   "date": "2026-11-01",
+   "url": "https://www.20min.ch/fr/story/bulgarie-iliana-iotova-remporte-la-presidentielle-103660383",
+   "summary": "Selon les sondages de sortie des urnes, la présidente sortante remporte le second tour face à Andreï Guiourov, soutenu par l'opposition pro-occidentale. La dépêche présente les positions des deux candidats sur la guerre en Ukraine."
+  },
+  {
+   "electionId": "nz-2026",
+   "lang": "en",
+   "title": "New Zealand election polls continue to show no clear outcome",
+   "source": "Reuters (Internazionale)",
+   "date": "2026-10-28",
+   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/28/election-polls-in-new-zealand-continue-to-show-no-clear-outcome",
+   "summary": "À neuf jours du scrutin, les sondages néo-zélandais ne dégagent ni vainqueur clair ni coalition nette, selon l'agence."
+  },
+  {
+   "electionId": "nz-2026",
+   "lang": "en",
+   "title": "Voting opens in New Zealand for November 7 election with no clear frontrunner",
+   "source": "Reuters (Internazionale)",
+   "date": "2026-10-26",
+   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/26/voting-opens-in-new-zealand-for-november-7-election-with-no-clear-frontrunner",
+   "summary": "Le vote anticipé s'ouvre en Nouvelle-Zélande pour un scrutin du 7 novembre sans favori net."
+  },
+  {
+   "electionId": "nz-2026",
+   "lang": "en",
+   "title": "Poll: Hipkins and Luxon now neck and neck, Opportunity on track for 10 MPs",
+   "source": "1News",
+   "date": "2026-10-13",
+   "url": "https://www.1news.co.nz/2026/10/13/poll-hipkins-and-luxon-now-neck-and-neck-opportunity-on-track-for-10-mps/",
+   "summary": "Un sondage 1News-Verian réalisé du 8 au 12 octobre place les deux dirigeants à égalité comme Premier ministre préféré, National et Labour à 28 % chacun."
   }
  ],
  "results": [
@@ -2705,10 +2840,20 @@
    "region": "Europe",
    "type": "Présidentielle",
    "body": "Président et vice-président (2d tour)",
-   "status": "en attente",
-   "rows": [],
-   "note": "Premiers résultats : Iliana Iotova en tête et élue selon la presse, Andreï Guiourov a reconnu sa défaite ; pourcentages définitifs de la commission électorale non encore relevés.",
-   "source": "https://www.aljazeera.com/news/2026/11/1/bulgarian-president-yotova-leads-runoff-exit-polls-show"
+   "status": "provisoire",
+   "rows": [
+    {
+     "name": "Iliana Iotova",
+     "value": 57.66
+    },
+    {
+     "name": "Andreï Guiourov",
+     "value": 39.38
+    }
+   ],
+   "note": "Iliana Iotova est élue ; Andreï Guiourov a reconnu sa défaite. 2,96 % des votants ont choisi l'option « Je ne soutiens personne ». Décompte quasi complet, résultats définitifs à confirmer.",
+   "source": "https://frognews.bg/novini/tsik-pri-99-68procenta-obraboteni-protokoli-iotova-pecheli-57-66procenta-sreshtu-39-38procenta-giurov.html",
+   "base": "Suffrages valables, 99,68 % des procès-verbaux (commission électorale centrale)"
   },
   {
    "id": "il-2026",
