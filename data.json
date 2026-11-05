@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03",
+ "updated": "2026-11-05",
  "elections": [
   {
    "id": "br-2026-r2",
@@ -146,7 +146,7 @@
    "region": "Moyen-Orient",
    "type": "Législatives",
    "body": "Knesset, 120 sièges",
-   "note": "Il faut 61 sièges pour gouverner. Les sondages placent le Likoud de Benyamin Netanyahou et Yashar de Gadi Eisenkot au coude-à-coude, sans majorité nette pour aucun bloc. Benny Gantz (Bleu et Blanc) a retiré sa candidature le 19 octobre. Au soir du 27 octobre, les estimations de sortie des urnes ne donnaient de majorité à aucun bloc ; le décompte officiel était en cours. Selon un décompte partiel (85,6 % des voix, hors votes à double enveloppe) rapporté par Ynet le 28 octobre, le bloc Netanyahou obtiendrait 53 sièges, celui de Gadi Eisenkot 48 et les partis arabes 19 ; les résultats officiels restent attendus.",
+   "note": "Il faut 61 sièges pour gouverner. Les sondages placent le Likoud de Benyamin Netanyahou et Yashar de Gadi Eisenkot au coude-à-coude, sans majorité nette pour aucun bloc. Benny Gantz (Bleu et Blanc) a retiré sa candidature le 19 octobre. Au soir du 27 octobre, les estimations de sortie des urnes ne donnaient de majorité à aucun bloc ; le décompte officiel était en cours. Selon un décompte partiel (85,6 % des voix, hors votes à double enveloppe) rapporté par Ynet le 28 octobre, le bloc Netanyahou obtiendrait 53 sièges, celui de Gadi Eisenkot 48 et les partis arabes 19 ; les résultats officiels restent attendus. Résultats définitifs (commission électorale centrale, 30 octobre) : bloc Netanyahou 53 sièges, bloc Eisenkot 48, partis arabes 19 ; participation de 77,9 %.",
    "series": [
     "Bloc Netanyahou",
     "Opposition",
@@ -330,7 +330,7 @@
     },
     {
      "name": "Joana Rosa",
-     "role": "Ancienne ministre de la Justice, soutenue par le MpD"
+     "role": "Ancienne ministre de la Justice, candidate indépendante soutenue par le MpD"
     },
     {
      "name": "Gilson Alves",
@@ -338,14 +338,19 @@
     },
     {
      "name": "Antero Tavares",
-     "role": "Magistrat, candidat"
+     "role": "Juge, candidat indépendant"
     },
     {
-     "name": "Casimiro Pina",
+     "name": "Casimiro de Pina",
      "role": "Juriste, candidat"
+    },
+    {
+     "name": "Loisito Tavares",
+     "role": "Enseignant, candidat indépendant",
+     "img": ""
     }
    ],
-   "note": "La Cour constitutionnelle a validé cinq candidatures le 21 septembre, dont celle du président sortant José Maria Neves."
+   "note": "Six candidatures admises par la Cour constitutionnelle, dont celle de Loisito Tavares, retenue après recours. La campagne officielle court du 29 octobre au 13 novembre ; second tour le 29 novembre si aucun candidat n'obtient la majorité absolue."
   },
   {
    "id": "ps-2026",
@@ -855,6 +860,18 @@
    "type": "Générales",
    "body": "Président et Parlement (objectif annoncé)",
    "source": "https://middle-east-online.com/en/libya-sets-2027-election-goal-washington-presses-national-unity"
+  },
+  {
+   "id": "de-2027-p",
+   "date": "2027-01-30",
+   "precision": "day",
+   "status": "fixée",
+   "country": "Allemagne",
+   "region": "Europe",
+   "type": "Présidentielle",
+   "body": "Président fédéral (élu par l'Assemblée fédérale)",
+   "note": "L'Assemblée fédérale, convoquée par le Bundestag, élira le successeur de Frank-Walter Steinmeier.",
+   "source": "https://www.evangelisch.de/inhalte/253164/26-02-2026/steinmeier-nachfolge-wird-am-30-januar-2027-gewaehlt"
   }
  ],
  "polls": [
@@ -2180,6 +2197,70 @@
    },
    "note": "Vote pour un parti ; ACT 9 %, Opportunity 5,4 % ; réalisé en partenariat avec Infrastructure New Zealand",
    "source": "https://newswire.co.nz/2026/10/luxon-hipkins-final-leaders-debate-two-polls-opposite-directions/"
+  },
+  {
+   "electionId": "us-2026",
+   "pollster": "Focaldata (pour le Financial Times)",
+   "fieldwork": "30 oct.–1er nov.",
+   "published": "2026-11-02",
+   "n": 2444,
+   "base": "Électeurs probables",
+   "unit": "%",
+   "values": {
+    "Démocrates": 52,
+    "Républicains": 45
+   },
+   "note": "Vote générique pour le Congrès, dernier sondage de l'institut avant le scrutin ; échantillon de 2 444 adultes, nombre d'électeurs probables non précisé ; marge d'erreur ±2,4 points",
+   "source": "https://politicalwire.com/2026/11/02/democrats-up-on-generic-ballot/"
+  },
+  {
+   "electionId": "us-2026",
+   "pollster": "I&I/TIPP",
+   "fieldwork": "non précisé",
+   "published": "2026-11-02",
+   "n": 1158,
+   "base": "Électeurs probables",
+   "unit": "%",
+   "values": {
+    "Démocrates": 52,
+    "Républicains": 42
+   },
+   "note": "Préférence pour le contrôle du Congrès ; marge d'erreur ±2,9 points",
+   "source": "https://politicalwire.com/2026/11/02/democrats-have-double-digit-lead-on-generic-ballot/"
+  },
+  {
+   "electionId": "nz-2026",
+   "pollster": "1News-Verian",
+   "fieldwork": "29 oct.–2 nov.",
+   "published": "2026-11-03",
+   "n": 1006,
+   "base": "Électeurs décidés",
+   "unit": "%",
+   "values": {
+    "National": 29.5,
+    "Labour": 28.8,
+    "Verts": 16.4,
+    "NZ First": 8.4
+   },
+   "note": "Dernier sondage de l'institut avant le scrutin ; ACT 10,0 %, Opportunity 6,2 %, Te Pāti Māori 0,4 % ; 9 % d'indécis exclus",
+   "source": "https://www.1news.co.nz/2026/11/03/final-poll-election-set-to-go-down-to-wire-as-nationals-partners-slip/"
+  },
+  {
+   "electionId": "nz-2026",
+   "pollster": "Taxpayers' Union-Curia",
+   "fieldwork": "28 oct.–3 nov.",
+   "published": "2026-11-04",
+   "n": 1000,
+   "base": "Non précisée (électeurs probables)",
+   "unit": "%",
+   "values": {
+    "National": 28.9,
+    "Labour": 28.4,
+    "Verts": 14.4,
+    "NZ First": 9.8
+   },
+   "note": "Vote pour un parti ; ACT 10,5 %, Opportunity 5,8 %, Te Pāti Māori 1,1 % ; 700 entretiens téléphoniques et 300 en ligne",
+   "source": "https://www.scoop.co.nz/stories/PO2611/S00028/hung-parliament-as-only-half-a-percent-separates-national-and-labour-net-country-direction-jumps-to-19-month-high.htm"
   }
  ],
  "articles": [
@@ -2571,15 +2652,6 @@
    "summary": "Le quotidien présente les estimations de sortie des urnes, qui ne donnent de majorité à aucun des deux camps."
   },
   {
-   "electionId": "us-2026",
-   "lang": "en",
-   "title": "Generic Congressional Ballot: Latest Polls",
-   "source": "Silver Bulletin",
-   "date": "2026-10-28",
-   "url": "https://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls",
-   "summary": "Moyenne des sondages de vote générique tenue à jour par le Silver Bulletin, avec un avantage démocrate d'environ neuf points au 28 octobre."
-  },
-  {
    "electionId": "bg-2026-p2",
    "lang": "fr",
    "title": "Bulgarie : Iliana Iotova et Andrey Gyurov qualifiés pour le second tour de la présidentielle",
@@ -2587,24 +2659,6 @@
    "date": "2026-10-28",
    "url": "https://www.lebrief.ma/bulgarie-iliana-iotova-et-andrey-gyurov-100171390/",
    "summary": "La commission électorale centrale a confirmé le second tour du 1er novembre entre la présidente sortante et l'ancien Premier ministre intérimaire, aucun candidat n'ayant rempli les conditions d'une élection dès le premier tour."
-  },
-  {
-   "electionId": "us-2026",
-   "lang": "en",
-   "title": "US midterms: Six days left – who leads in the polls as Trump, Obama rally",
-   "source": "Al Jazeera",
-   "date": "2026-10-28",
-   "url": "https://www.aljazeera.com/news/2026/10/28/us-midterms-six-days-left-who-leads-in-the-polls-as-trump-obama-rally",
-   "summary": "Point sur les sondages à six jours du scrutin : les démocrates mènent au niveau national, mais plusieurs courses sénatoriales restent indécises. L'article recense aussi les déplacements de campagne des principales figures des deux partis."
-  },
-  {
-   "electionId": "us-2026",
-   "lang": "fr",
-   "title": "Elections de mi-mandat aux États-Unis - Les Démocrates rêvent d'une vague bleue sur le Congrès face à Trump",
-   "source": "DH (Belga)",
-   "date": "2026-10-28",
-   "url": "https://www.dhnet.be/dernieres-depeches/2026/10/28/elections-de-mi-mandat-aux-etats-unis-les-democrates-revent-dune-vague-bleue-sur-le-congres-face-a-trump-PEWQW4637FEPJIH5RXIINZQ7OI/",
-   "summary": "Dépêche de l'agence Belga présentant les enjeux du scrutin : les démocrates sont donnés favoris pour la Chambre, tandis que le contrôle du Sénat reste incertain."
   },
   {
    "electionId": "bg-2026-p2",
@@ -2681,29 +2735,11 @@
   {
    "electionId": "nz-2026",
    "lang": "en",
-   "title": "Poll: National jumps, leaving Labour's position perilous",
-   "source": "1News",
-   "date": "2026-10-20",
-   "url": "https://www.1news.co.nz/2026/10/20/poll-national-jumps-leaving-labours-position-perilous/",
-   "summary": "Sondage 1News-Verian publié 18 jours avant le scrutin : le Parti national repasse devant les travaillistes. Chris Hipkins relativise le résultat d'un seul sondage."
-  },
-  {
-   "electionId": "nz-2026",
-   "lang": "en",
    "title": "RNZ-Reid Research poll: National below disastrous 2020 result as Opportunity surges",
    "source": "The Spinoff",
    "date": "2026-10-29",
    "url": "https://thespinoff.co.nz/politics/29-10-2026/rnz-reid-research-poll-national-below-disastrous-2020-result-as-opportunity-surges",
    "summary": "Analyse du dernier sondage RNZ-Reid Research : le Parti national passe sous les 25 %, tandis qu'Opportunity progresse et pourrait peser sur la formation du gouvernement."
-  },
-  {
-   "electionId": "nz-2026",
-   "lang": "en",
-   "title": "New Zealand National support at weakest level since 2020, poll finds",
-   "source": "The Star (Malaisie)",
-   "date": "2026-10-06",
-   "url": "https://www.thestar.com.my/news/world/2026/10/06/new-zealand-national-support-at-weakest-level-since-2020-poll-finds",
-   "summary": "Dépêche sur un sondage RNZ-Reid Research où le Parti national atteint son plus bas niveau depuis 2020 et où Opportunity franchit le seuil des 5 %."
   },
   {
    "electionId": "bg-2026-p2",
@@ -2787,15 +2823,6 @@
    "summary": "L'agence australienne compare des sondages divergents : le dernier relevé RNZ-Reid Research avantage le bloc de gauche, d'autres instituts donnent une image différente. Le parti Opportunity apparaît en position d'arbitre."
   },
   {
-   "electionId": "nz-2026",
-   "lang": "fr",
-   "title": "Le Premier ministre néo-zélandais, Christopher Luxon, conforté par son parti",
-   "source": "Le Petit Journal Nouvelle-Zélande",
-   "date": "2026-08-13",
-   "url": "https://lepetitjournal.com/nouvelle-zelande/le-premier-ministre-neo-zelandais-christopher-luxon-conforte-par-son-parti-450950",
-   "summary": "Après une contestation interne, Christopher Luxon a conservé la direction du Parti national lors d'un vote de confiance des députés le 12 août. L'article rappelle les modalités d'inscription pour les électeurs français éligibles avant le scrutin du 7 novembre."
-  },
-  {
    "electionId": "bg-2026-p2",
    "lang": "fr",
    "title": "Iliana Iotova remporte la présidentielle bulgare avec un appel au dialogue",
@@ -2814,22 +2841,121 @@
    "summary": "À neuf jours du scrutin, les sondages néo-zélandais ne dégagent ni vainqueur clair ni coalition nette, selon l'agence."
   },
   {
-   "electionId": "nz-2026",
+   "electionId": "us-2026",
+   "lang": "fr",
+   "title": "Jour d'élections décisives aux États-Unis pour Trump et la suite de son mandat",
+   "source": "DH (AFP)",
+   "date": "2026-11-03",
+   "url": "https://www.dhnet.be/dernieres-depeches/2026/11/03/jour-delections-decisives-aux-etats-unis-pour-trump-et-la-suite-de-son-mandat-PAIQDHS7UFF55LJCSUNFSY4EKY/",
+   "summary": "Les Américains votent pour renouveler le Congrès à mi-mandat de Donald Trump, les sondages donnant l'avantage aux démocrates pour la Chambre. Le coût de la vie figure parmi les thèmes principaux de la campagne."
+  },
+  {
+   "electionId": "us-2026",
    "lang": "en",
-   "title": "Voting opens in New Zealand for November 7 election with no clear frontrunner",
-   "source": "Reuters (Internazionale)",
-   "date": "2026-10-26",
-   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/26/voting-opens-in-new-zealand-for-november-7-election-with-no-clear-frontrunner",
-   "summary": "Le vote anticipé s'ouvre en Nouvelle-Zélande pour un scrutin du 7 novembre sans favori net."
+   "title": "US midterms 2026: Key voting times, results and what's at stake",
+   "source": "Gulf News",
+   "date": "2026-11-02",
+   "url": "https://gulfnews.com/world/americas/us-midterms-2026-key-voting-times-results-and-whats-at-stake-1.500732810",
+   "summary": "Guide pratique du scrutin : 435 sièges de représentants, 35 sièges de sénateurs et 36 postes de gouverneur sont en jeu. Les résultats des courses serrées pourraient prendre plusieurs jours."
+  },
+  {
+   "electionId": "us-2026",
+   "lang": "en",
+   "title": "US midterm elections 2026: What are they and when will we know the results?",
+   "source": "Euronews (Yahoo News)",
+   "date": "2026-11-02",
+   "url": "https://www.yahoo.com/news/politics/articles/us-midterm-elections-2026-know-132008681.html",
+   "summary": "L'article explique les enjeux des élections de mi-mandat et le calendrier de publication des résultats selon les fuseaux horaires. Il recense les courses sénatoriales jugées décisives, dont le Maine, l'Ohio, la Caroline du Nord, l'Iowa et la Géorgie."
   },
   {
    "electionId": "nz-2026",
    "lang": "en",
-   "title": "Poll: Hipkins and Luxon now neck and neck, Opportunity on track for 10 MPs",
+   "title": "Final poll: Election set to go down to wire as National's partners slip",
    "source": "1News",
-   "date": "2026-10-13",
-   "url": "https://www.1news.co.nz/2026/10/13/poll-hipkins-and-luxon-now-neck-and-neck-opportunity-on-track-for-10-mps/",
-   "summary": "Un sondage 1News-Verian réalisé du 8 au 12 octobre place les deux dirigeants à égalité comme Premier ministre préféré, National et Labour à 28 % chacun."
+   "date": "2026-11-03",
+   "url": "https://www.1news.co.nz/2026/11/03/final-poll-election-set-to-go-down-to-wire-as-nationals-partners-slip/",
+   "summary": "Le dernier sondage 1News-Verian place National et Labour presque à égalité, tandis qu'ACT et NZ First reculent. Aucun bloc n'atteindrait la majorité, ce qui laisserait Opportunity en position d'arbitre."
+  },
+  {
+   "electionId": "nz-2026",
+   "lang": "en",
+   "title": "The new poll that tells the true story of the 2026 election",
+   "source": "The Spinoff",
+   "date": "2026-11-02",
+   "url": "https://thespinoff.co.nz/politics/02-11-2026/the-new-poll-that-tells-the-true-story-of-the-2026-election",
+   "summary": "Une enquête Ipsos sur les préoccupations des électeurs montre que le coût de la vie reste en tête, tandis que l'inquiétude sur le prix des carburants progresse nettement. La criminalité recule dans le classement des priorités."
+  },
+  {
+   "electionId": "nz-2026",
+   "lang": "en",
+   "title": "New Zealand early voting surges ahead of November 7 election",
+   "source": "Reuters (Internazionale)",
+   "date": "2026-11-02",
+   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/02/new-zealand-early-voting-surges-ahead-of-november-7-election",
+   "summary": "Près d'un million de votes ont été exprimés lors de la première semaine de vote anticipé, soit une hausse de 28 % par rapport à 2023 selon la commission électorale. Les sondages ne désignent toujours pas de vainqueur clair."
+  },
+  {
+   "electionId": "nz-2026",
+   "lang": "fr",
+   "title": "Les sondages sont des instantanés, pas des prédictions : ce que montre la campagne électorale néo-zélandaise",
+   "source": "The Conversation France",
+   "date": "2026-10-23",
+   "url": "https://theconversation.com/les-sondages-sont-des-instantanes-pas-des-predictions-ce-que-montre-la-campagne-electorale-neo-zelandaise-294960",
+   "summary": "Un politiste de l'Université d'Auckland rappelle que chaque sondage ne mesure l'opinion qu'à un instant donné et ne permet pas de prédire l'issue du scrutin du 7 novembre."
+  },
+  {
+   "electionId": "nz-2026",
+   "lang": "en",
+   "title": "Analysis: Steel yourself for a four-party coalition",
+   "source": "1News",
+   "date": "2026-11-04",
+   "url": "https://www.1news.co.nz/2026/11/04/analysis-steel-yourself-for-a-four-party-coalition/",
+   "summary": "Analyse du dernier sondage 1News-Verian : les blocs de gauche et de droite sont presque à égalité et le parti Opportunity pourrait arbitrer la formation d'une coalition."
+  },
+  {
+   "electionId": "nz-2026",
+   "lang": "en",
+   "title": "Luxon rules New Zealand First’s Michael Laws out of Cabinet over sexist remarks about Opportunity candidates, but Peters keeps him on",
+   "source": "Newswire",
+   "date": "2026-11-04",
+   "url": "https://newswire.co.nz/2026/11/luxon-rules-michael-laws-out-of-cabinet-sexist-remarks-opportunity/",
+   "summary": "Christopher Luxon exclut tout poste ministériel pour le candidat de NZ First Michael Laws après des propos sur deux candidates d'Opportunity jugés sexistes ; Winston Peters le maintient candidat."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "fr",
+   "title": "Cap-Vert – Présidentielle 2026 : la campagne électorale officiellement lancée",
+   "source": "Africa24",
+   "date": "2026-10-30",
+   "url": "https://africa24tv.com/cap-vert-presidentielle-2026-la-campagne-electorale-officiellement-lancee/",
+   "summary": "La campagne s'est ouverte le 29 octobre pour six candidats, dont le président sortant José Maria Neves ; la commission électorale appelle à une campagne transparente."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "fr",
+   "title": "Cap-Vert : une démocratie stable face au défi de la participation électorale",
+   "source": "La Cinquième",
+   "date": "2026-11-02",
+   "url": "https://www.lacinquieme.tg/cap-vert-une-democratie-stable-face-au-defi-de-la-participation-electorale/",
+   "summary": "Le média togolais souligne la stabilité institutionnelle du pays et le poids de l'abstention, qui avait dépassé la moitié des inscrits en 2021, ainsi que celui de la diaspora."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "en",
+   "title": "Cape Verde president rallies supporters as election campaign begins",
+   "source": "Africanews",
+   "date": "2026-11-01",
+   "url": "https://www.africanews.com/2026/11/01/cape-verde-president-rallies-supporters-as-election-campaign-begins/",
+   "summary": "Le président sortant, soutenu par le PAICV, a réuni ses partisans à São Vicente ; Joana Rosa, soutenue par le MpD, est présentée comme sa principale adversaire."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "en",
+   "title": "Cabo Verde Picks a President on 15 November",
+   "source": "The Rio Times",
+   "date": "2026-11-01",
+   "url": "https://www.riotimesonline.com/cabo-verde-presidential-vote-two-weeks-out-what-to-watch/",
+   "summary": "Présentation des six candidats et des règles du scrutin : la majorité absolue est requise au premier tour, faute de quoi un second tour aurait lieu le 29 novembre."
   }
  ],
  "results": [
@@ -2862,10 +2988,25 @@
    "region": "Moyen-Orient",
    "type": "Législatives",
    "body": "Knesset, 120 sièges",
-   "status": "en attente",
-   "rows": [],
-   "note": "Scrutin du 27 octobre : les estimations de sortie des urnes ne donnent de majorité à aucun bloc ; résultats officiels non encore publiés.",
-   "source": "https://www.axios.com/2026/10/27/netanyahu-eisenkot-israel-election-exit-polls"
+   "status": "officiel",
+   "rows": [
+    {
+     "name": "Bloc Netanyahou",
+     "value": 53
+    },
+    {
+     "name": "Bloc Eisenkot",
+     "value": 48
+    },
+    {
+     "name": "Partis arabes",
+     "value": 19
+    }
+   ],
+   "note": "Aucun bloc n'atteint les 61 sièges. Le Likoud arrive en tête avec 27 sièges, devant Yashar (21). Participation : 77,9 %. La nouvelle Knesset doit prêter serment le 10 novembre.",
+   "source": "https://www.timesofisrael.com/liveblog_entry/central-elections-committee-publishes-final-election-results-knesset-to-be-sworn-in-nov-10/",
+   "unit": "sièges",
+   "base": "Sièges sur 120, résultats définitifs publiés par la commission électorale centrale"
   },
   {
    "id": "br-2026-r2",
@@ -2958,6 +3099,18 @@
    "note": "Aucun candidat au-dessus de 50 % : second tour le 1er novembre entre Iotova et Guiourov. Participation de 21,91 %.",
    "source": "https://www.novinite.com/articles/241274/Official+Final+Count%3A+Yotova+Wins+34.76%2C+Gyurov+31.95+-+Both+Advance+to+Bulgaria%27s+Presidential+Runoff",
    "base": "Suffrages exprimés, 100 % des procès-verbaux"
+  },
+  {
+   "id": "us-2026",
+   "date": "2026-11-03",
+   "country": "États-Unis",
+   "region": "Amériques",
+   "type": "Législatives",
+   "body": "Chambre des représentants et Sénat (mi-mandat)",
+   "status": "en attente",
+   "rows": [],
+   "note": "Selon l'Associated Press, les démocrates prennent le contrôle du Sénat ; plusieurs médias américains projettent aussi une majorité démocrate à la Chambre. Décompte des sièges en cours.",
+   "source": "https://www.abc.net.au/news/2026-11-04/democrats-claim-victory-over-republicans-2026-midterm-elections/107338138"
   }
  ]
 }
