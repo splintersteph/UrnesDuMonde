@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08",
+ "updated": "2026-11-11",
  "elections": [
   {
    "id": "br-2026-r2",
@@ -274,7 +274,7 @@
    "region": "Asie-Pacifique",
    "type": "Législatives",
    "body": "Parlement",
-   "note": "Date annoncée en janvier par le Premier ministre Christopher Luxon.",
+   "note": "Date annoncée en janvier par le Premier ministre Christopher Luxon. Résultats préliminaires (Commission électorale, votes ordinaires) : Labour 29,36 %, National 29,21 %, Verts 13,30 %, ACT 10,92 %, NZ First 9,78 %, Opportunity 5,96 % ; 131 sièges projetés (dont 5 pour Te Pāti Māori). Environ 399 000 votes spéciaux restent à compter ; résultats officiels attendus le 27 novembre.",
    "source": "https://en.wikipedia.org/wiki/2026_New_Zealand_general_election",
    "people": [
     {
@@ -319,7 +319,16 @@
     "Labour",
     "Verts",
     "NZ First"
-   ]
+   ],
+   "reference": {
+    "label": "Résultats préliminaires, 7 nov. (Commission électorale, vote de parti)",
+    "values": {
+     "National": 29.21,
+     "Labour": 29.36,
+     "Verts": 13.3,
+     "NZ First": 9.78
+    }
+   }
   },
   {
    "id": "cv-2026-p",
@@ -357,9 +366,8 @@
      "role": "Juriste, candidat"
     },
     {
-     "name": "Loisito Tavares",
-     "role": "Enseignant, candidat indépendant",
-     "img": ""
+     "name": "Loisito Sousa",
+     "role": "Enseignant, candidat indépendant"
     }
    ],
    "note": "Six candidatures admises par la Cour constitutionnelle, dont celle de Loisito Tavares, retenue après recours. La campagne officielle court du 29 octobre au 13 novembre ; second tour le 29 novembre si aucun candidat n'obtient la majorité absolue."
@@ -373,7 +381,14 @@
    "region": "Europe",
    "type": "Référendum",
    "body": "Votations fédérales",
-   "source": "https://en.wikipedia.org/wiki/2026_Swiss_referendums"
+   "source": "https://lenews.ch/2026/10/15/swiss-voters-to-decide-on-four-federal-proposals-in-november/",
+   "note": "Quatre objets : financement de la 13e rente AVS par une hausse de 0,4 point de TVA, initiative contre les feux d'artifice bruyants, initiative sur l'imposition des couples mariés et révision de la loi sur le matériel de guerre. Gouvernement et Parlement recommandent le oui à la TVA et au matériel de guerre, le non aux deux initiatives.",
+   "series": [
+    "TVA pour la 13e rente AVS",
+    "Initiative feux d'artifice",
+    "Initiative imposition des couples",
+    "Loi sur le matériel de guerre"
+   ]
   },
   {
    "id": "es-2026",
@@ -428,6 +443,18 @@
    ]
   },
   {
+   "id": "rs-2027-p",
+   "date": "2026-12-01",
+   "precision": "month",
+   "status": "à fixer",
+   "country": "Serbie",
+   "region": "Europe",
+   "type": "Présidentielle",
+   "body": "Président de la République (anticipée)",
+   "note": "Anticipée après la démission d'Aleksandar Vučić. Selon la présidente du Parlement et présidente par intérim Ana Brnabić, le scrutin doit être convoqué d'ici le 27 novembre et se tenir au plus tard le 27 décembre 2026.",
+   "source": "https://beta.rs/content/255028-brnabic-predsednicki-izbori-do-27-decembra-ako-se-forimra-nova-vecina-mozda-i-pre"
+  },
+  {
    "id": "gm-2026-p",
    "date": "2026-12-05",
    "precision": "day",
@@ -472,18 +499,6 @@
    "body": "Président, Assemblée et Conseil des États",
    "note": "Premières élections du pays, après plusieurs reports.",
    "source": "https://apnews.com/article/south-sudan-election-3a72362c73baaae10ae57bdf086b2df0"
-  },
-  {
-   "id": "rs-2027-p",
-   "date": "2027-01-01",
-   "precision": "year",
-   "status": "à fixer",
-   "country": "Serbie",
-   "region": "Europe",
-   "type": "Présidentielle",
-   "body": "Président de la République (anticipée)",
-   "note": "Après la démission de Vučić, la date sera fixée par le président du nouveau Parlement.",
-   "source": "https://www.intellinews.com/serbia-to-hold-snap-election-on-october-18-or-25-president-says-462696/"
   },
   {
    "id": "gr-2027",
@@ -2361,6 +2376,339 @@
    },
    "note": "Frente Amplio non relevé ; fiche technique non relevée",
    "source": "https://www.democrata.es/en/center-of-surveys-and-electoral-polls/more-in-common-poll-the-pp-leads-the-psoe-by-07-points-and-vox-exceeds-20/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "Sigma Dos (pour El Mundo)",
+   "fieldwork": "29–30 oct.",
+   "published": "2026-11-01",
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 31.1,
+    "PSOE": 24.6,
+    "Vox": 19.3,
+    "Frente Amplio": 7.1
+   },
+   "note": "Premier sondage après l'accident ferroviaire d'Urda ; Podemos au plus 1 siège",
+   "source": "https://www.theolivepress.es/spain-news/2026/11/02/spain-november-election-latest-polls/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "Sondaxe (pour La Voz de Galicia)",
+   "fieldwork": "26–28 oct.",
+   "published": "2026-11-01",
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 29.2,
+    "PSOE": 26.9,
+    "Vox": 19.2,
+    "Frente Amplio": 7.2
+   },
+   "note": "Podemos 2 %",
+   "source": "https://www.democrata.es/en/politics/sondaxe-survey-pp-leads-psoe-by-23-points-and-vox-reaches-192-one-month-before-the-elections/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "SocioMétrica (pour El Español)",
+   "fieldwork": "Cumul depuis le 1er sept.",
+   "published": "2026-11-01",
+   "n": 4893,
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 32.2,
+    "PSOE": 26.6,
+    "Vox": 19.1,
+    "Frente Amplio": 4.4
+   },
+   "note": "Panel en ligne non probabiliste, échantillon cumulé ; liste ERC-Podemos 2,5 %",
+   "source": "https://www.elespanol.com/espana/politica/20261101/primer-sondeo-tragedia-pp-vox-amplian-ventaja-sanchez-sigue-cayendo-pese-vaciar-frente-amplio/1003744442810_0.html"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "Target Point (pour El Debate)",
+   "fieldwork": "28–30 oct.",
+   "published": "2026-11-02",
+   "n": 1024,
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 31.8,
+    "PSOE": 25.5,
+    "Vox": 19.9,
+    "Frente Amplio": 6.6
+   },
+   "note": "Panel en ligne (CAWI) ; marge d’erreur ±3,1 points",
+   "source": "https://www.eldebate.com/espana/20261102/accidente-frena-psoe-amplia-apoyo-pp-mayoria-absolutisima-derecha_475640.html"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "NC Report (pour La Razón)",
+   "fieldwork": "26–29 oct.",
+   "published": "2026-11-02",
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 32.6,
+    "PSOE": 25.6,
+    "Vox": 19.3,
+    "Frente Amplio": 6.9
+   },
+   "note": "Podemos 2,4 %",
+   "source": "https://www.democrata.es/en/center-of-surveys-and-electoral-polls/general-elections/general-election-poll-the-pp-loses-three-seats-vox-gains-two-and-the-psoe-holds-at-one-hundred-according-to-nc-report/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "Hamalgama Métrica (pour Vozpópuli)",
+   "fieldwork": "22–28 oct.",
+   "published": "2026-11-02",
+   "n": 1000,
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 32,
+    "PSOE": 26.4,
+    "Vox": 19.9,
+    "Frente Amplio": 5.4
+   },
+   "source": "https://www.vozpopuli.com/espana/politica/pp-y-vox-suman-ya-un-techo-historico-de-127-millones-de-votos-y-lograrian-205-escanos.html"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "Celeste-Tel (pour Onda Cero)",
+   "fieldwork": "Non précisé",
+   "published": "2026-11-06",
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 31.4,
+    "PSOE": 25.7,
+    "Vox": 19.2,
+    "Frente Amplio": 6.2
+   },
+   "note": "Podemos 1,9 % ; fiche technique non relevée",
+   "source": "https://www.democrata.es/en/center-of-surveys-and-electoral-polls/general-elections/general-election-survey-the-psoe-holds-on-after-urda-and-vox-wins-four-seats-according-to-celeste-tel/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "IMOP (pour El Confidencial)",
+   "fieldwork": "2–6 nov.",
+   "published": "2026-11-08",
+   "n": 1000,
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 29.8,
+    "PSOE": 25.9,
+    "Vox": 19.9,
+    "Frente Amplio": 8.1
+   },
+   "note": "Podemos 1,2 %",
+   "source": "https://www.democrata.es/encuestas/elecciones-generales/encuesta-imop-urda-psoe-pp-vox-8-noviembre-2026/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "GAD3 (pour ABC)",
+   "fieldwork": "3–5 nov.",
+   "published": "2026-11-09",
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 31.9,
+    "PSOE": 25.9,
+    "Vox": 18.6,
+    "Frente Amplio": 7.5
+   },
+   "note": "Taille d'échantillon non relevée ; Podemos non chiffré séparément",
+   "source": "https://www.democrata.es/encuestas/elecciones-generales/elecciones-generales-pp-sube-136-escanos-psoe-cae-103-vox-baja-63-segun-gad3/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "40dB (pour El País et Cadena SER)",
+   "fieldwork": "2–4 nov.",
+   "published": "2026-11-09",
+   "n": 2000,
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 31.9,
+    "PSOE": 29.9,
+    "Vox": 18.0,
+    "Frente Amplio": 5.0
+   },
+   "note": "Podemos 1,2 % ; enquête en ligne",
+   "source": "https://democrata.es/encuestas/elecciones-generales/40db-9-noviembre-2026-psoe-recorta-pp-vox"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "IMOP (pour El Confidencial)",
+   "fieldwork": "13–16 oct.",
+   "published": "2026-10-23",
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 28.5,
+    "PSOE": 27.1,
+    "Vox": 20.0,
+    "Frente Amplio": 8.9
+   },
+   "note": "Podemos 1,9 % ; relevé a posteriori",
+   "source": "https://www.riotimesonline.com/spain-right-loses-ground-in-latest-poll/"
+  },
+  {
+   "electionId": "ch-2026-11",
+   "pollster": "gfs.bern (pour la SSR), 1re vague",
+   "fieldwork": "5–18 oct.",
+   "published": "2026-10-23",
+   "n": 14874,
+   "base": "Ensemble des sondés (part de oui)",
+   "unit": "%",
+   "values": {
+    "TVA pour la 13e rente AVS": 46,
+    "Initiative feux d'artifice": 69,
+    "Initiative imposition des couples": 55,
+    "Loi sur le matériel de guerre": 49
+   },
+   "note": "Non : TVA AVS 49 %, feux d'artifice 29 %, imposition des couples 34 %, matériel de guerre 41 % ; marge d'erreur ±2,8 points",
+   "source": "https://www.gfsbern.ch/de/news/1-srg-trendumfrage-zur-eidg-abstimmung-vom-29-november-2026/"
+  },
+  {
+   "electionId": "ch-2026-11",
+   "pollster": "YouGov Suisse",
+   "fieldwork": "7–19 oct.",
+   "published": "2026-10-21",
+   "n": 2949,
+   "base": "Ensemble des sondés (part de oui)",
+   "unit": "%",
+   "values": {
+    "TVA pour la 13e rente AVS": 39,
+    "Initiative feux d'artifice": 62,
+    "Initiative imposition des couples": 51,
+    "Loi sur le matériel de guerre": 38
+   },
+   "note": "Non : TVA AVS 51 %, feux d'artifice 33 %, imposition des couples 29 %, matériel de guerre 33 % ; panel en ligne",
+   "source": "https://www.swissinfo.ch/eng/swiss-democracy/poll-shows-swiss-voters-are-undecided-on-arms-exports/92249095"
+  },
+  {
+   "electionId": "ch-2026-11",
+   "pollster": "LeeWas (pour 20 Minuten et Tamedia), 1re vague",
+   "fieldwork": "8–9 oct.",
+   "published": "2026-10-14",
+   "n": 11239,
+   "base": "Ensemble des sondés (part de oui)",
+   "unit": "%",
+   "values": {
+    "TVA pour la 13e rente AVS": 36,
+    "Initiative feux d'artifice": 68,
+    "Initiative imposition des couples": 38,
+    "Loi sur le matériel de guerre": 44
+   },
+   "note": "Non : TVA AVS 60 %, imposition des couples 51 %, matériel de guerre 47 % ; non pour les feux d'artifice non relevé ; réponses pondérées",
+   "source": "https://www.nau.ch/politik/bundeshaus/abstimmungsumfrage-drei-von-vier-vorlagen-fallen-durch-67188194"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "SW Demoscopia (pour La Séptima)",
+   "fieldwork": "26 oct.–5 nov.",
+   "published": "2026-11-07",
+   "n": 4000,
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 28.3,
+    "PSOE": 31.0,
+    "Vox": 17.2,
+    "Frente Amplio": 7.6
+   },
+   "note": "Baromètre n° 2 ; Podemos 1,2 %",
+   "source": "https://www.democrata.es/encuestas/elecciones-generales/encuesta-la-septima-psoe-gana-pp-vox-mayoria-absoluta/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "Ateneo del Dato (pour elDiario.es)",
+   "fieldwork": "2–5 nov.",
+   "published": "2026-11-08",
+   "n": 2000,
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 31.5,
+    "PSOE": 28.6,
+    "Vox": 18.6,
+    "Frente Amplio": 6.1
+   },
+   "note": "Enquête en ligne, marge d'erreur ±2,2 points ; Podemos 1,5 %",
+   "source": "https://www.electografica.com/2026/11/encuesta-ateneo-del-dato-261108.html"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "Sondaxe (pour La Voz de Galicia)",
+   "fieldwork": "2–4 nov.",
+   "published": "2026-11-08",
+   "n": 1200,
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 29.7,
+    "PSOE": 27.3,
+    "Vox": 18.6,
+    "Frente Amplio": 7.1
+   },
+   "note": "Podemos 2,2 %",
+   "source": "https://www.electografica.com/2026/11/encuesta-sondaxe-261108.html"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "Sigma Dos (pour El Mundo)",
+   "fieldwork": "30 oct.–6 nov.",
+   "published": "2026-11-09",
+   "n": 4172,
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 31.0,
+    "PSOE": 25.2,
+    "Vox": 19.4,
+    "Frente Amplio": 8.1
+   },
+   "note": "Frente Amplio à 8,1 % dans le texte, 6,5 % dans l'infographie de la source",
+   "source": "https://www.democrata.es/fr/centre-d-enquetes-et-de-sondages-electoraux/elections-generales/elections-generales-le-psoe-recupere-jusqu-a-105-sieges-mais-le-pp-et-vox-totalisent-199-selon-sigma-dos/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "DATA10 (pour OKDIARIO)",
+   "fieldwork": "2–3 nov.",
+   "published": "2026-11-09",
+   "n": 1500,
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 32.4,
+    "PSOE": 24.7,
+    "Vox": 19.8,
+    "Frente Amplio": 6.9
+   },
+   "note": "Podemos 3,1 %",
+   "source": "https://www.democrata.es/encuestas/elecciones-generales/data10-9-noviembre-2026-psoe-97-pp-vox-203/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "DYM (pour 20minutos)",
+   "fieldwork": "4–6 nov.",
+   "published": "2026-11-10",
+   "n": 1025,
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 33.1,
+    "PSOE": 27.3,
+    "Vox": 18.6,
+    "Frente Amplio": 5.6
+   },
+   "note": "Podemos 1,9 % ; enquête en ligne",
+   "source": "https://www.democrata.es/encuestas/elecciones-generales/dym-10-noviembre-2026-pp-psoe-bajan-vox-sube/"
   }
  ],
  "articles": [
@@ -2390,15 +2738,6 @@
    "date": "2026-11-04",
    "url": "https://newswire.co.nz/2026/11/luxon-rules-michael-laws-out-of-cabinet-sexist-remarks-opportunity/",
    "summary": "Christopher Luxon exclut tout poste ministériel pour le candidat de NZ First Michael Laws après des propos sur deux candidates d'Opportunity jugés sexistes ; Winston Peters le maintient candidat."
-  },
-  {
-   "electionId": "nz-2026",
-   "lang": "fr",
-   "title": "La Nouvelle-Zélande vote samedi avec l’inflation en tête des préoccupations",
-   "source": "AFP (Les Nouvelles Calédoniennes)",
-   "date": "2026-11-04",
-   "url": "https://www.lnc.nc/article/la-nouvelle-zelande-vote-samedi-avec-l-inflation-en-tete-des-preoccupations",
-   "summary": "À trois jours du scrutin, l'AFP décrit une élection serrée dominée par le coût de la vie, où ni le Parti national ni le Parti travailliste ne semblent en mesure d'obtenir seuls la majorité. L'article présente les principales figures, dont celles des petits partis susceptibles d'arbitrer une coalition."
   },
   {
    "electionId": "gd-2026",
@@ -2444,15 +2783,6 @@
    "date": "2026-11-02",
    "url": "https://www.yahoo.com/news/politics/articles/us-midterm-elections-2026-know-132008681.html",
    "summary": "L'article explique les enjeux des élections de mi-mandat et le calendrier de publication des résultats selon les fuseaux horaires. Il recense les courses sénatoriales jugées décisives, dont le Maine, l'Ohio, la Caroline du Nord, l'Iowa et la Géorgie."
-  },
-  {
-   "electionId": "cv-2026-p",
-   "lang": "fr",
-   "title": "Cap-Vert : une démocratie stable face au défi de la participation électorale",
-   "source": "La Cinquième",
-   "date": "2026-11-02",
-   "url": "https://www.lacinquieme.tg/cap-vert-une-democratie-stable-face-au-defi-de-la-participation-electorale/",
-   "summary": "Le média togolais souligne la stabilité institutionnelle du pays et le poids de l'abstention, qui avait dépassé la moitié des inscrits en 2021, ainsi que celui de la diaspora."
   },
   {
    "electionId": "cv-2026-p",
@@ -2507,33 +2837,6 @@
    "date": "2026-11-01",
    "url": "https://www.thenationalnews.com/news/us/2026/11/01/donald-trump-makes-final-midterm-campaign-push/",
    "summary": "À la veille du scrutin, Donald Trump tient des meetings en Iowa et au Kansas pour défendre les courtes majorités républicaines. L'article évoque une popularité présidentielle historiquement basse et des démocrates en tête dans plusieurs courses clés."
-  },
-  {
-   "electionId": "cv-2026-p",
-   "lang": "en",
-   "title": "Cape Verde president rallies supporters as election campaign begins",
-   "source": "Africanews",
-   "date": "2026-11-01",
-   "url": "https://www.africanews.com/2026/11/01/cape-verde-president-rallies-supporters-as-election-campaign-begins/",
-   "summary": "Le président sortant, soutenu par le PAICV, a réuni ses partisans à São Vicente ; Joana Rosa, soutenue par le MpD, est présentée comme sa principale adversaire."
-  },
-  {
-   "electionId": "cv-2026-p",
-   "lang": "en",
-   "title": "Cabo Verde Picks a President on 15 November",
-   "source": "The Rio Times",
-   "date": "2026-11-01",
-   "url": "https://www.riotimesonline.com/cabo-verde-presidential-vote-two-weeks-out-what-to-watch/",
-   "summary": "Présentation des six candidats et des règles du scrutin : la majorité absolue est requise au premier tour, faute de quoi un second tour aurait lieu le 29 novembre."
-  },
-  {
-   "electionId": "cv-2026-p",
-   "lang": "fr",
-   "title": "Cap-Vert : Neves lance sa campagne pour un second mandat",
-   "source": "Madar",
-   "date": "2026-11-01",
-   "url": "https://fr.madar.mr/actualites/international/africa-cape-verde-presidential-campaign-opens-neves-second-term-20261031",
-   "summary": "Le président sortant José Maria Neves a ouvert sa campagne le 31 octobre lors d'un meeting sur l'île de São Vicente, en faisant de la hausse des salaires une priorité. Six candidats sont en lice, dont l'ancienne ministre de la Justice Joana Rosa, soutenue par le MpD."
   },
   {
    "electionId": "bg-2026-p2",
@@ -3013,15 +3316,6 @@
    "summary": "Le média martiniquais relaie l'annonce du Premier ministre Dickon Mitchell, quelques jours après la dissolution du Parlement le 2 octobre. Le scrutin dira si le Congrès national démocratique conserve le pouvoir."
   },
   {
-   "electionId": "es-2026",
-   "lang": "en",
-   "title": "Spain's Sánchez calls snap election for 29 November after housing defeat",
-   "source": "Euronews",
-   "date": "2026-10-05",
-   "url": "https://www.euronews.com/2026/10/05/pedro-sanchez-calls-early-elections-in-spain-after-defeat-of-housing-decrees",
-   "summary": "Pedro Sánchez convoque des élections anticipées après le rejet par le Congrès de deux décrets sur le logement."
-  },
-  {
    "electionId": "gd-2026",
    "lang": "fr",
    "title": "La Grenade organisera des élections législatives le 5 novembre",
@@ -3139,43 +3433,275 @@
    "summary": "Portrait de campagne de Joana Rosa, ancienne ministre de la Justice soutenue par le MpD. Son programme en dix engagements met l'accent sur le dialogue, la proximité avec les citoyens et la protection des institutions."
   },
   {
-   "electionId": "es-2026",
+   "electionId": "cv-2026-p",
    "lang": "en",
-   "title": "Vox rising: what latest polls say a month away from Spain's election",
-   "source": "The Local Spain",
-   "date": "2026-10-26",
-   "url": "https://www.thelocal.es/20261026/vox-rising-what-latest-polls-say-a-month-away-from-spains-election",
-   "summary": "Tour d'horizon des sondages un mois avant le scrutin du 29 novembre, qui placent le PP en tête devant le PSOE, avec une progression de Vox."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "en",
-   "title": "Spanish right-wing parties keep solid lead ahead of November election, polls show",
-   "source": "The Star (Reuters)",
-   "date": "2026-10-09",
-   "url": "https://www.thestar.com.my/news/world/2026/10/09/spanish-conservative-parties-keep-solid-lead-ahead-of-nov-election-polls-show",
-   "summary": "Des sondages publiés début octobre donnent une avance au PP et à Vox, qui totalisent ensemble une part importante des intentions de vote."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "en",
-   "title": "The PP leads the PSOE by less than a point and Vox surpasses 20% in the latest More in Common survey",
-   "source": "Demócrata",
+   "title": "ECOWAS DEPLOYS A LONG-TERM ELECTION OBSERVATION MISSION IN THE REPUBLIC OF CABO VERDE",
+   "source": "CEDEAO (ECOWAS)",
    "date": "2026-11-03",
-   "url": "https://www.democrata.es/en/center-of-surveys-and-electoral-polls/more-in-common-poll-the-pp-leads-the-psoe-by-07-points-and-vox-exceeds-20/",
-   "summary": "Dans la dernière vague de More in Common, l'écart entre le PP et le PSOE se réduit à sept dixièmes de point et Vox dépasse 20 %."
+   "url": "https://www.ecowas.int/ecowas-deploys-a-long-term-election-observation-mission-in-the-republic-of-cabo-verde-2/",
+   "summary": "La CEDEAO déploie du 3 au 19 novembre une mission d'observation de longue durée de 20 experts répartis sur toutes les îles, avant l'arrivée d'une mission de courte durée d'environ 60 observateurs."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "fr",
+   "title": "Espagne : après le terrible accident ferroviaire, la confiance dans l'État et Sánchez continue de chuter",
+   "source": "21 News (Belgique)",
+   "date": "2026-11-03",
+   "url": "https://www.21news.be/espagne-apres-69-morts-dans-un-accident-ferroviaire-la-confiance-dans-letat-vacille-et-sanchez-se-retrouve-sous-pression/",
+   "summary": "La collision de deux trains à grande vitesse près d'Urda (69 morts) bouscule la campagne à moins d'un mois du scrutin. L'opposition met en cause la gestion des infrastructures publiques par le gouvernement."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "Poll shows Spain's Socialists lost 450,000 votes after Toledo train crash",
+   "source": "The Local Spain",
+   "date": "2026-11-05",
+   "url": "https://www.thelocal.es/20261105/poll-shows-spains-socialists-lost-450000-votes-after-toledo-train-crash",
+   "summary": "Analyse du sondage Sigma Dos réalisé juste après l'accident d'Urda, qui place le PSOE sous les 25 %. Le PP progresse légèrement ; l'analyste interrogé appelle à attendre d'autres enquêtes."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "fr",
+   "title": "Votations du 29 novembre: démarrage explosif pour l'initiative sur les feux d'artifice",
+   "source": "Swissinfo (SSR)",
+   "date": "2026-10-23",
+   "url": "https://www.swissinfo.ch/fre/politique-suisse/votations-du-29-novembre-d%C3%A9marrage-explosif-pour-linitiative-sur-les-feux-dartifice/92258040",
+   "summary": "Premier sondage SSR (gfs.bern) : large soutien à l'initiative sur les feux d'artifice, avance plus fragile pour l'imposition des couples mariés, pas de majorité nette sur la TVA pour l'AVS ni sur le matériel de guerre."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "fr",
+   "title": "Armes, impôts, feux d'artifice: qui vote quoi le 29 novembre",
+   "source": "Frapp",
+   "date": "2026-10-23",
+   "url": "https://frapp.ch/fr/articles/stories/armes-impots-feux-dartifice-qui-vote-quoi-le-29-novembre",
+   "summary": "Présentation des quatre objets et des clivages révélés par le sondage SSR mené du 5 au 18 octobre auprès de 14 874 personnes."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "en",
+   "title": "Swiss voters to decide on four federal proposals in November",
+   "source": "Le News",
+   "date": "2026-10-15",
+   "url": "https://lenews.ch/2026/10/15/swiss-voters-to-decide-on-four-federal-proposals-in-november/",
+   "summary": "Explication des quatre objets : hausse de 0,4 point de TVA pour financer la 13e rente AVS, initiative sur les feux d'artifice, imposition des couples mariés et révision de la loi sur le matériel de guerre, avec les recommandations du gouvernement et du Parlement."
+  },
+  {
+   "electionId": "nz-2026",
+   "lang": "en",
+   "title": "New Zealand’s governing coalition holds slim majority in preliminary count",
+   "source": "Al Jazeera (avec Reuters)",
+   "date": "2026-11-07",
+   "url": "https://www.aljazeera.com/news/2026/11/7/governing-party-leads-in-new-zealands-knife-edge-vote-early-results",
+   "summary": "Compte rendu de la soirée électorale : National et Labour au coude-à-coude, aucun des deux grands partis ne pouvant gouverner seul ; le Parti Opportunity franchit le seuil de 5 %."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "Political round-up: Puente's exit clears the tracks for Spain's election battle as general strike looms",
+   "source": "The Olive Press",
+   "date": "2026-11-08",
+   "url": "https://www.theolivepress.es/spain-news/2026/11/08/spain-election-rail-safety-strike/",
+   "summary": "Après la démission du ministre des Transports Óscar Puente le 3 novembre, la sécurité ferroviaire s'impose comme un thème central de la campagne. L'article évoque aussi la grève générale du 11 novembre, soutenue par les syndicats et contestée par le PP, Vox et le patronat."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "fr",
+   "title": "Espagne-Pedro Sanchez perd un soutien de taille à l'approche des élections législatives",
+   "source": "Reuters (Boursorama)",
+   "date": "2026-11-04",
+   "url": "https://www.boursorama.com/actualite-economique/actualites/espagne-pedro-sanchez-perd-un-soutien-de-taille-a-l-approche-des-elections-legislatives-a3ff744ac161521403902c81f2ae6c05",
+   "summary": "Pedro Sánchez confie l'intérim des Transports à Carlos Cuerpo après la démission d'Óscar Puente, consécutive à deux catastrophes ferroviaires. Selon Reuters, ce départ fragilise le PSOE, distancé dans les sondages par l'opposition conservatrice."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "fr",
+   "title": "Les nouvelles lettres de Sánchez : comment Ferraz réoriente la campagne après la démission de Puente et les « midterms »",
+   "source": "Demócrata (édition française)",
+   "date": "2026-11-05",
+   "url": "https://www.democrata.es/fr/elections-generales-en-espagne/les-nouvelles-lettres-de-sanchez-comment-ferraz-reoriente-la-campagne-apres-la-demission-de-puente-et-les-midterms/",
+   "summary": "Le PSOE met en avant la notion de responsabilité politique après l'accident d'Urda et la démission d'Óscar Puente. Pedro Sánchez s'appuie aussi sur les résultats des élections américaines et brésiliennes dans son discours de campagne."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "Sánchez seeks campaign reset after Puente’s resignation and US election setback for Trump",
+   "source": "Spain in English",
+   "date": "2026-11-05",
+   "url": "https://www.spainenglish.com/2026/11/05/sanchez-seeks-campaign-reset-after-puentes-resignation-and-us-election-setback-for-trump/",
+   "summary": "Le gouvernement présente la démission d'Óscar Puente comme un acte de responsabilité, alors que le PSOE cherche à reprendre l'initiative. L'article rappelle aussi la démission du président d'Adif après l'accident d'Urda."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "fr",
+   "title": "La 13e rente AVS arrive... qui va payer la facture?",
+   "source": "Blick (édition romande)",
+   "date": "2026-11-04",
+   "url": "https://www.blick.ch/fr/suisse/votation-tout-ce-quil-faut-savoir-sur-le-financement-de-lavs/n3d10y4",
+   "summary": "L'article détaille le financement de la 13e rente AVS soumis au vote : la hausse de TVA rapporterait environ 1,5 milliard de francs par an, sans couvrir l'ensemble du coût. Il présente la répartition des partis entre partisans et opposants."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "fr",
+   "title": "Vote du 29 novembre : incertitude concernant l’AVS et le matériel de guerre",
+   "source": "Frontaliere Ticino",
+   "date": "2026-10-23",
+   "url": "https://frontaliereticino.ch/fr/articles-suisse/sondage-votations-suisse-novembre/",
+   "summary": "Présentation du premier sondage SSR réalisé par gfs.bern sur les quatre objets du 29 novembre. Le financement de l'AVS et la loi sur le matériel de guerre apparaissent indécis, tandis que l'initiative sur les feux d'artifice recueille une large majorité d'intentions favorables."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "en",
+   "title": "Poll shows Swiss voters are undecided on arms exports",
+   "source": "SWI swissinfo.ch",
+   "date": "2026-10-21",
+   "url": "https://www.swissinfo.ch/eng/swiss-democracy/poll-shows-swiss-voters-are-undecided-on-arms-exports/92249095",
+   "summary": "Un sondage YouGov auprès de 2 949 électeurs montre une forte part d'indécis sur l'assouplissement des exportations d'armes. Il donne aussi des indications sur les trois autres objets soumis au vote du 29 novembre."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "en",
+   "title": "Pension and taxes: What's at stake in Switzerland's November referendums?",
+   "source": "The Local Switzerland",
+   "date": "2026-10-14",
+   "url": "https://www.thelocal.ch/20261014/pension-and-taxes-whats-at-stake-in-switzerlands-november-referendums",
+   "summary": "Guide des quatre objets soumis au vote le 29 novembre : financement de la 13e rente AVS, feux d'artifice, imposition des couples mariés et exportations de matériel de guerre. L'article cite les premiers sondages Tamedia."
   },
   {
    "electionId": "cv-2026-p",
    "lang": "en",
-   "title": "Cape Verde president rallies supporters as campaigns kick off",
-   "source": "Africanews",
+   "title": "Observations of an Expat -- The Week Ahead 9-15 November",
+   "source": "Tom Arms (chronique, Substack)",
+   "date": "2026-11-08",
+   "url": "https://tomarms.substack.com/p/observations-of-an-expat-the-week-631",
+   "summary": "Cette chronique hebdomadaire présente l'enjeu de la présidentielle cap-verdienne du 15 novembre, où six candidats sont en lice. Elle rappelle la règle de la majorité absolue et le retour du PAICV au gouvernement en mai."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "en",
+   "title": "Cabo Verde's Joana Rosa Tours Santo Antão",
+   "source": "The Rio Times",
+   "date": "2026-11-09",
+   "url": "https://www.riotimesonline.com/joana-rosa-santo-antao-cabo-verde-election-2026/",
+   "summary": "La candidate Joana Rosa, ancienne ministre de la Justice, a fait campagne à Porto Novo, sur l'île de Santo Antão, une semaine avant le scrutin. L'article rappelle qu'aucun sondage scientifique n'est publié et que les cotes des marchés de paris ne valent pas intentions de vote."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "fr",
+   "title": "Cap – Vert : Ouverture de la campagne électorale",
+   "source": "Africa24",
+   "date": "2026-11-02",
+   "url": "https://africa24tv.com/cap-vert-ouverture-de-la-campagne-electorale/",
+   "summary": "La campagne officielle pour la présidentielle du 15 novembre a débuté le 29 octobre. Les candidats multiplient meetings, débats publics et rencontres de terrain pendant deux semaines."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "Spain's right well ahead in polls for November 29 election",
+   "source": "Reuters (Internazionale)",
+   "date": "2026-11-09",
+   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/09/spain-s-right-well-ahead-in-polls-for-november-29-election",
+   "summary": "Selon les derniers sondages, le PP arriverait en tête devant le PSOE mais aurait besoin du soutien de Vox pour atteindre la majorité au Congrès. La campagne devrait porter sur le logement, l'immigration, la corruption et les suites de l'accident ferroviaire d'Urda."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "fr",
+   "title": "Législatives en Espagne : Après le tragique accident de train d'Urda, Pedro Sánchez obligé de « repartir de zéro »",
+   "source": "20 Minutes (Yahoo Actualités)",
+   "date": "2026-11-07",
+   "url": "https://fr.news.yahoo.com/sport/l%C3%A9gislatives-espagne-apr%C3%A8s-tragique-accident-040736559.html",
+   "summary": "L'article analyse le recul du PSOE dans les sondages après l'accident ferroviaire d'Urda, qui a fait 69 morts. Il cite une moyenne de sondages d'El Periódico plaçant le PSOE autour de 25 % et le PP au-dessus de 32 %."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "fr",
+   "title": "Feijóo ouvre la porte à gouverner avec Vox et laisse sans préciser quels ministères il céderait",
+   "source": "Demócrata (édition française)",
+   "date": "2026-11-08",
+   "url": "https://www.democrata.es/fr/elections-generales-en-espagne/feijoo-ouvre-la-porte-a-gouverner-avec-vox-et-laisse-sans-preciser-quels-ministeres-il-cederait/",
+   "summary": "Dans un entretien à El País, Alberto Núñez Feijóo dit préférer un soutien parlementaire de Vox sans exclure un gouvernement de coalition. Il ne précise pas quels ministères son parti conserverait."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "fr",
+   "title": "Votations du 29 novembre: voici qui a le plus financé la campagne",
+   "source": "watson.ch (édition romande)",
+   "date": "2026-10-30",
+   "url": "https://www.watson.ch/fr/suisse/politique/530001027-votations-du-29-novembre-voici-qui-a-le-plus-finance-la-campagne",
+   "summary": "Les campagnes sur les quatre objets totalisent environ 6,6 millions de francs déclarés au Contrôle fédéral des finances. La révision de la loi sur le matériel de guerre concentre la plus grande part des budgets."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "en",
+   "title": "November 2026 in Switzerland: 13 key changes expats need to know",
+   "source": "IamExpat Switzerland",
    "date": "2026-11-01",
-   "url": "https://www.africanews.com/2026/11/01/cape-verde-president-rallies-supporters-as-campaigns-kick-off/",
-   "summary": "Le président sortant José Maria Neves, soutenu par le PAICV, tient ses premiers meetings alors que s'ouvre la campagne de la présidentielle du 15 novembre."
+   "url": "https://www.iamexpat.ch/expat-info/swiss-news/november-2026-switzerland-13-key-changes-expats-need-know",
+   "summary": "Ce guide destiné aux résidents étrangers présente les quatre objets soumis au vote le 29 novembre. Il résume les enjeux de la TVA pour la 13e rente AVS, des feux d'artifice, de l'imposition des couples et des exportations de matériel de guerre."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "fr",
+   "title": "Présidentielle dimanche dans un Cap-Vert stable, le président sortant donné favori",
+   "source": "AFP (Boursorama)",
+   "date": "2026-11-10",
+   "url": "https://www.boursorama.com/actualite-economique/actualites/presidentielle-dimanche-dans-un-cap-vert-stable-le-president-sortant-donne-favori-545a26a163a41bf53a1e9cad9de1df40",
+   "summary": "À quelques jours du premier tour, présentation des enjeux du scrutin dans un archipel réputé pour sa stabilité, où le président sortant José Maria Neves est décrit comme favori face à Joana Rosa."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "PP stakes election campaign on Feijóo's track record amid 'collapse' of Sánchez administration",
+   "source": "TodoAlicante (édition anglaise)",
+   "date": "2026-11-06",
+   "url": "https://www.todoalicante.es/english/stakes-election-campaign-feijoo-20261106011154-nt.html",
+   "summary": "Présentation de la stratégie de campagne du Parti populaire, centrée sur le bilan de gestion d'Alberto Núñez Feijóo, et du calendrier de ses principaux rendez-vous, dont la présentation du programme à Madrid."
   }
  ],
  "results": [
+  {
+   "id": "nz-2026",
+   "date": "2026-11-07",
+   "country": "Nouvelle-Zélande",
+   "region": "Asie-Pacifique",
+   "type": "Législatives",
+   "body": "Parlement (131 sièges projetés)",
+   "status": "provisoire",
+   "rows": [
+    {
+     "name": "National",
+     "value": 42
+    },
+    {
+     "name": "Labour",
+     "value": 36
+    },
+    {
+     "name": "Verts",
+     "value": 16
+    },
+    {
+     "name": "ACT",
+     "value": 13
+    },
+    {
+     "name": "NZ First",
+     "value": 12
+    },
+    {
+     "name": "Opportunity",
+     "value": 7
+    },
+    {
+     "name": "Te Pāti Māori",
+     "value": 5
+    }
+   ],
+   "note": "Résultats préliminaires, indicatifs : National, ACT et NZ First totalisent 67 sièges sur 131 projetés, Labour, Verts, Opportunity et Te Pāti Māori 64. Vote de parti : Labour 29,36 %, National 29,21 %. Participation estimée à 74,6 %. Les votes spéciaux (environ 399 000) peuvent modifier la répartition ; résultats officiels le 27 novembre.",
+   "source": "https://elections.nz/media-and-news/2026/2026-general-election-preliminary-results",
+   "unit": "sièges",
+   "base": "Sièges projetés sur 131, résultats préliminaires avant décompte des votes spéciaux"
+  },
   {
    "id": "gd-2026",
    "date": "2026-11-05",
