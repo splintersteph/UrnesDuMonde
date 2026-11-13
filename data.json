@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "elections": [
   {
    "id": "br-2026-r2",
@@ -2730,6 +2730,23 @@
    },
    "note": "Enquête de suivi quotidienne (tracking)",
    "source": "https://colmenadedatos.com/encuesta-la-septima-el-psoe-lidera-en-votos-y-escanos-sw-demoscopia-8-nov-2026/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "CIS (étude préélectorale n° 3584)",
+   "fieldwork": "7–30 oct.",
+   "published": "2026-11-12",
+   "n": 45074,
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 25.5,
+    "PSOE": 33.3,
+    "Vox": 18.4,
+    "Frente Amplio": 4.7
+   },
+   "note": "Institut public ; entretiens téléphoniques ; Podemos 1,1 % ; estimation éloignée de celles des instituts privés",
+   "source": "https://www.cis.es/documents/d/guest/3584_estimacion-pdf"
   }
  ],
  "articles": [
@@ -2804,15 +2821,6 @@
    "date": "2026-11-02",
    "url": "https://www.yahoo.com/news/politics/articles/us-midterm-elections-2026-know-132008681.html",
    "summary": "L'article explique les enjeux des élections de mi-mandat et le calendrier de publication des résultats selon les fuseaux horaires. Il recense les courses sénatoriales jugées décisives, dont le Maine, l'Ohio, la Caroline du Nord, l'Iowa et la Géorgie."
-  },
-  {
-   "electionId": "cv-2026-p",
-   "lang": "en",
-   "title": "Cape Verde Presidential Campaign Opens Ahead of November 15 Vote",
-   "source": "Trendsnafrica",
-   "date": "2026-11-02",
-   "url": "https://trendsnafrica.com/cape-verde-presidential-campaign-opens-ahead-of-november-15-vote/",
-   "summary": "Le site panafricain présente les six candidats et les thèmes attendus de la campagne : réformes économiques, salaires et emploi des jeunes. Il rappelle que le PAICV, qui soutient José Maria Neves, a remporté la majorité aux législatives de mai."
   },
   {
    "electionId": "bg-2026-p2",
@@ -3382,24 +3390,6 @@
    "summary": "Le quotidien de Dunedin rend compte du dernier sondage Post/Freshwater Strategy, qui place le Parti travailliste devant le Parti national. En sièges, la coalition sortante obtiendrait 59 sièges sur 120, deux de moins que la majorité, et Opportunity pourrait arbitrer s'il franchit le seuil de 5 %."
   },
   {
-   "electionId": "cv-2026-p",
-   "lang": "en",
-   "title": "Cabo Verde Vote: What to Watch in Round One",
-   "source": "The Rio Times",
-   "date": "2026-11-03",
-   "url": "https://www.riotimesonline.com/cabo-verde-presidential-election-what-to-watch-15-november/",
-   "summary": "Guide des enjeux du premier tour du 15 novembre, avec un éventuel second tour le 29 novembre. Le site relève qu'aucun sondage d'un institut identifié n'a été publié et cite seulement des marchés de paris favorables au président sortant."
-  },
-  {
-   "electionId": "cv-2026-p",
-   "lang": "fr",
-   "title": "L'éternelle rivalité",
-   "source": "Sidwaya (Burkina Faso)",
-   "date": "2026-11-03",
-   "url": "https://www.sidwaya.info/2026/11/03/leternelle-rivalite/",
-   "summary": "Texte de commentaire du quotidien burkinabè sur la rivalité historique entre le PAICV et le MpD à l'approche de la présidentielle. Il juge le président sortant José Maria Neves bien placé après la défaite du MpD aux législatives de mai, tout en rappelant les défis persistants du pays."
-  },
-  {
    "electionId": "nz-2026",
    "lang": "en",
    "title": "New Zealanders head to polls on final day of voting",
@@ -3508,24 +3498,6 @@
    "summary": "Après la démission du ministre des Transports Óscar Puente le 3 novembre, la sécurité ferroviaire s'impose comme un thème central de la campagne. L'article évoque aussi la grève générale du 11 novembre, soutenue par les syndicats et contestée par le PP, Vox et le patronat."
   },
   {
-   "electionId": "es-2026",
-   "lang": "fr",
-   "title": "Les nouvelles lettres de Sánchez : comment Ferraz réoriente la campagne après la démission de Puente et les « midterms »",
-   "source": "Demócrata (édition française)",
-   "date": "2026-11-05",
-   "url": "https://www.democrata.es/fr/elections-generales-en-espagne/les-nouvelles-lettres-de-sanchez-comment-ferraz-reoriente-la-campagne-apres-la-demission-de-puente-et-les-midterms/",
-   "summary": "Le PSOE met en avant la notion de responsabilité politique après l'accident d'Urda et la démission d'Óscar Puente. Pedro Sánchez s'appuie aussi sur les résultats des élections américaines et brésiliennes dans son discours de campagne."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "en",
-   "title": "Sánchez seeks campaign reset after Puente’s resignation and US election setback for Trump",
-   "source": "Spain in English",
-   "date": "2026-11-05",
-   "url": "https://www.spainenglish.com/2026/11/05/sanchez-seeks-campaign-reset-after-puentes-resignation-and-us-election-setback-for-trump/",
-   "summary": "Le gouvernement présente la démission d'Óscar Puente comme un acte de responsabilité, alors que le PSOE cherche à reprendre l'initiative. L'article rappelle aussi la démission du président d'Adif après l'accident d'Urda."
-  },
-  {
    "electionId": "ch-2026-11",
    "lang": "fr",
    "title": "La 13e rente AVS arrive... qui va payer la facture?",
@@ -3551,15 +3523,6 @@
    "date": "2026-10-21",
    "url": "https://www.swissinfo.ch/eng/swiss-democracy/poll-shows-swiss-voters-are-undecided-on-arms-exports/92249095",
    "summary": "Un sondage YouGov auprès de 2 949 électeurs montre une forte part d'indécis sur l'assouplissement des exportations d'armes. Il donne aussi des indications sur les trois autres objets soumis au vote du 29 novembre."
-  },
-  {
-   "electionId": "ch-2026-11",
-   "lang": "en",
-   "title": "Pension and taxes: What's at stake in Switzerland's November referendums?",
-   "source": "The Local Switzerland",
-   "date": "2026-10-14",
-   "url": "https://www.thelocal.ch/20261014/pension-and-taxes-whats-at-stake-in-switzerlands-november-referendums",
-   "summary": "Guide des quatre objets soumis au vote le 29 novembre : financement de la 13e rente AVS, feux d'artifice, imposition des couples mariés et exportations de matériel de guerre. L'article cite les premiers sondages Tamedia."
   },
   {
    "electionId": "cv-2026-p",
@@ -3634,15 +3597,6 @@
    "summary": "À quelques jours du premier tour, présentation des enjeux du scrutin dans un archipel réputé pour sa stabilité, où le président sortant José Maria Neves est décrit comme favori face à Joana Rosa."
   },
   {
-   "electionId": "es-2026",
-   "lang": "en",
-   "title": "PP stakes election campaign on Feijóo's track record amid 'collapse' of Sánchez administration",
-   "source": "TodoAlicante (édition anglaise)",
-   "date": "2026-11-06",
-   "url": "https://www.todoalicante.es/english/stakes-election-campaign-feijoo-20261106011154-nt.html",
-   "summary": "Présentation de la stratégie de campagne du Parti populaire, centrée sur le bilan de gestion d'Alberto Núñez Feijóo, et du calendrier de ses principaux rendez-vous, dont la présentation du programme à Madrid."
-  },
-  {
    "electionId": "cv-2026-p",
    "lang": "fr",
    "title": "Cap-Vert : une démocratie stable face au défi de la participation électorale",
@@ -3686,6 +3640,69 @@
    "date": "2026-11-11",
    "url": "https://www.rtbf.be/article/espagne-journee-de-greve-nationale-ce-mercredi-11-novembre-a-trois-semaines-d-elections-anticipees-11813542",
    "summary": "Les syndicats CCOO et UGT appellent à une grève générale de 24 heures sur le logement et les salaires, deux jours avant l'ouverture officielle de la campagne. Le mouvement est présenté comme une pression exercée sur le futur gouvernement issu du scrutin."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "fr",
+   "title": "Espagne: Sondages du 29 novembre : les clés pour comprendre des enquêtes aux résultats très divergents",
+   "source": "Alyaoum24 (édition française)",
+   "date": "2026-11-10",
+   "url": "https://fr.alyaoum24.com/accueil/66133.html",
+   "summary": "Le site compare six sondages privés réalisés du 2 au 5 novembre, qui donnent tous une majorité absolue au PP et à Vox mais divergent nettement sur le nombre de sièges socialistes. Il les met en regard du baromètre d'octobre du CIS et rappelle l'interdiction de publier des sondages dans les derniers jours de la campagne."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "Albiol wants to meet Sílvia Orriols",
+   "source": "Ara (édition anglaise)",
+   "date": "2026-11-06",
+   "url": "https://en.ara.cat/politics/feijoo-chooses-catalonia-and-albiol-for-the-start-of-the-29-n-campaign_1_5902179.html",
+   "summary": "Le quotidien catalan explique que le PP considère la Catalogne comme potentiellement décisive et qu'Alberto Núñez Feijóo ouvrira sa campagne à Badalona aux côtés de Xavier García Albiol, tête de liste à Barcelone. L'article revient aussi sur les propos d'Albiol au sujet de la dirigeante d'Aliança Catalana, Sílvia Orriols."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "en",
+   "title": "Cabo Verde Picks a President on Sunday",
+   "source": "The Rio Times",
+   "date": "2026-11-11",
+   "url": "https://www.riotimesonline.com/cabo-verde-picks-a-president-on-sunday/",
+   "summary": "À quelques jours du premier tour du 15 novembre, le média présente les six candidats et rappelle qu'un second tour aura lieu si personne n'obtient la majorité des suffrages valables. Il précise qu'aucun sondage d'un institut identifié n'a été publié."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "en",
+   "title": "The votes on November 29 are fast approaching – are you ready?",
+   "source": "SWI swissinfo.ch",
+   "date": "2026-10-26",
+   "url": "https://www.swissinfo.ch/eng/votes/the-votes-on-november-29-are-fast-approaching-are-you-ready/92275103",
+   "summary": "Cette lettre destinée aux Suisses de l'étranger présente les quatre objets soumis au vote du 29 novembre et revient sur le premier sondage de la SSR. Elle rappelle que le soutien aux initiatives populaires tend souvent à reculer au fil de la campagne."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "fr",
+   "title": "Cap-Vert : Présidentielle 2026, six candidats dont une femme en lice, scrutin le 15 novembre",
+   "source": "KOACI (Côte d'Ivoire)",
+   "date": "2026-11-12",
+   "url": "https://www.koaci.com/article/2026/11/12/cap-vert/politique/cap-vert-presidentielle-2026-six-candidats-dont-une-femme-en-lice-scrutin-le-15-novembre_202546.html",
+   "summary": "Présentation des six candidats et du corps électoral, d'environ 426 500 inscrits dont près d'un cinquième dans la diaspora. L'article signale aussi l'arrivée d'observateurs de plusieurs organisations internationales."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "fr",
+   "title": "Modèle démocratique, musique et \"Requins bleus\": cinq choses à savoir sur le Cap-Vert",
+   "source": "AFP (Boursorama)",
+   "date": "2026-11-10",
+   "url": "https://www.boursorama.com/actualite-economique/actualites/modele-democratique-musique-et-requins-bleus-cinq-choses-a-savoir-sur-le-cap-vert-fc3cb6bb7e7fb33439182bfeab9481ec",
+   "summary": "Portrait de l'archipel à l'approche du scrutin : stabilité institutionnelle, alternances régulières, diaspora et rayonnement culturel et sportif."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "fr",
+   "title": "Ainsi commencent Sánchez, Feijóo, Abascal, Colau et Montero",
+   "source": "Demócrata (édition française)",
+   "date": "2026-11-12",
+   "url": "https://www.democrata.es/fr/politique/sanchez-lance-aujourd-hui-la-campagne-a-seville-feijoo-a-badalona-et-abascal-colau-et-montero-choisissent-madrid/",
+   "summary": "Lieux choisis par les principaux candidats pour l'ouverture de la campagne officielle : Séville pour Pedro Sánchez, Badalone pour Alberto Núñez Feijóo, Madrid pour Santiago Abascal, Ada Colau et Irene Montero."
   }
  ],
  "results": [
