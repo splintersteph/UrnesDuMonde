@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "elections": [
   {
    "id": "br-2026-r2",
@@ -2747,6 +2747,39 @@
    },
    "note": "Institut public ; entretiens téléphoniques ; Podemos 1,1 % ; estimation éloignée de celles des instituts privés",
    "source": "https://www.cis.es/documents/d/guest/3584_estimacion-pdf"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "Sigma Dos (pour El Mundo)",
+   "fieldwork": "3–11 nov.",
+   "published": "2026-11-12",
+   "n": 3120,
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 30.8,
+    "PSOE": 25.3,
+    "Vox": 19.6,
+    "Frente Amplio": 5.8
+   },
+   "note": "Frente Amplio 7,3 % en incluant Compromís-FV (1,1 %) et UPC (0,4 %) ; Podemos 1,4 % ; entretiens téléphoniques et en ligne, marge d'erreur ±1,8 point",
+   "source": "https://www.electografica.com/2026/11/encuesta-sigmados-261113.html"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "40dB (pour El País et Cadena SER)",
+   "fieldwork": "10–12 nov.",
+   "published": "2026-11-13",
+   "n": 1000,
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 31.5,
+    "PSOE": 29.4,
+    "Vox": 18.8
+   },
+   "note": "Suivi quotidien (tracking) en ligne ; Frente Amplio non relevé",
+   "source": "https://www.electografica.com/2026/11/encuesta-40db-261113.html"
   }
  ],
  "articles": [
@@ -3444,15 +3477,6 @@
    "summary": "Portrait de campagne de Joana Rosa, ancienne ministre de la Justice soutenue par le MpD. Son programme en dix engagements met l'accent sur le dialogue, la proximité avec les citoyens et la protection des institutions."
   },
   {
-   "electionId": "cv-2026-p",
-   "lang": "en",
-   "title": "ECOWAS DEPLOYS A LONG-TERM ELECTION OBSERVATION MISSION IN THE REPUBLIC OF CABO VERDE",
-   "source": "CEDEAO (ECOWAS)",
-   "date": "2026-11-03",
-   "url": "https://www.ecowas.int/ecowas-deploys-a-long-term-election-observation-mission-in-the-republic-of-cabo-verde-2/",
-   "summary": "La CEDEAO déploie du 3 au 19 novembre une mission d'observation de longue durée de 20 experts répartis sur toutes les îles, avant l'arrivée d'une mission de courte durée d'environ 60 observateurs."
-  },
-  {
    "electionId": "ch-2026-11",
    "lang": "fr",
    "title": "Votations du 29 novembre: démarrage explosif pour l'initiative sur les feux d'artifice",
@@ -3469,15 +3493,6 @@
    "date": "2026-10-23",
    "url": "https://frapp.ch/fr/articles/stories/armes-impots-feux-dartifice-qui-vote-quoi-le-29-novembre",
    "summary": "Présentation des quatre objets et des clivages révélés par le sondage SSR mené du 5 au 18 octobre auprès de 14 874 personnes."
-  },
-  {
-   "electionId": "ch-2026-11",
-   "lang": "en",
-   "title": "Swiss voters to decide on four federal proposals in November",
-   "source": "Le News",
-   "date": "2026-10-15",
-   "url": "https://lenews.ch/2026/10/15/swiss-voters-to-decide-on-four-federal-proposals-in-november/",
-   "summary": "Explication des quatre objets : hausse de 0,4 point de TVA pour financer la 13e rente AVS, initiative sur les feux d'artifice, imposition des couples mariés et révision de la loi sur le matériel de guerre, avec les recommandations du gouvernement et du Parlement."
   },
   {
    "electionId": "nz-2026",
@@ -3554,15 +3569,6 @@
   {
    "electionId": "es-2026",
    "lang": "fr",
-   "title": "Législatives en Espagne : Après le tragique accident de train d'Urda, Pedro Sánchez obligé de « repartir de zéro »",
-   "source": "20 Minutes (Yahoo Actualités)",
-   "date": "2026-11-07",
-   "url": "https://fr.news.yahoo.com/sport/l%C3%A9gislatives-espagne-apr%C3%A8s-tragique-accident-040736559.html",
-   "summary": "L'article analyse le recul du PSOE dans les sondages après l'accident ferroviaire d'Urda, qui a fait 69 morts. Il cite une moyenne de sondages d'El Periódico plaçant le PSOE autour de 25 % et le PP au-dessus de 32 %."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "fr",
    "title": "Feijóo ouvre la porte à gouverner avec Vox et laisse sans préciser quels ministères il céderait",
    "source": "Demócrata (édition française)",
    "date": "2026-11-08",
@@ -3597,15 +3603,6 @@
    "summary": "À quelques jours du premier tour, présentation des enjeux du scrutin dans un archipel réputé pour sa stabilité, où le président sortant José Maria Neves est décrit comme favori face à Joana Rosa."
   },
   {
-   "electionId": "cv-2026-p",
-   "lang": "fr",
-   "title": "Cap-Vert : une démocratie stable face au défi de la participation électorale",
-   "source": "La Cinquième (Togo)",
-   "date": "2026-11-03",
-   "url": "https://www.lacinquieme.tg/cap-vert-une-democratie-stable-face-au-defi-de-la-participation-electorale/",
-   "summary": "L'article souligne la faible mobilisation des électeurs cap-verdiens, plus de la moitié des inscrits s'étant abstenus à la présidentielle de 2021. Il présente les six candidats et rappelle le poids de la diaspora, environ 18 % des quelque 426 500 inscrits."
-  },
-  {
    "electionId": "es-2026",
    "lang": "en",
    "title": "Spanish snap elections on 29 November: is it the end of the Sánchez era?",
@@ -3613,15 +3610,6 @@
    "date": "2026-11-10",
    "url": "https://www.robert-schuman.eu/en/monitor/6907-spanish-snap-elections-on-29-november-is-it-the-end-of-the-sanchez-era",
    "summary": "Cette analyse revient sur la dissolution anticipée des Cortes après le rejet des décrets sur le logement et sur le bilan du gouvernement Sánchez. Elle décrit un paysage fragmenté où le PP pourrait avoir besoin de Vox pour gouverner."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "fr",
-   "title": "Ampliation | Feijóo mise sur El cambio necesario comme slogan de sa campagne qui débute le jeudi 12 à Badalona",
-   "source": "Demócrata (édition française)",
-   "date": "2026-11-06",
-   "url": "https://www.democrata.es/fr/politique/ampliation-feijoo-mise-sur-el-cambio-necesario-comme-slogan-de-sa-campagne-qui-debute-le-jeudi-12-a-badalona/",
-   "summary": "Le Parti populaire a choisi le slogan « Le changement nécessaire » pour la campagne officielle, qui s'ouvre le 12 novembre à Badalona. Le parti prévoit des campagnes locales, numériques et régionales, avec la participation annoncée de José María Aznar et Mariano Rajoy."
   },
   {
    "electionId": "ch-2026-11",
@@ -3649,15 +3637,6 @@
    "date": "2026-11-10",
    "url": "https://fr.alyaoum24.com/accueil/66133.html",
    "summary": "Le site compare six sondages privés réalisés du 2 au 5 novembre, qui donnent tous une majorité absolue au PP et à Vox mais divergent nettement sur le nombre de sièges socialistes. Il les met en regard du baromètre d'octobre du CIS et rappelle l'interdiction de publier des sondages dans les derniers jours de la campagne."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "en",
-   "title": "Albiol wants to meet Sílvia Orriols",
-   "source": "Ara (édition anglaise)",
-   "date": "2026-11-06",
-   "url": "https://en.ara.cat/politics/feijoo-chooses-catalonia-and-albiol-for-the-start-of-the-29-n-campaign_1_5902179.html",
-   "summary": "Le quotidien catalan explique que le PP considère la Catalogne comme potentiellement décisive et qu'Alberto Núñez Feijóo ouvrira sa campagne à Badalona aux côtés de Xavier García Albiol, tête de liste à Barcelone. L'article revient aussi sur les propos d'Albiol au sujet de la dirigeante d'Aliança Catalana, Sílvia Orriols."
   },
   {
    "electionId": "cv-2026-p",
@@ -3703,6 +3682,60 @@
    "date": "2026-11-12",
    "url": "https://www.democrata.es/fr/politique/sanchez-lance-aujourd-hui-la-campagne-a-seville-feijoo-a-badalona-et-abascal-colau-et-montero-choisissent-madrid/",
    "summary": "Lieux choisis par les principaux candidats pour l'ouverture de la campagne officielle : Séville pour Pedro Sánchez, Badalone pour Alberto Núñez Feijóo, Madrid pour Santiago Abascal, Ada Colau et Irene Montero."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "Spain's Sánchez faces political test as deadly train crash casts shadow over election campaign",
+   "source": "Associated Press (WSB-TV)",
+   "date": "2026-11-12",
+   "url": "https://www.wsbtv.com/news/world/spains-snchez-faces/HWRYYETRTA77FHWMXH5OFPVX7A/",
+   "summary": "L'agence revient sur la collision ferroviaire à grande vitesse du 28 octobre (69 morts) et sur la manière dont le gouvernement aborde la campagne après la démission du ministre des Transports. Elle rappelle que les sondages, avant comme après l'accident, placent le PSOE derrière le total des voix du PP et de Vox."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "fr",
+   "title": "Feijóo demande à Sánchez « où est l’argent des Espagnols » et dénonce la dégradation des services publics",
+   "source": "Demócrata (édition française)",
+   "date": "2026-11-12",
+   "url": "https://www.democrata.es/fr/elections-generales-en-espagne/feijoo-demande-a-sanchez-ou-est-l-argent-des-espagnols-et-denonce-la-degradation-des-services-publics/",
+   "summary": "Compte rendu du meeting d'ouverture de campagne du Parti populaire à Badalone. Alberto Núñez Feijóo y oppose le niveau des recettes fiscales, de la dette et des fonds européens à l'état des infrastructures et des services publics."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "en",
+   "title": "Cape Verde president eyes new term as party builds on legislative win",
+   "source": "Reuters (Daily Maverick)",
+   "date": "2026-11-13",
+   "url": "https://www.dailymaverick.co.za/article/2026-11-13-cape-verde-president-eyes-new-term-as-party-builds-on-legislative-win/",
+   "summary": "La veille du silence électoral, l'agence présente le président sortant José Maria Neves comme favori face à l'ancienne ministre de la Justice Joana Rosa, soutenue par le MpD. Un second tour est prévu le 29 novembre si aucun candidat ne dépasse 50 %."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "fr",
+   "title": "Cap-Vert: Élection présidentielle - Les enjeux dans l'une des démocraties les plus stables d'Afrique",
+   "source": "allAfrica",
+   "date": "2026-11-12",
+   "url": "https://fr.allafrica.com/stories/202611120333.html",
+   "summary": "Présentation des enjeux du scrutin du 15 novembre, six mois après le retour au pouvoir du PAICV aux législatives de mai, qui a mis fin à dix ans de gouvernement du MpD."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "PP and Vox ahead in latest Spain election poll",
+   "source": "The Olive Press",
+   "date": "2026-11-12",
+   "url": "https://www.theolivepress.es/spain-news/2026/11/12/pp-vox-spain-election-poll/",
+   "summary": "Le journal anglophone de la Costa del Sol fait le point sur les dernières estimations, qui placent le PP en tête devant le PSOE et Vox à un peu plus de deux semaines du scrutin."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "en",
+   "title": "Swiss neutrality proponents challenge arms firms in vote on easing of exports",
+   "source": "Reuters (Internazionale)",
+   "date": "2026-11-09",
+   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/09/swiss-neutrality-proponents-challenge-arms-firms-in-vote-on-easing-of-exports",
+   "summary": "L'agence décrit l'affrontement autour de l'assouplissement des exportations de matériel de guerre, défendu par l'industrie et les partis de droite, et combattu par les partisans de la neutralité qui ont lancé le référendum."
   }
  ],
  "results": [
