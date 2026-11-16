@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "elections": [
   {
    "id": "br-2026-r2",
@@ -370,7 +370,7 @@
      "role": "Enseignant, candidat indépendant"
     }
    ],
-   "note": "Six candidatures admises par la Cour constitutionnelle, dont celle de Loisito Tavares, retenue après recours. La campagne officielle court du 29 octobre au 13 novembre ; second tour le 29 novembre si aucun candidat n'obtient la majorité absolue."
+   "note": "Six candidatures admises par la Cour constitutionnelle. Selon les résultats provisoires de la Commission nationale des élections, José Maria Neves est réélu dès le premier tour avec environ 63,8 % des voix ; Joana Rosa a reconnu sa défaite. Pas de second tour."
   },
   {
    "id": "ch-2026-11",
@@ -467,7 +467,8 @@
    "region": "Afrique",
    "type": "Présidentielle",
    "body": "Président de la République",
-   "source": "https://en.wikipedia.org/wiki/2026_Gambian_presidential_election"
+   "source": "https://en.wikipedia.org/wiki/2026_Gambian_presidential_election",
+   "note": "Neuf candidatures validées par la Commission électorale indépendante, dont celles du président sortant Adama Barrow (NPP), d'Ousainou Darboe (UDP), de Talib Ahmed Bensouda et d'Isatou Touray. Campagne officielle du 16 novembre au 3 décembre."
   },
   {
    "id": "gw-2026",
@@ -494,15 +495,15 @@
   },
   {
    "id": "ss-2026",
-   "date": "2026-12-22",
+   "date": "2027-02-11",
    "precision": "day",
-   "status": "fixée",
+   "status": "provisoire",
    "country": "Soudan du Sud",
    "region": "Afrique",
    "type": "Générales",
    "body": "Président, Assemblée et Conseil des États",
-   "note": "Premières élections du pays, après plusieurs reports.",
-   "source": "https://apnews.com/article/south-sudan-election-3a72362c73baaae10ae57bdf086b2df0"
+   "note": "Premières élections du pays. La Commission nationale des élections a reporté le scrutin, prévu le 22 décembre 2026, au 11 février 2027 ; campagne à partir du 27 décembre. La conformité de ce report avec le calendrier fixé par la loi est discutée.",
+   "source": "https://www.aa.com.tr/en/africa/south-sudan-s-long-awaited-elections-delayed-again-as-nec-sets-feb-11-2027-poll-date/4125040"
   },
   {
    "id": "gr-2027",
@@ -2831,9 +2832,348 @@
    },
    "note": "Suivi quotidien ; Podemos 1,5 % ; chiffres relevés sur l'agrégateur Mapa Electoral",
    "source": "https://mapaelectoral.es/encuestas/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "SW Demoscopia (pour La Séptima)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-14",
+   "n": 8000,
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 28.3,
+    "PSOE": 31.7,
+    "Vox": 17.1,
+    "Frente Amplio": 7.3
+   },
+   "note": "Suivi quotidien ; Frente Amplio inclut les candidatures territoriales (Compromís-FV, UPC) ; taille d'échantillon relevée sur l'agrégateur Mapa Electoral",
+   "source": "https://www.democrata.es/encuestas/elecciones-generales/tracking-sw-demoscopia-14-noviembre-2026/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "YouGov (pour Ara)",
+   "fieldwork": "26 oct.–2 nov.",
+   "published": "2026-11-14",
+   "n": 1221,
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 29.6,
+    "PSOE": 25.9,
+    "Vox": 20.0,
+    "Frente Amplio": 9.2
+   },
+   "note": "Enquête en ligne, marge d'erreur ±2,8 points ; PP inclut UPN-PP ; Frente Amplio (9,2 %) et Podemos (1,8 %) relevés sur l'agrégateur Mapa Electoral",
+   "source": "https://www.democrata.es/elecciones-generales-espana/yougov-ara-vox-72-escanos-29n/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "EM-Analytics (pour Electomanía)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-14",
+   "n": 2348,
+   "base": "Estimation de vote (base non précisée par l'agrégateur)",
+   "unit": "%",
+   "values": {
+    "PP": 30.6,
+    "PSOE": 26.5,
+    "Vox": 18.8,
+    "Frente Amplio": 7.7
+   },
+   "note": "Suivi quotidien ; Podemos 1,4 % ; chiffres relevés sur l'agrégateur Mapa Electoral",
+   "source": "https://mapaelectoral.es/encuestas/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "40dB (pour El País et Cadena SER)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-14",
+   "n": 1500,
+   "base": "Estimation de vote (base non précisée par l'agrégateur)",
+   "unit": "%",
+   "values": {
+    "PP": 31.1,
+    "PSOE": 29.8,
+    "Vox": 18.5,
+    "Frente Amplio": 5.2
+   },
+   "note": "Suivi quotidien en ligne ; Podemos 1,3 % ; chiffres relevés sur l'agrégateur Mapa Electoral",
+   "source": "https://mapaelectoral.es/encuestas/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "40dB (pour El País et Cadena SER)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-15",
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 31.4,
+    "PSOE": 29.9,
+    "Vox": 18.3,
+    "Frente Amplio": 5.4
+   },
+   "note": "Suivi quotidien en ligne ; chiffres relevés sur Electomanía",
+   "source": "https://electomania.es/tracking-40db-15-nov-los-socialistas-ganan-por-la-izquierda-lo-que-pierden-por-la-derecha/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "40dB (pour El País et Cadena SER)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-16",
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 31.5,
+    "PSOE": 30.3,
+    "Vox": 18.0
+   },
+   "note": "Suivi quotidien en ligne ; Frente Amplio non relevé (chiffres contradictoires dans la source)",
+   "source": "https://www.democrata.es/encuestas/elecciones-generales/tracking-encuesta-29n-hoy-40db-16-noviembre-2026/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "SocioMétrica (pour El Español)",
+   "fieldwork": "Cumul du 1er sept. au 15 nov.",
+   "published": "2026-11-15",
+   "n": 5923,
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 31.6,
+    "PSOE": 27.8,
+    "Vox": 19.1,
+    "Frente Amplio": 4.4
+   },
+   "note": "Panel en ligne, marge d'erreur ±1,3 point ; ERC 2,5 %",
+   "source": "https://www.electografica.com/2026/11/encuesta-sociometrica-261115.html"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "Sondaxe (pour La Voz de Galicia)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-15",
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 30.8,
+    "PSOE": 26.4,
+    "Vox": 18.2,
+    "Frente Amplio": 6.4
+   },
+   "note": "Première vague du suivi de campagne ; fiche technique non relevée",
+   "source": "https://electomania.es/encuesta-sondaxe-15-nov-la-suma-de-pp-y-vox-con-195-escanos/"
   }
  ],
  "articles": [
+  {
+   "electionId": "cv-2026-p",
+   "lang": "en",
+   "title": "Cabo Verde's incumbent president declares re-election victory",
+   "source": "Xinhua",
+   "date": "2026-11-16",
+   "url": "https://english.news.cn/africa/20261116/b33db69585a44b52aafedc6438cebd8e/c.html",
+   "summary": "José Maria Neves a revendiqué sa réélection alors que près de 97 % des bureaux de vote avaient été dépouillés. Sa principale adversaire l'a félicité."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "fr",
+   "title": "Le Cap-Vert élit son président, José Maria Neves candidat sortant",
+   "source": "Quartz Afrique (AFP)",
+   "date": "2026-11-15",
+   "url": "https://fr.qz.com/cap-vert-election-presidentielle-neves-amado-six-candidats-111526",
+   "summary": "Les bureaux sont ouverts de 8 h à 18 h heure locale pour un scrutin à six candidats, dont le président sortant soutenu par le PAICV et une ancienne ministre soutenue par le MpD. La campagne a porté sur le coût de la vie, l'émigration des jeunes et la dépendance aux importations de carburant."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "fr",
+   "title": "Cap-Vert : le président sortant José María Neves réélu pour un second mandat (résultats provisoires)",
+   "source": "Boursorama (AFP)",
+   "date": "2026-11-15",
+   "url": "https://www.boursorama.com/actualite-economique/actualites/cap-vert-le-president-sortant-jose-maria-neves-reelu-pour-un-second-mandat-resultats-provisoires-1eafb3461e728f8c921cb53fdd2b9d8b",
+   "summary": "Selon les résultats provisoires, le président sortant soutenu par le PAICV l'emporte dès le premier tour, loin devant la candidate soutenue par le MpD, qui a reconnu sa défaite. L'abstention atteint un niveau élevé."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "Feijóo lands in Santander to seek the third PP deputy for Cantabria in the 29N elections",
+   "source": "Demócrata (édition anglaise)",
+   "date": "2026-11-15",
+   "url": "https://www.democrata.es/en/general-elections-spain/feijoo-lands-in-santander-to-seek-the-third-pp-deputy-for-cantabria-in-the-29n-elections/",
+   "summary": "Le président du PP a fait campagne à Santander pour tenter d'obtenir un troisième siège en Cantabrie. Il a également réagi aux incidents survenus lors d'un meeting de son parti au Pays basque."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "fr",
+   "title": "Présidentielle au Cap-Vert : derrière la stabilité politique, des défis sociaux à relever",
+   "source": "France 24",
+   "date": "2026-11-14",
+   "url": "https://www.france24.com/fr/afrique/20261114-pr%C3%A9sidentielle-au-cap-vert-derri%C3%A8re-la-stabilit%C3%A9-politique-des-d%C3%A9fis-sociaux-%C3%A0-relever",
+   "summary": "À la veille du scrutin, France 24 décrit un archipel réputé pour sa stabilité démocratique mais confronté à des difficultés sociales, dont la vie chère, au cœur de la campagne."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "fr",
+   "title": "Présidentielle au Cap-Vert : près de 420 000 électeurs appelés aux urnes ce dimanche 15 novembre",
+   "source": "PressAfrik",
+   "date": "2026-11-14",
+   "url": "https://pressafrik.com/Presidentielle-au-Cap-Vert-pres-de-420-000-electeurs-appeles-aux-urnes-ce-dimanche-15-novembre_a314582.html",
+   "summary": "Le premier tour réunit six candidats et 419 448 inscrits, dont environ 82 % votent dans l'archipel et le reste à l'étranger, dans 1 302 bureaux. Les résultats provisoires sont attendus au plus tard le 17 novembre."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "Political round-up: General strike shifts momentum as parties fight for votes before Spain election",
+   "source": "The Olive Press",
+   "date": "2026-11-14",
+   "url": "https://www.theolivepress.es/spain-news/2026/11/14/political-round-up-general-strike-shifts-momentum-as-parties-fight-for-votes-before-spain-election/",
+   "summary": "Tour d'horizon de la campagne après la grève générale du 11 novembre sur le logement et les salaires, marquée par des heurts et plus d'une centaine d'interpellations. L'article rappelle l'écart entre les instituts privés, qui placent le PP en tête, et le CIS, qui donne l'avantage au PSOE."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "fr",
+   "title": "Sánchez appelle à une participation de 75% le 29N pour atteindre 176 sièges : « À voter, à gagner et à gouverner quatre ans de plus »",
+   "source": "Demócrata (édition française)",
+   "date": "2026-11-14",
+   "url": "https://www.democrata.es/fr/elections-generales-en-espagne/sanchez-appelle-a-une-participation-de-75-le-29n-pour-atteindre-176-sieges-a-voter-a-gagner-et-a-gouverner-quatre-ans-de-plus/",
+   "summary": "Lors d'un meeting à Palma de Majorque, le candidat socialiste a fixé un objectif de participation de 75 % pour viser la majorité absolue. Il a critiqué ses adversaires du PP et de Vox et défendu le bilan de son gouvernement."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "en",
+   "title": "Cape Verde president eyes new term as party builds on legislative win",
+   "source": "Reuters (Daily Maverick)",
+   "date": "2026-11-13",
+   "url": "https://www.dailymaverick.co.za/article/2026-11-13-cape-verde-president-eyes-new-term-as-party-builds-on-legislative-win/",
+   "summary": "La veille du silence électoral, l'agence présente le président sortant José Maria Neves comme favori face à l'ancienne ministre de la Justice Joana Rosa, soutenue par le MpD. Un second tour est prévu le 29 novembre si aucun candidat ne dépasse 50 %."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "en",
+   "title": "Cabo Verde Campaign Ends Before Sunday Vote",
+   "source": "The Rio Times",
+   "date": "2026-11-13",
+   "url": "https://riotimesonline.com/cabo-verde-campaign-ends-before-sunday-vote",
+   "summary": "La campagne s'achève avant le premier tour du 15 novembre, qui oppose six candidats dont le président sortant José Maria Neves et Joana Rosa. Un second tour aurait lieu le 29 novembre si aucun candidat n'obtient la majorité absolue."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "en",
+   "title": "Cape Verde Set to Hold Presidential Election",
+   "source": "Voice of Nigeria",
+   "date": "2026-11-13",
+   "url": "https://von.gov.ng/cape-verde-set-to-hold-presidential-election/",
+   "summary": "Présentation du scrutin : José Maria Neves, soutenu par le PAICV vainqueur des législatives de mai, brigue un second mandat de cinq ans. Sa principale adversaire, Joana Rosa, soutenue par le MpD, deviendrait la première femme à la présidence."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "fr",
+   "title": "Cabo Verde – Présidentielle : le PAICV face au risque d'un retour à la cohabitation",
+   "source": "Ouestaf",
+   "date": "2026-11-13",
+   "url": "https://www.ouestaf.com/cabo-verde-presidentielle-le-paicv-face-au-risque-dun-retour-a-la-cohabitation/",
+   "summary": "Le média ouest-africain analyse l'enjeu institutionnel du scrutin, entre le président sortant soutenu par le PAICV et cinq autres candidats dont Joana Rosa. La campagne a porté sur le coût de la vie, le chômage des jeunes et les liaisons entre les îles."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "Spain's general election campaign opens with rallies across the country ahead of 29 November vote",
+   "source": "Spain in English",
+   "date": "2026-11-13",
+   "url": "https://www.spainenglish.com/2026/11/13/spains-general-election-campaign-opens-with-rallies-across-the-country-ahead-of-29-november-vote/",
+   "summary": "La campagne officielle s'est ouverte à minuit le 13 novembre après des meetings des chefs de parti dans plusieurs villes. Elle durera jusqu'au 27 novembre ; la grève générale et le logement ont dominé les premiers discours."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "Spain's election campaign opens with polls pointing to right-wing majority",
+   "source": "Brussels Signal",
+   "date": "2026-11-13",
+   "url": "https://brusselssignal.eu/2026/11/spains-election-campaign-opens-with-polls-pointing-to-right-wing-majority/",
+   "summary": "L'article fait le point sur les sondages à l'ouverture de la campagne. Les instituts privés donnent une majorité au PP et à Vox réunis, tandis que le CIS public place le PSOE en tête."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "The 29N campaign kicks off with housing and undecided voters at the center: Sánchez seeks a comeback, Vox pressures a declining PP, and Colau and Montero dispute the \"useful vote\"",
+   "source": "El Constitucional (édition anglaise)",
+   "date": "2026-11-13",
+   "url": "https://www.elconstitucional.es/en/national/the-29n-campaign-kicks-off-with-housing-and-undecided-voters-at-the-center-sanchez-seeks-comeback-vox-pressures-declining-pp-and-colau-and-montero-dispute-the-useful-vote_10118_102.html",
+   "summary": "Ouverture officielle de la campagne avec le logement au centre des débats et environ 15,8 % d'indécis selon l'enquête préélectorale du CIS. La Députation permanente du Congrès a validé un décret sur le logement par 35 voix contre 34."
+  },
+  {
+   "electionId": "gm-2026-p",
+   "lang": "fr",
+   "title": "Gambie : Présidentielle 2026, la CEI valide 5 candidatures dont celle d'Adam Barrow",
+   "source": "KOACI",
+   "date": "2026-11-13",
+   "url": "https://www.koaci.com/article/2026/11/13/gambie/societe/gambie-presidentielle-2026-la-cei-valide-5-candidatures-dont-celle-dadam-barrow_202590.html",
+   "summary": "La Commission électorale indépendante a annoncé la validation de cinq premières candidatures pour la présidentielle du 5 décembre. La liste comprend le chef de l'État sortant, des candidats de l'opposition et une candidate indépendante."
+  },
+  {
+   "electionId": "cv-2026-p",
+   "lang": "fr",
+   "title": "Cap-Vert : Présidentielle 2026, six candidats dont une femme en lice, scrutin le 15 novembre",
+   "source": "KOACI (Côte d'Ivoire)",
+   "date": "2026-11-12",
+   "url": "https://www.koaci.com/article/2026/11/12/cap-vert/politique/cap-vert-presidentielle-2026-six-candidats-dont-une-femme-en-lice-scrutin-le-15-novembre_202546.html",
+   "summary": "Présentation des six candidats et du corps électoral, d'environ 426 500 inscrits dont près d'un cinquième dans la diaspora. L'article signale aussi l'arrivée d'observateurs de plusieurs organisations internationales."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "fr",
+   "title": "Ainsi commencent Sánchez, Feijóo, Abascal, Colau et Montero",
+   "source": "Demócrata (édition française)",
+   "date": "2026-11-12",
+   "url": "https://www.democrata.es/fr/politique/sanchez-lance-aujourd-hui-la-campagne-a-seville-feijoo-a-badalona-et-abascal-colau-et-montero-choisissent-madrid/",
+   "summary": "Lieux choisis par les principaux candidats pour l'ouverture de la campagne officielle : Séville pour Pedro Sánchez, Badalone pour Alberto Núñez Feijóo, Madrid pour Santiago Abascal, Ada Colau et Irene Montero."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "Spain's Sánchez faces political test as deadly train crash casts shadow over election campaign",
+   "source": "Associated Press (WSB-TV)",
+   "date": "2026-11-12",
+   "url": "https://www.wsbtv.com/news/world/spains-snchez-faces/HWRYYETRTA77FHWMXH5OFPVX7A/",
+   "summary": "L'agence revient sur la collision ferroviaire à grande vitesse du 28 octobre (69 morts) et sur la manière dont le gouvernement aborde la campagne après la démission du ministre des Transports. Elle rappelle que les sondages, avant comme après l'accident, placent le PSOE derrière le total des voix du PP et de Vox."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "fr",
+   "title": "Feijóo demande à Sánchez « où est l’argent des Espagnols » et dénonce la dégradation des services publics",
+   "source": "Demócrata (édition française)",
+   "date": "2026-11-12",
+   "url": "https://www.democrata.es/fr/elections-generales-en-espagne/feijoo-demande-a-sanchez-ou-est-l-argent-des-espagnols-et-denonce-la-degradation-des-services-publics/",
+   "summary": "Compte rendu du meeting d'ouverture de campagne du Parti populaire à Badalone. Alberto Núñez Feijóo y oppose le niveau des recettes fiscales, de la dette et des fonds européens à l'état des infrastructures et des services publics."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "PP and Vox ahead in latest Spain election poll",
+   "source": "The Olive Press",
+   "date": "2026-11-12",
+   "url": "https://www.theolivepress.es/spain-news/2026/11/12/pp-vox-spain-election-poll/",
+   "summary": "Le journal anglophone de la Costa del Sol fait le point sur les dernières estimations, qui placent le PP en tête devant le PSOE et Vox à un peu plus de deux semaines du scrutin."
+  },
+  {
+   "electionId": "gm-2026-p",
+   "lang": "en",
+   "title": "Five candidates confirmed for Gambia's presidential election",
+   "source": "Africanews",
+   "date": "2026-11-12",
+   "url": "https://www.africanews.com/2026/11/12/five-candidates-confirmed-for-gambias-presidential-election/",
+   "summary": "La commission électorale a validé une première série de cinq candidatures, dont celles du président sortant et du chef de l'UDP, d'autres dossiers restant alors à l'examen. Le scrutin est fixé au 5 décembre."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "en",
+   "title": "Swiss neutrality proponents challenge arms firms in vote on easing of exports",
+   "source": "Reuters (Internazionale)",
+   "date": "2026-11-09",
+   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/09/swiss-neutrality-proponents-challenge-arms-firms-in-vote-on-easing-of-exports",
+   "summary": "L'agence décrit l'affrontement autour de l'assouplissement des exportations de matériel de guerre, défendu par l'industrie et les partis de droite, et combattu par les partisans de la neutralité qui ont lancé le référendum."
+  },
   {
    "electionId": "nz-2026",
    "lang": "fr",
@@ -2907,6 +3247,24 @@
    "summary": "Le quotidien de Dunedin rend compte du dernier sondage Post/Freshwater Strategy, qui place le Parti travailliste devant le Parti national. En sièges, la coalition sortante obtiendrait 59 sièges sur 120, deux de moins que la majorité, et Opportunity pourrait arbitrer s'il franchit le seuil de 5 %."
   },
   {
+   "electionId": "ch-2026-11",
+   "lang": "fr",
+   "title": "La 13e rente AVS arrive... qui va payer la facture?",
+   "source": "Blick (édition romande)",
+   "date": "2026-11-04",
+   "url": "https://www.blick.ch/fr/suisse/votation-tout-ce-quil-faut-savoir-sur-le-financement-de-lavs/n3d10y4",
+   "summary": "L'article détaille le financement de la 13e rente AVS soumis au vote : la hausse de TVA rapporterait environ 1,5 milliard de francs par an, sans couvrir l'ensemble du coût. Il présente la répartition des partis entre partisans et opposants."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "en",
+   "title": "Swiss vote: should Switzerland loosen its arms export rules?",
+   "source": "SWI swissinfo.ch",
+   "date": "2026-11-04",
+   "url": "https://www.swissinfo.ch/eng/votes/swiss-vote-should-switzerland-loosen-its-arms-export-rules/92277204",
+   "summary": "Présentation de la révision de la loi sur le matériel de guerre, qui assouplirait les exportations vers les pays de l'UE et d'autres États, y compris en cas de conflit. Le référendum a été lancé par des opposants, dont le PS et les Verts."
+  },
+  {
    "electionId": "nz-2026",
    "lang": "en",
    "title": "Analysis: Steel yourself for a four-party coalition",
@@ -2943,24 +3301,6 @@
    "summary": "Présentation des enjeux du scrutin pour les 15 sièges de la Chambre, opposant principalement le NDC de Dickon Mitchell au NNP d'Emmalin Pierre. L'article note l'absence de sondage indépendant publié."
   },
   {
-   "electionId": "gd-2026",
-   "lang": "fr",
-   "title": "Grenade fixe la date du 5 novembre pour les élections générales",
-   "source": "Radio Télévision Caraïbes",
-   "date": "2026-10-06",
-   "url": "https://www.radiotelevisioncaraibes.com/grenade-fixe-la-date-du-5-novembre-pour-les-elections-generales/",
-   "summary": "Le média martiniquais relaie l'annonce du Premier ministre Dickon Mitchell, quelques jours après la dissolution du Parlement le 2 octobre. Le scrutin dira si le Congrès national démocratique conserve le pouvoir."
-  },
-  {
-   "electionId": "gd-2026",
-   "lang": "fr",
-   "title": "La Grenade organisera des élections législatives le 5 novembre",
-   "source": "Xinhua (français)",
-   "date": "2026-10-04",
-   "url": "http://french.xinhuanet.com/20261004/37e168d726954d9684f8b28d57323c51/c.html",
-   "summary": "L'agence chinoise rapporte la publication au journal officiel de la date du scrutin et de la date limite de dépôt des candidatures, fixée au 15 octobre. Le précédent scrutin national remontait à juin 2022."
-  },
-  {
    "electionId": "us-2026",
    "lang": "fr",
    "title": "Jour d'élections décisives aux États-Unis pour Trump et la suite de son mandat",
@@ -2968,6 +3308,15 @@
    "date": "2026-11-03",
    "url": "https://www.dhnet.be/dernieres-depeches/2026/11/03/jour-delections-decisives-aux-etats-unis-pour-trump-et-la-suite-de-son-mandat-PAIQDHS7UFF55LJCSUNFSY4EKY/",
    "summary": "Les Américains votent pour renouveler le Congrès à mi-mandat de Donald Trump, les sondages donnant l'avantage aux démocrates pour la Chambre. Le coût de la vie figure parmi les thèmes principaux de la campagne."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "fr",
+   "title": "Pénalisation du mariage: un feuilleton fiscal vieux de 40 ans aux urnes",
+   "source": "Blick (édition romande)",
+   "date": "2026-11-02",
+   "url": "https://www.blick.ch/fr/suisse/votations-suisses/penalisation-du-mariage-un-feuilleton-fiscal-vieux-de-40-ans/tmpmz15",
+   "summary": "Retour sur l'historique de la « pénalisation du mariage » depuis un arrêt du Tribunal fédéral de 1984. L'initiative du Centre propose de revenir à une imposition commune des couples mariés, après l'adoption en mars 2026 de l'imposition individuelle."
   },
   {
    "electionId": "us-2026",
@@ -2988,6 +3337,15 @@
    "summary": "L'article explique les enjeux des élections de mi-mandat et le calendrier de publication des résultats selon les fuseaux horaires. Il recense les courses sénatoriales jugées décisives, dont le Maine, l'Ohio, la Caroline du Nord, l'Iowa et la Géorgie."
   },
   {
+   "electionId": "ch-2026-11",
+   "lang": "en",
+   "title": "November 2026 in Switzerland: 13 key changes expats need to know",
+   "source": "IamExpat Switzerland",
+   "date": "2026-11-01",
+   "url": "https://www.iamexpat.ch/expat-info/swiss-news/november-2026-switzerland-13-key-changes-expats-need-know",
+   "summary": "Ce guide destiné aux résidents étrangers présente les quatre objets soumis au vote le 29 novembre. Il résume les enjeux de la TVA pour la 13e rente AVS, des feux d'artifice, de l'imposition des couples et des exportations de matériel de guerre."
+  },
+  {
    "electionId": "us-2026",
    "lang": "en",
    "title": "Donald Trump makes final midterm campaign push",
@@ -2995,60 +3353,6 @@
    "date": "2026-11-01",
    "url": "https://www.thenationalnews.com/news/us/2026/11/01/donald-trump-makes-final-midterm-campaign-push/",
    "summary": "À la veille du scrutin, Donald Trump tient des meetings en Iowa et au Kansas pour défendre les courtes majorités républicaines. L'article évoque une popularité présidentielle historiquement basse et des démocrates en tête dans plusieurs courses clés."
-  },
-  {
-   "electionId": "us-2026",
-   "lang": "fr",
-   "title": "Fin de campagne fébrile pour Trump",
-   "source": "La Libre Belgique (Belga)",
-   "date": "2026-10-31",
-   "url": "https://lalibre.be/dernieres-depeches/2026/10/31/fin-de-campagne-febrile-pour-trump-FZPL56VGCVCZPIR2RMPLGBGNTA",
-   "summary": "À quelques jours du scrutin, Donald Trump juge que les républicains conservent leurs chances tout en rappelant que le parti présidentiel perd généralement les élections de mi-mandat. La dépêche relève un vote anticipé record d'environ 47,9 millions de bulletins."
-  },
-  {
-   "electionId": "us-2026",
-   "lang": "en",
-   "title": "2026 elections live updates as Trump rallies Florida voters, El-Sayed clashes with Stevens",
-   "source": "CBS News",
-   "date": "2026-10-31",
-   "url": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
-   "summary": "Suivi en direct du dernier week-end de campagne, avec les meetings de Donald Trump et plusieurs contentieux électoraux en cours. Le fil évoque notamment une décision de justice en Californie et la course sénatoriale au Michigan."
-  },
-  {
-   "electionId": "us-2026",
-   "lang": "en",
-   "title": "Early voting jumps across Senate battlegrounds as millions more Americans vote ahead of Election Day",
-   "source": "Associated Press (News4JAX)",
-   "date": "2026-10-30",
-   "url": "https://www.news4jax.com/news/politics/2026/10/30/early-voting-jumps-across-senate-battlegrounds-as-millions-more-americans-vote-ahead-of-election-day/",
-   "summary": "Selon une analyse de l'AP, plus de 43 millions d'Américains avaient déjà voté par anticipation ou par correspondance cinq jours avant le scrutin. Les hausses les plus fortes concernent les États où la course au Sénat est disputée, comme le Texas, le Maine ou la Caroline du Nord."
-  },
-  {
-   "electionId": "us-2026",
-   "lang": "en",
-   "title": "Candidates make final pitches heading into last weekend before midterm election",
-   "source": "Spectrum News",
-   "date": "2026-10-30",
-   "url": "https://spectrumlocalnews.com/hi/hawaii/politics/2026/10/30/candidates-final-pitches-last-weekend-before-midterm",
-   "summary": "Tour d'horizon des derniers arguments des candidats avant l'ultime week-end de campagne. L'article évoque les prévisions pour la Chambre et les courses sénatoriales suivies au Texas et en Géorgie."
-  },
-  {
-   "electionId": "us-2026",
-   "lang": "fr",
-   "title": "Élections de mi-mandat aux États-Unis : 'Les démocrates ont retourné la stratégie de Donald Trump contre lui'",
-   "source": "RTBF",
-   "date": "2026-10-30",
-   "url": "https://www.rtbf.be/article/elections-de-mi-mandat-aux-etats-unis-les-democrates-ont-retourne-la-strategie-de-donald-trump-contre-lui-11808063",
-   "summary": "Entretien avec l'historien Serge Jaumain (ULB) sur les rapports de force à l'approche du scrutin, dont les démocrates abordent la fin de campagne en position favorable selon les sondages. Il analyse la façon dont l'élection est devenue un vote sur le bilan présidentiel et les divisions possibles des démocrates d'ici 2028."
-  },
-  {
-   "electionId": "us-2026",
-   "lang": "fr",
-   "title": "Donald Trump face au verdict des urnes le 3 novembre? \"La Chambre des représentants semble davantage susceptible de basculer du côté démocrate\"",
-   "source": "L'Avenir",
-   "date": "2026-10-29",
-   "url": "https://lavenir.net/actu/belgique/politique/2026/10/29/donald-trump-face-au-verdict-des-urnes-le-3-novembre-la-chambre-des-representants-semble-davantage-susceptible-de-basculer-du-cote-democrate-KTGG3HMVWFAJ7NUCVVK2XIGNPM",
-   "summary": "Présentation des enjeux du scrutin du 3 novembre, dominé par la question du coût de la vie. Des politologues de l'UCLouvain jugent un basculement de la Chambre plus probable que celui du Sénat."
   },
   {
    "electionId": "bg-2026-p2",
@@ -3087,6 +3391,24 @@
    "summary": "Selon les sondages de sortie des urnes, la présidente sortante remporte le second tour face à Andreï Guiourov, soutenu par l'opposition pro-occidentale. La dépêche présente les positions des deux candidats sur la guerre en Ukraine."
   },
   {
+   "electionId": "us-2026",
+   "lang": "fr",
+   "title": "Fin de campagne fébrile pour Trump",
+   "source": "La Libre Belgique (Belga)",
+   "date": "2026-10-31",
+   "url": "https://lalibre.be/dernieres-depeches/2026/10/31/fin-de-campagne-febrile-pour-trump-FZPL56VGCVCZPIR2RMPLGBGNTA",
+   "summary": "À quelques jours du scrutin, Donald Trump juge que les républicains conservent leurs chances tout en rappelant que le parti présidentiel perd généralement les élections de mi-mandat. La dépêche relève un vote anticipé record d'environ 47,9 millions de bulletins."
+  },
+  {
+   "electionId": "us-2026",
+   "lang": "en",
+   "title": "2026 elections live updates as Trump rallies Florida voters, El-Sayed clashes with Stevens",
+   "source": "CBS News",
+   "date": "2026-10-31",
+   "url": "https://www.cbsnews.com/live-updates/2026-midterm-elections-campaigns-weekend-before/",
+   "summary": "Suivi en direct du dernier week-end de campagne, avec les meetings de Donald Trump et plusieurs contentieux électoraux en cours. Le fil évoque notamment une décision de justice en Californie et la course sénatoriale au Michigan."
+  },
+  {
    "electionId": "bg-2026-p2",
    "lang": "en",
    "title": "Bulgaria Faces Nov. 1 Presidential Runoff Amid Low Turnout",
@@ -3094,6 +3416,42 @@
    "date": "2026-10-31",
    "url": "https://kyivpost.com/post/88758",
    "summary": "Présentation du second tour, rendu nécessaire faute de majorité absolue au premier tour marqué par une participation historiquement basse. L'article rappelle l'écart serré entre les deux qualifiés et leurs divergences sur la guerre en Ukraine."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "fr",
+   "title": "Votations du 29 novembre: voici qui a le plus financé la campagne",
+   "source": "watson.ch (édition romande)",
+   "date": "2026-10-30",
+   "url": "https://www.watson.ch/fr/suisse/politique/530001027-votations-du-29-novembre-voici-qui-a-le-plus-finance-la-campagne",
+   "summary": "Les campagnes sur les quatre objets totalisent environ 6,6 millions de francs déclarés au Contrôle fédéral des finances. La révision de la loi sur le matériel de guerre concentre la plus grande part des budgets."
+  },
+  {
+   "electionId": "us-2026",
+   "lang": "en",
+   "title": "Early voting jumps across Senate battlegrounds as millions more Americans vote ahead of Election Day",
+   "source": "Associated Press (News4JAX)",
+   "date": "2026-10-30",
+   "url": "https://www.news4jax.com/news/politics/2026/10/30/early-voting-jumps-across-senate-battlegrounds-as-millions-more-americans-vote-ahead-of-election-day/",
+   "summary": "Selon une analyse de l'AP, plus de 43 millions d'Américains avaient déjà voté par anticipation ou par correspondance cinq jours avant le scrutin. Les hausses les plus fortes concernent les États où la course au Sénat est disputée, comme le Texas, le Maine ou la Caroline du Nord."
+  },
+  {
+   "electionId": "us-2026",
+   "lang": "en",
+   "title": "Candidates make final pitches heading into last weekend before midterm election",
+   "source": "Spectrum News",
+   "date": "2026-10-30",
+   "url": "https://spectrumlocalnews.com/hi/hawaii/politics/2026/10/30/candidates-final-pitches-last-weekend-before-midterm",
+   "summary": "Tour d'horizon des derniers arguments des candidats avant l'ultime week-end de campagne. L'article évoque les prévisions pour la Chambre et les courses sénatoriales suivies au Texas et en Géorgie."
+  },
+  {
+   "electionId": "us-2026",
+   "lang": "fr",
+   "title": "Élections de mi-mandat aux États-Unis : 'Les démocrates ont retourné la stratégie de Donald Trump contre lui'",
+   "source": "RTBF",
+   "date": "2026-10-30",
+   "url": "https://www.rtbf.be/article/elections-de-mi-mandat-aux-etats-unis-les-democrates-ont-retourne-la-strategie-de-donald-trump-contre-lui-11808063",
+   "summary": "Entretien avec l'historien Serge Jaumain (ULB) sur les rapports de force à l'approche du scrutin, dont les démocrates abordent la fin de campagne en position favorable selon les sondages. Il analyse la façon dont l'élection est devenue un vote sur le bilan présidentiel et les divisions possibles des démocrates d'ici 2028."
   },
   {
    "electionId": "bg-2026-p2",
@@ -3112,6 +3470,15 @@
    "date": "2026-10-30",
    "url": "https://balkaninsight.com/2026/10/30/bulgarias-presidential-race-heads-to-runoff-as-russia-divides-the-two-candidates/bi/",
    "summary": "Analyse du second tour bulgare, présenté comme marqué par des positions différentes des deux candidats à l'égard de la Russie."
+  },
+  {
+   "electionId": "us-2026",
+   "lang": "fr",
+   "title": "Donald Trump face au verdict des urnes le 3 novembre? \"La Chambre des représentants semble davantage susceptible de basculer du côté démocrate\"",
+   "source": "L'Avenir",
+   "date": "2026-10-29",
+   "url": "https://lavenir.net/actu/belgique/politique/2026/10/29/donald-trump-face-au-verdict-des-urnes-le-3-novembre-la-chambre-des-representants-semble-davantage-susceptible-de-basculer-du-cote-democrate-KTGG3HMVWFAJ7NUCVVK2XIGNPM",
+   "summary": "Présentation des enjeux du scrutin du 3 novembre, dominé par la question du coût de la vie. Des politologues de l'UCLouvain jugent un basculement de la Chambre plus probable que celui du Sénat."
   },
   {
    "electionId": "bg-2026-p2",
@@ -3139,6 +3506,15 @@
    "date": "2026-10-28",
    "url": "https://sofiaglobe.com/2026/10/28/bulgarias-2026-presidential-elections-controversy-as-electoral-commission-clears-pm-radev-of-illegal-canvassing/",
    "summary": "La commission électorale centrale a rejeté, par 8 voix contre 7, les plaintes visant l'appel du Premier ministre Roumen Radev à voter pour Iliana Iotova au second tour. L'opposition Bulgarie démocratique annonce un recours."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "fr",
+   "title": "Chiens terrorisés par les feux d'artifice : la Suisse vote sur une interdiction nationale",
+   "source": "Euronews",
+   "date": "2026-10-27",
+   "url": "https://fr.euronews.com/2026/10/27/chiens-terrorises-par-les-feux-dartifice-la-suisse-vote-sur-une-interdiction-nationale",
+   "summary": "Présentation de l'initiative portée par des associations de protection des animaux et de l'environnement, qui vise à interdire la vente de feux d'artifice bruyants aux particuliers. Le texte est combattu notamment par l'UDC, le Centre et l'Union suisse des arts et métiers."
   },
   {
    "electionId": "il-2026",
@@ -3204,6 +3580,15 @@
    "summary": "Le quotidien présente les estimations de sortie des urnes, qui ne donnent de majorité à aucun des deux camps."
   },
   {
+   "electionId": "ch-2026-11",
+   "lang": "en",
+   "title": "The votes on November 29 are fast approaching – are you ready?",
+   "source": "SWI swissinfo.ch",
+   "date": "2026-10-26",
+   "url": "https://www.swissinfo.ch/eng/votes/the-votes-on-november-29-are-fast-approaching-are-you-ready/92275103",
+   "summary": "Cette lettre destinée aux Suisses de l'étranger présente les quatre objets soumis au vote du 29 novembre et revient sur le premier sondage de la SSR. Elle rappelle que le soutien aux initiatives populaires tend souvent à reculer au fil de la campagne."
+  },
+  {
    "electionId": "il-2026",
    "lang": "fr",
    "title": "Élections en Israël: Trump soutient Netanyahu, Eisenkot prône l'unité",
@@ -3258,6 +3643,42 @@
    "summary": "Le média public américain relate la victoire de Lula face à Flávio Bolsonaro, qui lui ouvre un quatrième mandat présidentiel."
   },
   {
+   "electionId": "rs-2026",
+   "lang": "en",
+   "title": "Serbia's Vucic concedes election defeat to student-led movement",
+   "source": "Al Jazeera",
+   "date": "2026-10-25",
+   "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader",
+   "summary": "Aleksandar Vučić admet que sa liste est battue par la Liste étudiante, dans un scrutin à la participation décrite comme la plus forte depuis des décennies."
+  },
+  {
+   "electionId": "bg-2026-p1",
+   "lang": "fr",
+   "title": "Bulgarie : une présidentielle entre craintes sécuritaires et divisions sur la guerre en Ukraine",
+   "source": "La Libre Belgique (AFP)",
+   "date": "2026-10-25",
+   "url": "https://www.lalibre.be/dernieres-depeches/2026/10/25/bulgarie-une-presidentielle-entre-craintes-securitaires-et-divisions-sur-la-guerre-en-ukraine-MX6BJVEDCVCHDIZDTIQKIARLJY/",
+   "summary": "Le scrutin se tient après des attaques de drones contre des navires marchands au large des côtes bulgares ; Iliana Iotova devance Andreï Guiourov dans les derniers sondages, Kostadin Kostadinov étant troisième."
+  },
+  {
+   "electionId": "bg-2026-p1",
+   "lang": "en",
+   "title": "Bulgarians vote for president in shadow of Russia's war in Ukraine",
+   "source": "Al Jazeera",
+   "date": "2026-10-25",
+   "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine",
+   "summary": "Les deux favoris divergent sur la guerre en Ukraine ; les analystes s'attendent à un second tour le 1er novembre, avec une participation attendue sous les 40 %."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "en",
+   "title": "A \"grudging yes\" from the GLP on AHV funding",
+   "source": "blue News (Keystone-ATS)",
+   "date": "2026-10-24",
+   "url": "https://www.bluewin.ch/en/news/a-grudging-yes-from-the-glp-on-ahv-funding-li.3647301",
+   "summary": "Réunis en assemblée des délégués, les Vert'libéraux ont soutenu du bout des lèvres le financement de la 13e rente AVS par la TVA. Le parti recommande aussi le oui à l'initiative sur les feux d'artifice et le non à l'initiative sur l'imposition des couples."
+  },
+  {
    "electionId": "br-2026-r2",
    "lang": "en",
    "title": "Brazil's Lula, Bolsonaro close arguments to voters ahead of nail-biting election runoff",
@@ -3265,6 +3686,33 @@
    "date": "2026-10-24",
    "url": "https://abcnews.com/International/wireStory/brazils-lula-bolsonaro-close-arguments-voters-ahead-nail-137544203",
    "summary": "Dernier jour de campagne avant le second tour : Lula rassemble ses partisans sur l'avenue Paulista à São Paulo, Flávio Bolsonaro à Rio de Janeiro et Belo Horizonte, alors que les sondages publiés annoncent un scrutin très serré."
+  },
+  {
+   "electionId": "rs-2026",
+   "lang": "fr",
+   "title": "En Serbie, les étudiants manifestent depuis deux ans. Peuvent-ils faire tomber Vučić dans les urnes ?",
+   "source": "Le Grand Continent",
+   "date": "2026-10-24",
+   "url": "https://legrandcontinent.eu/fr/2026/10/24/bojan-vranic-serbie/",
+   "summary": "Entretien avec le politologue Bojan Vranić sur les forces respectives de la Liste étudiante et du SNS ; il juge possible un résultat proche entre les deux camps et une issue passant par une coalition."
+  },
+  {
+   "electionId": "rs-2026",
+   "lang": "en",
+   "title": "Serbia votes as students seek to unseat Vucic in snap election",
+   "source": "Reuters (via WHBL)",
+   "date": "2026-10-24",
+   "url": "https://whbl.com/2026/10/24/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election/",
+   "summary": "Les Serbes votent lors de législatives anticipées où le mouvement étudiant né après l'effondrement de Novi Sad défie Aleksandar Vučić ; les sondages publiés divergent sur le camp en tête."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "fr",
+   "title": "Votations du 29 novembre: démarrage explosif pour l'initiative sur les feux d'artifice",
+   "source": "Swissinfo (SSR)",
+   "date": "2026-10-23",
+   "url": "https://www.swissinfo.ch/fre/politique-suisse/votations-du-29-novembre-d%C3%A9marrage-explosif-pour-linitiative-sur-les-feux-dartifice/92258040",
+   "summary": "Premier sondage SSR (gfs.bern) : large soutien à l'initiative sur les feux d'artifice, avance plus fragile pour l'imposition des couples mariés, pas de majorité nette sur la TVA pour l'AVS ni sur le matériel de guerre."
   },
   {
    "electionId": "br-2026-r2",
@@ -3294,60 +3742,6 @@
    "summary": "Analyse des principaux moments du débat de TV Globo entre Lula et Flávio Bolsonaro, de l'économie à la sécurité publique en passant par des accusations croisées. L'article replace ces échanges dans un contexte de sondages à égalité."
   },
   {
-   "electionId": "br-2026-r2",
-   "lang": "fr",
-   "title": "Brésil: Lula a déposé son recours pour disqualifier Bolsonaro de la présidentielle",
-   "source": "La DH (Belga/AFP)",
-   "date": "2026-10-22",
-   "url": "https://www.dhnet.be/dernieres-depeches/2026/10/22/bresil-lula-a-depose-son-recours-pour-disqualifier-bolsonaro-de-la-presidentielle-JXTTLUHMVFCCFN5T7ZDN5QIHAA/",
-   "summary": "Le camp de Lula a saisi le tribunal électoral pour demander l'annulation de la candidature de Flávio Bolsonaro, au lendemain d'une démarche identique visant le président sortant. Les deux recours portent sur l'usage des réseaux sociaux pendant la campagne."
-  },
-  {
-   "electionId": "br-2026-r2",
-   "lang": "en",
-   "title": "Datafolha Poll Has Flávio 50%, Lula 50%",
-   "source": "The Rio Times",
-   "date": "2026-10-22",
-   "url": "https://www.riotimesonline.com/datafolha-poll-flavio-50-lula-50-runoff-2026",
-   "summary": "Le dernier sondage Datafolha place les deux candidats à 50 % des suffrages valides, contre 51-49 en faveur de Flávio Bolsonaro une semaine plus tôt. L'écart reste dans la marge d'erreur."
-  },
-  {
-   "electionId": "br-2026-r2",
-   "lang": "en",
-   "title": "Bolsonaro's lead over Lula narrows ahead Brazil runoff, Quaest poll shows",
-   "source": "Reuters (via Yahoo News)",
-   "date": "2026-10-21",
-   "url": "https://sg.news.yahoo.com/bolsonaros-lead-over-lula-narrows-133031193.html",
-   "summary": "Premier sondage Quaest publié après le débat télévisé : Flávio Bolsonaro recule d'un point à 45 %, Lula reste à 44 %, un écart inférieur à la marge d'erreur."
-  },
-  {
-   "electionId": "rs-2026",
-   "lang": "en",
-   "title": "Serbia's Vucic concedes election defeat to student-led movement",
-   "source": "Al Jazeera",
-   "date": "2026-10-25",
-   "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader",
-   "summary": "Aleksandar Vučić admet que sa liste est battue par la Liste étudiante, dans un scrutin à la participation décrite comme la plus forte depuis des décennies."
-  },
-  {
-   "electionId": "rs-2026",
-   "lang": "fr",
-   "title": "En Serbie, les étudiants manifestent depuis deux ans. Peuvent-ils faire tomber Vučić dans les urnes ?",
-   "source": "Le Grand Continent",
-   "date": "2026-10-24",
-   "url": "https://legrandcontinent.eu/fr/2026/10/24/bojan-vranic-serbie/",
-   "summary": "Entretien avec le politologue Bojan Vranić sur les forces respectives de la Liste étudiante et du SNS ; il juge possible un résultat proche entre les deux camps et une issue passant par une coalition."
-  },
-  {
-   "electionId": "rs-2026",
-   "lang": "en",
-   "title": "Serbia votes as students seek to unseat Vucic in snap election",
-   "source": "Reuters (via WHBL)",
-   "date": "2026-10-24",
-   "url": "https://whbl.com/2026/10/24/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election/",
-   "summary": "Les Serbes votent lors de législatives anticipées où le mouvement étudiant né après l'effondrement de Novi Sad défie Aleksandar Vučić ; les sondages publiés divergent sur le camp en tête."
-  },
-  {
    "electionId": "rs-2026",
    "lang": "fr",
    "title": "Législatives en Serbie : les étudiants espèrent renverser le parti au pouvoir",
@@ -3364,6 +3758,51 @@
    "date": "2026-10-23",
    "url": "https://www.watson.ch/fr/international/politique/984630166-les-etudiants-serbes-partent-a-la-conquete-du-pouvoir-dimanche",
    "summary": "Présentation de la liste issue du mouvement étudiant, composée d'universitaires, juristes, enseignants et artistes, et de ses promesses de réforme de la justice, de la police, des médias et de l'école. L'article évoque aussi les interrogations d'observateurs sur l'équité du scrutin."
+  },
+  {
+   "electionId": "bg-2026-p1",
+   "lang": "en",
+   "title": "Bulgaria heads to presidential election amid Black Sea tensions, with Iliana Iotova leading polls",
+   "source": "ProtoThema English",
+   "date": "2026-10-23",
+   "url": "https://en.protothema.gr/2026/10/23/bulgaria-heads-to-presidential-election-amid-black-sea-tensions-with-iliana-iotova-leading-polls/",
+   "summary": "Vue depuis la presse grecque, la veille du premier tour : Iliana Iotova resterait en tête des intentions de vote, devant Andreï Guiourov puis Kostadin Kostadinov, dans un contexte de tensions en mer Noire."
+  },
+  {
+   "electionId": "bg-2026-p1",
+   "lang": "en",
+   "title": "Bulgaria will vote for president as Ukraine and Black Sea drone attacks dominate campaign",
+   "source": "AP (via Bozeman Daily Chronicle)",
+   "date": "2026-10-23",
+   "url": "https://www.bozemandailychronicle.com/wire/international/bulgaria-will-vote-for-president-as-ukraine-and-black-sea-drone-attacks-dominate-campaign/article_729a8663-ab09-545f-8e19-eeda1ee61855.html",
+   "summary": "Avant-papier de l'agence AP sur une campagne marquée par la guerre en Ukraine, les tensions en mer Noire et le coût de l'énergie. Un second tour entre Iliana Iotova et Andreï Guiourov y est présenté comme probable."
+  },
+  {
+   "electionId": "bg-2026-p1",
+   "lang": "en",
+   "title": "Bulgaria's 2026 presidential elections: Yotova 41.1%, Gyurov 28.3% – Alpha Research poll",
+   "source": "The Sofia Globe",
+   "date": "2026-10-23",
+   "url": "https://sofiaglobe.com/2026/10/23/bulgarias-2026-presidential-elections-yotova-41-1-gyurov-28-3-alpha-research-poll/",
+   "summary": "Présentation du dernier sondage Alpha Research avant le scrutin, qui confirme l'avance d'Iliana Iotova et un écart réduit avec Andreï Guiourov. L'institut anticipe une participation d'environ 40 %."
+  },
+  {
+   "electionId": "br-2026-r2",
+   "lang": "fr",
+   "title": "Brésil: Lula a déposé son recours pour disqualifier Bolsonaro de la présidentielle",
+   "source": "La DH (Belga/AFP)",
+   "date": "2026-10-22",
+   "url": "https://www.dhnet.be/dernieres-depeches/2026/10/22/bresil-lula-a-depose-son-recours-pour-disqualifier-bolsonaro-de-la-presidentielle-JXTTLUHMVFCCFN5T7ZDN5QIHAA/",
+   "summary": "Le camp de Lula a saisi le tribunal électoral pour demander l'annulation de la candidature de Flávio Bolsonaro, au lendemain d'une démarche identique visant le président sortant. Les deux recours portent sur l'usage des réseaux sociaux pendant la campagne."
+  },
+  {
+   "electionId": "br-2026-r2",
+   "lang": "en",
+   "title": "Datafolha Poll Has Flávio 50%, Lula 50%",
+   "source": "The Rio Times",
+   "date": "2026-10-22",
+   "url": "https://www.riotimesonline.com/datafolha-poll-flavio-50-lula-50-runoff-2026",
+   "summary": "Le dernier sondage Datafolha place les deux candidats à 50 % des suffrages valides, contre 51-49 en faveur de Flávio Bolsonaro une semaine plus tôt. L'écart reste dans la marge d'erreur."
   },
   {
    "electionId": "rs-2026",
@@ -3402,60 +3841,6 @@
    "summary": "Récit du dernier grand rassemblement de la Liste étudiante à Belgrade, tenu le même jour qu'un meeting concurrent d'Aleksandar Vučić. L'article mentionne des craintes de tensions si les deux camps revendiquent la victoire."
   },
   {
-   "electionId": "rs-2026",
-   "lang": "en",
-   "title": "As Serbia votes, students emerge as greatest threat to Vucic's long rule",
-   "source": "Reuters (via Internazionale)",
-   "date": "2026-10-21",
-   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/21/as-serbia-votes-students-emerge-as-greatest-threat-to-vucic-s-long-rule",
-   "summary": "Retour sur l'essor du mouvement étudiant né de l'effondrement de Novi Sad en 2024, devenu le principal adversaire d'Aleksandar Vučić. Les sondages divergent et les analystes s'interrogent sur la manière dont les étudiants gouverneraient."
-  },
-  {
-   "electionId": "bg-2026-p1",
-   "lang": "fr",
-   "title": "Bulgarie : une présidentielle entre craintes sécuritaires et divisions sur la guerre en Ukraine",
-   "source": "La Libre Belgique (AFP)",
-   "date": "2026-10-25",
-   "url": "https://www.lalibre.be/dernieres-depeches/2026/10/25/bulgarie-une-presidentielle-entre-craintes-securitaires-et-divisions-sur-la-guerre-en-ukraine-MX6BJVEDCVCHDIZDTIQKIARLJY/",
-   "summary": "Le scrutin se tient après des attaques de drones contre des navires marchands au large des côtes bulgares ; Iliana Iotova devance Andreï Guiourov dans les derniers sondages, Kostadin Kostadinov étant troisième."
-  },
-  {
-   "electionId": "bg-2026-p1",
-   "lang": "en",
-   "title": "Bulgarians vote for president in shadow of Russia's war in Ukraine",
-   "source": "Al Jazeera",
-   "date": "2026-10-25",
-   "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine",
-   "summary": "Les deux favoris divergent sur la guerre en Ukraine ; les analystes s'attendent à un second tour le 1er novembre, avec une participation attendue sous les 40 %."
-  },
-  {
-   "electionId": "bg-2026-p1",
-   "lang": "en",
-   "title": "Bulgaria heads to presidential election amid Black Sea tensions, with Iliana Iotova leading polls",
-   "source": "ProtoThema English",
-   "date": "2026-10-23",
-   "url": "https://en.protothema.gr/2026/10/23/bulgaria-heads-to-presidential-election-amid-black-sea-tensions-with-iliana-iotova-leading-polls/",
-   "summary": "Vue depuis la presse grecque, la veille du premier tour : Iliana Iotova resterait en tête des intentions de vote, devant Andreï Guiourov puis Kostadin Kostadinov, dans un contexte de tensions en mer Noire."
-  },
-  {
-   "electionId": "bg-2026-p1",
-   "lang": "en",
-   "title": "Bulgaria will vote for president as Ukraine and Black Sea drone attacks dominate campaign",
-   "source": "AP (via Bozeman Daily Chronicle)",
-   "date": "2026-10-23",
-   "url": "https://www.bozemandailychronicle.com/wire/international/bulgaria-will-vote-for-president-as-ukraine-and-black-sea-drone-attacks-dominate-campaign/article_729a8663-ab09-545f-8e19-eeda1ee61855.html",
-   "summary": "Avant-papier de l'agence AP sur une campagne marquée par la guerre en Ukraine, les tensions en mer Noire et le coût de l'énergie. Un second tour entre Iliana Iotova et Andreï Guiourov y est présenté comme probable."
-  },
-  {
-   "electionId": "bg-2026-p1",
-   "lang": "en",
-   "title": "Bulgaria's 2026 presidential elections: Yotova 41.1%, Gyurov 28.3% – Alpha Research poll",
-   "source": "The Sofia Globe",
-   "date": "2026-10-23",
-   "url": "https://sofiaglobe.com/2026/10/23/bulgarias-2026-presidential-elections-yotova-41-1-gyurov-28-3-alpha-research-poll/",
-   "summary": "Présentation du dernier sondage Alpha Research avant le scrutin, qui confirme l'avance d'Iliana Iotova et un écart réduit avec Andreï Guiourov. L'institut anticipe une participation d'environ 40 %."
-  },
-  {
    "electionId": "bg-2026-p1",
    "lang": "en",
    "title": "Presidential Candidates Iotova and Valchev Close Campaign in Plovdiv",
@@ -3483,6 +3868,24 @@
    "summary": "Présentation des trois principaux candidats parmi les 27 en lice et des derniers sondages. Un second tour le 1er novembre est jugé probable en raison d'une participation attendue faible."
   },
   {
+   "electionId": "br-2026-r2",
+   "lang": "en",
+   "title": "Bolsonaro's lead over Lula narrows ahead Brazil runoff, Quaest poll shows",
+   "source": "Reuters (via Yahoo News)",
+   "date": "2026-10-21",
+   "url": "https://sg.news.yahoo.com/bolsonaros-lead-over-lula-narrows-133031193.html",
+   "summary": "Premier sondage Quaest publié après le débat télévisé : Flávio Bolsonaro recule d'un point à 45 %, Lula reste à 44 %, un écart inférieur à la marge d'erreur."
+  },
+  {
+   "electionId": "rs-2026",
+   "lang": "en",
+   "title": "As Serbia votes, students emerge as greatest threat to Vucic's long rule",
+   "source": "Reuters (via Internazionale)",
+   "date": "2026-10-21",
+   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/10/21/as-serbia-votes-students-emerge-as-greatest-threat-to-vucic-s-long-rule",
+   "summary": "Retour sur l'essor du mouvement étudiant né de l'effondrement de Novi Sad en 2024, devenu le principal adversaire d'Aleksandar Vučić. Les sondages divergent et les analystes s'interrogent sur la manière dont les étudiants gouverneraient."
+  },
+  {
    "electionId": "bg-2026-p1",
    "lang": "fr",
    "title": "Sondage: 39% de participation à la présidentielle du 25 octobre",
@@ -3501,6 +3904,24 @@
    "summary": "Le sondage Market Links réalisé du 13 au 19 octobre voit Andreï Guiourov progresser nettement depuis septembre, Iliana Iotova restant en tête sans atteindre la majorité absolue."
   },
   {
+   "electionId": "gd-2026",
+   "lang": "fr",
+   "title": "Grenade fixe la date du 5 novembre pour les élections générales",
+   "source": "Radio Télévision Caraïbes",
+   "date": "2026-10-06",
+   "url": "https://www.radiotelevisioncaraibes.com/grenade-fixe-la-date-du-5-novembre-pour-les-elections-generales/",
+   "summary": "Le média martiniquais relaie l'annonce du Premier ministre Dickon Mitchell, quelques jours après la dissolution du Parlement le 2 octobre. Le scrutin dira si le Congrès national démocratique conserve le pouvoir."
+  },
+  {
+   "electionId": "gd-2026",
+   "lang": "fr",
+   "title": "La Grenade organisera des élections législatives le 5 novembre",
+   "source": "Xinhua (français)",
+   "date": "2026-10-04",
+   "url": "http://french.xinhuanet.com/20261004/37e168d726954d9684f8b28d57323c51/c.html",
+   "summary": "L'agence chinoise rapporte la publication au journal officiel de la date du scrutin et de la date limite de dépôt des candidatures, fixée au 15 octobre. Le précédent scrutin national remontait à juin 2022."
+  },
+  {
    "electionId": "fr-2027-r1",
    "lang": "fr",
    "title": "Les dates de l'élection présidentielle de 2027 sont annoncées",
@@ -3517,279 +3938,48 @@
    "date": "2026-07-02",
    "url": "https://www.touteleurope.eu/?p=306470",
    "summary": "Pourquoi ces dates ont été retenues et les critiques sur un second tour au lendemain du 1er mai."
-  },
-  {
-   "electionId": "cv-2026-p",
-   "lang": "en",
-   "title": "Cape Verde president eyes new term as party builds on legislative win",
-   "source": "Reuters (Daily Maverick)",
-   "date": "2026-11-13",
-   "url": "https://www.dailymaverick.co.za/article/2026-11-13-cape-verde-president-eyes-new-term-as-party-builds-on-legislative-win/",
-   "summary": "La veille du silence électoral, l'agence présente le président sortant José Maria Neves comme favori face à l'ancienne ministre de la Justice Joana Rosa, soutenue par le MpD. Un second tour est prévu le 29 novembre si aucun candidat ne dépasse 50 %."
-  },
-  {
-   "electionId": "cv-2026-p",
-   "lang": "en",
-   "title": "Cabo Verde Campaign Ends Before Sunday Vote",
-   "source": "The Rio Times",
-   "date": "2026-11-13",
-   "url": "https://riotimesonline.com/cabo-verde-campaign-ends-before-sunday-vote",
-   "summary": "La campagne s'achève avant le premier tour du 15 novembre, qui oppose six candidats dont le président sortant José Maria Neves et Joana Rosa. Un second tour aurait lieu le 29 novembre si aucun candidat n'obtient la majorité absolue."
-  },
-  {
-   "electionId": "cv-2026-p",
-   "lang": "en",
-   "title": "Cape Verde Set to Hold Presidential Election",
-   "source": "Voice of Nigeria",
-   "date": "2026-11-13",
-   "url": "https://von.gov.ng/cape-verde-set-to-hold-presidential-election/",
-   "summary": "Présentation du scrutin : José Maria Neves, soutenu par le PAICV vainqueur des législatives de mai, brigue un second mandat de cinq ans. Sa principale adversaire, Joana Rosa, soutenue par le MpD, deviendrait la première femme à la présidence."
-  },
-  {
-   "electionId": "cv-2026-p",
-   "lang": "fr",
-   "title": "Cabo Verde – Présidentielle : le PAICV face au risque d'un retour à la cohabitation",
-   "source": "Ouestaf",
-   "date": "2026-11-13",
-   "url": "https://www.ouestaf.com/cabo-verde-presidentielle-le-paicv-face-au-risque-dun-retour-a-la-cohabitation/",
-   "summary": "Le média ouest-africain analyse l'enjeu institutionnel du scrutin, entre le président sortant soutenu par le PAICV et cinq autres candidats dont Joana Rosa. La campagne a porté sur le coût de la vie, le chômage des jeunes et les liaisons entre les îles."
-  },
-  {
-   "electionId": "cv-2026-p",
-   "lang": "fr",
-   "title": "Cap-Vert : Présidentielle 2026, six candidats dont une femme en lice, scrutin le 15 novembre",
-   "source": "KOACI (Côte d'Ivoire)",
-   "date": "2026-11-12",
-   "url": "https://www.koaci.com/article/2026/11/12/cap-vert/politique/cap-vert-presidentielle-2026-six-candidats-dont-une-femme-en-lice-scrutin-le-15-novembre_202546.html",
-   "summary": "Présentation des six candidats et du corps électoral, d'environ 426 500 inscrits dont près d'un cinquième dans la diaspora. L'article signale aussi l'arrivée d'observateurs de plusieurs organisations internationales."
-  },
-  {
-   "electionId": "cv-2026-p",
-   "lang": "fr",
-   "title": "Cap-Vert: Élection présidentielle - Les enjeux dans l'une des démocraties les plus stables d'Afrique",
-   "source": "allAfrica",
-   "date": "2026-11-12",
-   "url": "https://fr.allafrica.com/stories/202611120333.html",
-   "summary": "Présentation des enjeux du scrutin du 15 novembre, six mois après le retour au pouvoir du PAICV aux législatives de mai, qui a mis fin à dix ans de gouvernement du MpD."
-  },
-  {
-   "electionId": "cv-2026-p",
-   "lang": "en",
-   "title": "Cabo Verde Picks a President on Sunday",
-   "source": "The Rio Times",
-   "date": "2026-11-11",
-   "url": "https://www.riotimesonline.com/cabo-verde-picks-a-president-on-sunday/",
-   "summary": "À quelques jours du premier tour du 15 novembre, le média présente les six candidats et rappelle qu'un second tour aura lieu si personne n'obtient la majorité des suffrages valables. Il précise qu'aucun sondage d'un institut identifié n'a été publié."
-  },
-  {
-   "electionId": "cv-2026-p",
-   "lang": "fr",
-   "title": "Présidentielle dimanche dans un Cap-Vert stable, le président sortant donné favori",
-   "source": "AFP (Boursorama)",
-   "date": "2026-11-10",
-   "url": "https://www.boursorama.com/actualite-economique/actualites/presidentielle-dimanche-dans-un-cap-vert-stable-le-president-sortant-donne-favori-545a26a163a41bf53a1e9cad9de1df40",
-   "summary": "À quelques jours du premier tour, présentation des enjeux du scrutin dans un archipel réputé pour sa stabilité, où le président sortant José Maria Neves est décrit comme favori face à Joana Rosa."
-  },
-  {
-   "electionId": "cv-2026-p",
-   "lang": "fr",
-   "title": "Modèle démocratique, musique et \"Requins bleus\": cinq choses à savoir sur le Cap-Vert",
-   "source": "AFP (Boursorama)",
-   "date": "2026-11-10",
-   "url": "https://www.boursorama.com/actualite-economique/actualites/modele-democratique-musique-et-requins-bleus-cinq-choses-a-savoir-sur-le-cap-vert-fc3cb6bb7e7fb33439182bfeab9481ec",
-   "summary": "Portrait de l'archipel à l'approche du scrutin : stabilité institutionnelle, alternances régulières, diaspora et rayonnement culturel et sportif."
-  },
-  {
-   "electionId": "ch-2026-11",
-   "lang": "en",
-   "title": "Swiss neutrality proponents challenge arms firms in vote on easing of exports",
-   "source": "Reuters (Internazionale)",
-   "date": "2026-11-09",
-   "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/11/09/swiss-neutrality-proponents-challenge-arms-firms-in-vote-on-easing-of-exports",
-   "summary": "L'agence décrit l'affrontement autour de l'assouplissement des exportations de matériel de guerre, défendu par l'industrie et les partis de droite, et combattu par les partisans de la neutralité qui ont lancé le référendum."
-  },
-  {
-   "electionId": "ch-2026-11",
-   "lang": "fr",
-   "title": "La 13e rente AVS arrive... qui va payer la facture?",
-   "source": "Blick (édition romande)",
-   "date": "2026-11-04",
-   "url": "https://www.blick.ch/fr/suisse/votation-tout-ce-quil-faut-savoir-sur-le-financement-de-lavs/n3d10y4",
-   "summary": "L'article détaille le financement de la 13e rente AVS soumis au vote : la hausse de TVA rapporterait environ 1,5 milliard de francs par an, sans couvrir l'ensemble du coût. Il présente la répartition des partis entre partisans et opposants."
-  },
-  {
-   "electionId": "ch-2026-11",
-   "lang": "en",
-   "title": "Swiss vote: should Switzerland loosen its arms export rules?",
-   "source": "SWI swissinfo.ch",
-   "date": "2026-11-04",
-   "url": "https://www.swissinfo.ch/eng/votes/swiss-vote-should-switzerland-loosen-its-arms-export-rules/92277204",
-   "summary": "Présentation de la révision de la loi sur le matériel de guerre, qui assouplirait les exportations vers les pays de l'UE et d'autres États, y compris en cas de conflit. Le référendum a été lancé par des opposants, dont le PS et les Verts."
-  },
-  {
-   "electionId": "ch-2026-11",
-   "lang": "fr",
-   "title": "Pénalisation du mariage: un feuilleton fiscal vieux de 40 ans aux urnes",
-   "source": "Blick (édition romande)",
-   "date": "2026-11-02",
-   "url": "https://www.blick.ch/fr/suisse/votations-suisses/penalisation-du-mariage-un-feuilleton-fiscal-vieux-de-40-ans/tmpmz15",
-   "summary": "Retour sur l'historique de la « pénalisation du mariage » depuis un arrêt du Tribunal fédéral de 1984. L'initiative du Centre propose de revenir à une imposition commune des couples mariés, après l'adoption en mars 2026 de l'imposition individuelle."
-  },
-  {
-   "electionId": "ch-2026-11",
-   "lang": "en",
-   "title": "November 2026 in Switzerland: 13 key changes expats need to know",
-   "source": "IamExpat Switzerland",
-   "date": "2026-11-01",
-   "url": "https://www.iamexpat.ch/expat-info/swiss-news/november-2026-switzerland-13-key-changes-expats-need-know",
-   "summary": "Ce guide destiné aux résidents étrangers présente les quatre objets soumis au vote le 29 novembre. Il résume les enjeux de la TVA pour la 13e rente AVS, des feux d'artifice, de l'imposition des couples et des exportations de matériel de guerre."
-  },
-  {
-   "electionId": "ch-2026-11",
-   "lang": "fr",
-   "title": "Votations du 29 novembre: voici qui a le plus financé la campagne",
-   "source": "watson.ch (édition romande)",
-   "date": "2026-10-30",
-   "url": "https://www.watson.ch/fr/suisse/politique/530001027-votations-du-29-novembre-voici-qui-a-le-plus-finance-la-campagne",
-   "summary": "Les campagnes sur les quatre objets totalisent environ 6,6 millions de francs déclarés au Contrôle fédéral des finances. La révision de la loi sur le matériel de guerre concentre la plus grande part des budgets."
-  },
-  {
-   "electionId": "ch-2026-11",
-   "lang": "en",
-   "title": "The votes on November 29 are fast approaching – are you ready?",
-   "source": "SWI swissinfo.ch",
-   "date": "2026-10-26",
-   "url": "https://www.swissinfo.ch/eng/votes/the-votes-on-november-29-are-fast-approaching-are-you-ready/92275103",
-   "summary": "Cette lettre destinée aux Suisses de l'étranger présente les quatre objets soumis au vote du 29 novembre et revient sur le premier sondage de la SSR. Elle rappelle que le soutien aux initiatives populaires tend souvent à reculer au fil de la campagne."
-  },
-  {
-   "electionId": "ch-2026-11",
-   "lang": "fr",
-   "title": "Votations du 29 novembre: démarrage explosif pour l'initiative sur les feux d'artifice",
-   "source": "Swissinfo (SSR)",
-   "date": "2026-10-23",
-   "url": "https://www.swissinfo.ch/fre/politique-suisse/votations-du-29-novembre-d%C3%A9marrage-explosif-pour-linitiative-sur-les-feux-dartifice/92258040",
-   "summary": "Premier sondage SSR (gfs.bern) : large soutien à l'initiative sur les feux d'artifice, avance plus fragile pour l'imposition des couples mariés, pas de majorité nette sur la TVA pour l'AVS ni sur le matériel de guerre."
-  },
-  {
-   "electionId": "ch-2026-11",
-   "lang": "fr",
-   "title": "Armes, impôts, feux d'artifice: qui vote quoi le 29 novembre",
-   "source": "Frapp",
-   "date": "2026-10-23",
-   "url": "https://frapp.ch/fr/articles/stories/armes-impots-feux-dartifice-qui-vote-quoi-le-29-novembre",
-   "summary": "Présentation des quatre objets et des clivages révélés par le sondage SSR mené du 5 au 18 octobre auprès de 14 874 personnes."
-  },
-  {
-   "electionId": "ch-2026-11",
-   "lang": "fr",
-   "title": "Vote du 29 novembre : incertitude concernant l’AVS et le matériel de guerre",
-   "source": "Frontaliere Ticino",
-   "date": "2026-10-23",
-   "url": "https://frontaliereticino.ch/fr/articles-suisse/sondage-votations-suisse-novembre/",
-   "summary": "Présentation du premier sondage SSR réalisé par gfs.bern sur les quatre objets du 29 novembre. Le financement de l'AVS et la loi sur le matériel de guerre apparaissent indécis, tandis que l'initiative sur les feux d'artifice recueille une large majorité d'intentions favorables."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "en",
-   "title": "Spain's general election campaign opens with rallies across the country ahead of 29 November vote",
-   "source": "Spain in English",
-   "date": "2026-11-13",
-   "url": "https://www.spainenglish.com/2026/11/13/spains-general-election-campaign-opens-with-rallies-across-the-country-ahead-of-29-november-vote/",
-   "summary": "La campagne officielle s'est ouverte à minuit le 13 novembre après des meetings des chefs de parti dans plusieurs villes. Elle durera jusqu'au 27 novembre ; la grève générale et le logement ont dominé les premiers discours."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "en",
-   "title": "Spain's election campaign opens with polls pointing to right-wing majority",
-   "source": "Brussels Signal",
-   "date": "2026-11-13",
-   "url": "https://brusselssignal.eu/2026/11/spains-election-campaign-opens-with-polls-pointing-to-right-wing-majority/",
-   "summary": "L'article fait le point sur les sondages à l'ouverture de la campagne. Les instituts privés donnent une majorité au PP et à Vox réunis, tandis que le CIS public place le PSOE en tête."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "fr",
-   "title": "Ainsi commencent Sánchez, Feijóo, Abascal, Colau et Montero",
-   "source": "Demócrata (édition française)",
-   "date": "2026-11-12",
-   "url": "https://www.democrata.es/fr/politique/sanchez-lance-aujourd-hui-la-campagne-a-seville-feijoo-a-badalona-et-abascal-colau-et-montero-choisissent-madrid/",
-   "summary": "Lieux choisis par les principaux candidats pour l'ouverture de la campagne officielle : Séville pour Pedro Sánchez, Badalone pour Alberto Núñez Feijóo, Madrid pour Santiago Abascal, Ada Colau et Irene Montero."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "en",
-   "title": "Spain's Sánchez faces political test as deadly train crash casts shadow over election campaign",
-   "source": "Associated Press (WSB-TV)",
-   "date": "2026-11-12",
-   "url": "https://www.wsbtv.com/news/world/spains-snchez-faces/HWRYYETRTA77FHWMXH5OFPVX7A/",
-   "summary": "L'agence revient sur la collision ferroviaire à grande vitesse du 28 octobre (69 morts) et sur la manière dont le gouvernement aborde la campagne après la démission du ministre des Transports. Elle rappelle que les sondages, avant comme après l'accident, placent le PSOE derrière le total des voix du PP et de Vox."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "fr",
-   "title": "Feijóo demande à Sánchez « où est l’argent des Espagnols » et dénonce la dégradation des services publics",
-   "source": "Demócrata (édition française)",
-   "date": "2026-11-12",
-   "url": "https://www.democrata.es/fr/elections-generales-en-espagne/feijoo-demande-a-sanchez-ou-est-l-argent-des-espagnols-et-denonce-la-degradation-des-services-publics/",
-   "summary": "Compte rendu du meeting d'ouverture de campagne du Parti populaire à Badalone. Alberto Núñez Feijóo y oppose le niveau des recettes fiscales, de la dette et des fonds européens à l'état des infrastructures et des services publics."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "en",
-   "title": "PP and Vox ahead in latest Spain election poll",
-   "source": "The Olive Press",
-   "date": "2026-11-12",
-   "url": "https://www.theolivepress.es/spain-news/2026/11/12/pp-vox-spain-election-poll/",
-   "summary": "Le journal anglophone de la Costa del Sol fait le point sur les dernières estimations, qui placent le PP en tête devant le PSOE et Vox à un peu plus de deux semaines du scrutin."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "fr",
-   "title": "Élections générales en Espagne : date, enjeux, têtes de liste… tout ce qu'il faut savoir sur le scrutin",
-   "source": "Touteleurope.eu",
-   "date": "2026-11-12",
-   "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/elections-generales-en-espagne-date-enjeux-tetes-de-liste-tout-ce-qu-il-faut-savoir-sur-le-scrutin/",
-   "summary": "Fiche de synthèse sur les élections anticipées convoquées après le rejet de deux décrets sur le logement. Elle présente les têtes de liste et les moyennes de sondages en sièges."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "fr",
-   "title": "Espagne : journée de grève nationale ce mercredi 11 novembre, à trois semaines d'élections anticipées",
-   "source": "RTBF",
-   "date": "2026-11-11",
-   "url": "https://www.rtbf.be/article/espagne-journee-de-greve-nationale-ce-mercredi-11-novembre-a-trois-semaines-d-elections-anticipees-11813542",
-   "summary": "Les syndicats CCOO et UGT appellent à une grève générale de 24 heures sur le logement et les salaires, deux jours avant l'ouverture officielle de la campagne. Le mouvement est présenté comme une pression exercée sur le futur gouvernement issu du scrutin."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "en",
-   "title": "Spanish snap elections on 29 November: is it the end of the Sánchez era?",
-   "source": "Fondation Robert Schuman",
-   "date": "2026-11-10",
-   "url": "https://www.robert-schuman.eu/en/monitor/6907-spanish-snap-elections-on-29-november-is-it-the-end-of-the-sanchez-era",
-   "summary": "Cette analyse revient sur la dissolution anticipée des Cortes après le rejet des décrets sur le logement et sur le bilan du gouvernement Sánchez. Elle décrit un paysage fragmenté où le PP pourrait avoir besoin de Vox pour gouverner."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "fr",
-   "title": "Espagne: Sondages du 29 novembre : les clés pour comprendre des enquêtes aux résultats très divergents",
-   "source": "Alyaoum24 (édition française)",
-   "date": "2026-11-10",
-   "url": "https://fr.alyaoum24.com/accueil/66133.html",
-   "summary": "Le site compare six sondages privés réalisés du 2 au 5 novembre, qui donnent tous une majorité absolue au PP et à Vox mais divergent nettement sur le nombre de sièges socialistes. Il les met en regard du baromètre d'octobre du CIS et rappelle l'interdiction de publier des sondages dans les derniers jours de la campagne."
-  },
-  {
-   "electionId": "cv-2026-p",
-   "lang": "fr",
-   "title": "Présidentielle au Cap-Vert : derrière la stabilité politique, des défis sociaux à relever",
-   "source": "France 24",
-   "date": "2026-11-14",
-   "url": "https://www.france24.com/fr/afrique/20261114-pr%C3%A9sidentielle-au-cap-vert-derri%C3%A8re-la-stabilit%C3%A9-politique-des-d%C3%A9fis-sociaux-%C3%A0-relever",
-   "summary": "À la veille du scrutin, France 24 décrit un archipel réputé pour sa stabilité démocratique mais confronté à des difficultés sociales, dont la vie chère, au cœur de la campagne."
   }
  ],
  "results": [
+  {
+   "id": "cv-2026-p",
+   "date": "2026-11-15",
+   "country": "Cap-Vert",
+   "region": "Afrique",
+   "type": "Présidentielle",
+   "body": "Président de la République",
+   "status": "provisoire",
+   "base": "Suffrages exprimés",
+   "unit": "%",
+   "rows": [
+    {
+     "name": "José Maria Neves",
+     "value": 63.8
+    },
+    {
+     "name": "Joana Rosa",
+     "value": 31.6
+    },
+    {
+     "name": "Gilson Alves",
+     "value": 1.4
+    },
+    {
+     "name": "Antero Tavares",
+     "value": 1.3
+    },
+    {
+     "name": "Casimiro de Pina",
+     "value": 1.1
+    },
+    {
+     "name": "Loisito Sousa",
+     "value": 0.9
+    }
+   ],
+   "note": "José Maria Neves est réélu au premier tour ; Joana Rosa a reconnu sa défaite. Abstention d'environ 68 %, contre 52 % en 2021. Résultats provisoires (Joana Rosa entre 31,4 % et 31,6 % selon les sources) ; proclamation officielle à venir.",
+   "source": "https://observador.pt/2026/11/15/joana-rosa-reconhece-derrota-eleitoral-nas-presidenciais-de-cabo-verde/"
+  },
   {
    "id": "nz-2026",
    "date": "2026-11-07",
