@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16",
+ "updated": "2026-11-17",
  "elections": [
   {
    "id": "br-2026-r2",
@@ -472,15 +472,15 @@
   },
   {
    "id": "gw-2026",
-   "date": "2026-12-06",
-   "precision": "day",
-   "status": "provisoire",
+   "date": "2027-01-01",
+   "precision": "year",
+   "status": "à fixer",
    "country": "Guinée-Bissau",
    "region": "Afrique",
    "type": "Générales",
    "body": "Président et Assemblée nationale",
-   "source": "https://fr.allafrica.com/stories/202610080745.html",
-   "note": "Le Premier ministre de transition a déclaré le 8 octobre que les conditions d'un vote le 6 décembre n'étaient pas réunies ; aucun report officiel ni nouvelle date à ce stade."
+   "source": "https://www.usnews.com/news/world/articles/2026-10-08/guinea-bissau-to-delay-elections-following-last-years-coup",
+   "note": "Les élections présidentielle et législatives prévues le 6 décembre 2026 ont été reportées : le Premier ministre Ilídio Vieira Té a déclaré en octobre que les conditions n'étaient pas réunies. Aucune nouvelle date n'a été fixée ; l'année indiquée est indicative."
   },
   {
    "id": "fj-2026-ref",
@@ -2964,6 +2964,209 @@
    },
    "note": "Première vague du suivi de campagne ; fiche technique non relevée",
    "source": "https://electomania.es/encuesta-sondaxe-15-nov-la-suma-de-pp-y-vox-con-195-escanos/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "Sigma Dos (pour El Mundo)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-15",
+   "n": 5370,
+   "base": "Estimation de vote (base non précisée par l'agrégateur)",
+   "unit": "%",
+   "values": {
+    "PP": 31.0,
+    "PSOE": 25.6,
+    "Vox": 19.7,
+    "Frente Amplio": 7.2
+   },
+   "note": "Suivi quotidien ; chiffres relevés sur l'agrégateur Mapa Electoral ; Podemos 1,4 %",
+   "source": "https://mapaelectoral.es/encuestas/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "Sigma Dos (pour El Mundo)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-13",
+   "n": 4620,
+   "base": "Estimation de vote (base non précisée par l'agrégateur)",
+   "unit": "%",
+   "values": {
+    "PP": 31.0,
+    "PSOE": 25.4,
+    "Vox": 19.7,
+    "Frente Amplio": 8.8
+   },
+   "note": "Suivi quotidien ; chiffres relevés sur l'agrégateur Mapa Electoral ; Podemos 1,4 %",
+   "source": "https://mapaelectoral.es/encuestas/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "SW Demoscopia (pour La Séptima)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-15",
+   "n": 8500,
+   "base": "Estimation de vote (base non précisée par l'agrégateur)",
+   "unit": "%",
+   "values": {
+    "PP": 28.4,
+    "PSOE": 31.7,
+    "Vox": 16.9,
+    "Frente Amplio": 7.3
+   },
+   "note": "Suivi quotidien ; chiffres relevés sur l'agrégateur Mapa Electoral ; Podemos 1,7 %",
+   "source": "https://mapaelectoral.es/encuestas/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "SW Demoscopia (pour La Séptima)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-12",
+   "n": 7000,
+   "base": "Estimation de vote (base non précisée par l'agrégateur)",
+   "unit": "%",
+   "values": {
+    "PP": 28.4,
+    "PSOE": 31.5,
+    "Vox": 17.2,
+    "Frente Amplio": 7.3
+   },
+   "note": "Suivi quotidien ; chiffres relevés sur l'agrégateur Mapa Electoral",
+   "source": "https://mapaelectoral.es/encuestas/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "SW Demoscopia (pour La Séptima)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-11",
+   "n": 6500,
+   "base": "Estimation de vote (base non précisée par l'agrégateur)",
+   "unit": "%",
+   "values": {
+    "PP": 28.1,
+    "PSOE": 31.4,
+    "Vox": 17.5,
+    "Frente Amplio": 7.4
+   },
+   "note": "Suivi quotidien ; chiffres relevés sur l'agrégateur Mapa Electoral",
+   "source": "https://mapaelectoral.es/encuestas/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "SW Demoscopia (pour La Séptima)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-10",
+   "n": 6000,
+   "base": "Estimation de vote (base non précisée par l'agrégateur)",
+   "unit": "%",
+   "values": {
+    "PP": 28.3,
+    "PSOE": 31.2,
+    "Vox": 17.5,
+    "Frente Amplio": 7.5
+   },
+   "note": "Suivi quotidien ; chiffres relevés sur l'agrégateur Mapa Electoral",
+   "source": "https://mapaelectoral.es/encuestas/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "SW Demoscopia (pour La Séptima)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-09",
+   "n": 5500,
+   "base": "Estimation de vote (base non précisée par l'agrégateur)",
+   "unit": "%",
+   "values": {
+    "PP": 28.3,
+    "PSOE": 31.1,
+    "Vox": 17.3,
+    "Frente Amplio": 7.6
+   },
+   "note": "Suivi quotidien ; chiffres relevés sur l'agrégateur Mapa Electoral",
+   "source": "https://mapaelectoral.es/encuestas/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "EM-Analytics (pour Electomanía)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-15",
+   "n": 2617,
+   "base": "Estimation de vote (base non précisée par l'agrégateur)",
+   "unit": "%",
+   "values": {
+    "PP": 30.7,
+    "PSOE": 26.7,
+    "Vox": 19.0,
+    "Frente Amplio": 7.6
+   },
+   "note": "Suivi quotidien ; chiffres relevés sur l'agrégateur Mapa Electoral ; Podemos 1,4 %",
+   "source": "https://mapaelectoral.es/encuestas/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "EM-Analytics (pour Electomanía)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-12",
+   "n": 1475,
+   "base": "Estimation de vote (base non précisée par l'agrégateur)",
+   "unit": "%",
+   "values": {
+    "PP": 30.2,
+    "PSOE": 26.2,
+    "Vox": 19.2,
+    "Frente Amplio": 7.7
+   },
+   "note": "Suivi quotidien ; chiffres relevés sur l'agrégateur Mapa Electoral ; Podemos 1,6 %",
+   "source": "https://mapaelectoral.es/encuestas/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "EM-Analytics (pour Electomanía)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-09",
+   "n": 2531,
+   "base": "Estimation de vote (base non précisée par l'agrégateur)",
+   "unit": "%",
+   "values": {
+    "PP": 30.5,
+    "PSOE": 25.9,
+    "Vox": 19.0,
+    "Frente Amplio": 7.7
+   },
+   "note": "Suivi quotidien ; chiffres relevés sur l'agrégateur Mapa Electoral ; Podemos 1,7 %",
+   "source": "https://mapaelectoral.es/encuestas/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "NC Report (pour La Razón)",
+   "fieldwork": "2–5 nov.",
+   "published": "2026-11-09",
+   "n": 1000,
+   "base": "Estimation de vote (base non précisée par l'agrégateur)",
+   "unit": "%",
+   "values": {
+    "PP": 32.6,
+    "PSOE": 25.6,
+    "Vox": 19.3,
+    "Frente Amplio": 6.9
+   },
+   "note": "Dates de terrain relevées sur Politicheck, taille d'échantillon sur Mapa Electoral",
+   "source": "https://politicheck.es/29n-encuestas"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "DATA10 (pour OKDIARIO)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-16",
+   "base": "Estimation de vote (base non précisée par l'agrégateur)",
+   "unit": "%",
+   "values": {
+    "PP": 31.7,
+    "PSOE": 25.5,
+    "Vox": 20.4,
+    "Frente Amplio": 6.7
+   },
+   "note": "Chiffres relevés sur Electográfica ; Podemos 2,1 % ; une autre reprise de presse donne 6,2 % pour Frente Amplio",
+   "source": "https://www.electografica.com/2026/11/encuesta-data10-261116.html"
   }
  ],
  "articles": [
@@ -3128,33 +3331,6 @@
    "date": "2026-11-12",
    "url": "https://www.democrata.es/fr/politique/sanchez-lance-aujourd-hui-la-campagne-a-seville-feijoo-a-badalona-et-abascal-colau-et-montero-choisissent-madrid/",
    "summary": "Lieux choisis par les principaux candidats pour l'ouverture de la campagne officielle : Séville pour Pedro Sánchez, Badalone pour Alberto Núñez Feijóo, Madrid pour Santiago Abascal, Ada Colau et Irene Montero."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "en",
-   "title": "Spain's Sánchez faces political test as deadly train crash casts shadow over election campaign",
-   "source": "Associated Press (WSB-TV)",
-   "date": "2026-11-12",
-   "url": "https://www.wsbtv.com/news/world/spains-snchez-faces/HWRYYETRTA77FHWMXH5OFPVX7A/",
-   "summary": "L'agence revient sur la collision ferroviaire à grande vitesse du 28 octobre (69 morts) et sur la manière dont le gouvernement aborde la campagne après la démission du ministre des Transports. Elle rappelle que les sondages, avant comme après l'accident, placent le PSOE derrière le total des voix du PP et de Vox."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "fr",
-   "title": "Feijóo demande à Sánchez « où est l’argent des Espagnols » et dénonce la dégradation des services publics",
-   "source": "Demócrata (édition française)",
-   "date": "2026-11-12",
-   "url": "https://www.democrata.es/fr/elections-generales-en-espagne/feijoo-demande-a-sanchez-ou-est-l-argent-des-espagnols-et-denonce-la-degradation-des-services-publics/",
-   "summary": "Compte rendu du meeting d'ouverture de campagne du Parti populaire à Badalone. Alberto Núñez Feijóo y oppose le niveau des recettes fiscales, de la dette et des fonds européens à l'état des infrastructures et des services publics."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "en",
-   "title": "PP and Vox ahead in latest Spain election poll",
-   "source": "The Olive Press",
-   "date": "2026-11-12",
-   "url": "https://www.theolivepress.es/spain-news/2026/11/12/pp-vox-spain-election-poll/",
-   "summary": "Le journal anglophone de la Costa del Sol fait le point sur les dernières estimations, qui placent le PP en tête devant le PSOE et Vox à un peu plus de deux semaines du scrutin."
   },
   {
    "electionId": "gm-2026-p",
@@ -3670,15 +3846,6 @@
    "summary": "Les deux favoris divergent sur la guerre en Ukraine ; les analystes s'attendent à un second tour le 1er novembre, avec une participation attendue sous les 40 %."
   },
   {
-   "electionId": "ch-2026-11",
-   "lang": "en",
-   "title": "A \"grudging yes\" from the GLP on AHV funding",
-   "source": "blue News (Keystone-ATS)",
-   "date": "2026-10-24",
-   "url": "https://www.bluewin.ch/en/news/a-grudging-yes-from-the-glp-on-ahv-funding-li.3647301",
-   "summary": "Réunis en assemblée des délégués, les Vert'libéraux ont soutenu du bout des lèvres le financement de la 13e rente AVS par la TVA. Le parti recommande aussi le oui à l'initiative sur les feux d'artifice et le non à l'initiative sur l'imposition des couples."
-  },
-  {
    "electionId": "br-2026-r2",
    "lang": "en",
    "title": "Brazil's Lula, Bolsonaro close arguments to voters ahead of nail-biting election runoff",
@@ -3704,15 +3871,6 @@
    "date": "2026-10-24",
    "url": "https://whbl.com/2026/10/24/serbia-votes-as-students-seek-to-unseat-vucic-in-snap-election/",
    "summary": "Les Serbes votent lors de législatives anticipées où le mouvement étudiant né après l'effondrement de Novi Sad défie Aleksandar Vučić ; les sondages publiés divergent sur le camp en tête."
-  },
-  {
-   "electionId": "ch-2026-11",
-   "lang": "fr",
-   "title": "Votations du 29 novembre: démarrage explosif pour l'initiative sur les feux d'artifice",
-   "source": "Swissinfo (SSR)",
-   "date": "2026-10-23",
-   "url": "https://www.swissinfo.ch/fre/politique-suisse/votations-du-29-novembre-d%C3%A9marrage-explosif-pour-linitiative-sur-les-feux-dartifice/92258040",
-   "summary": "Premier sondage SSR (gfs.bern) : large soutien à l'initiative sur les feux d'artifice, avance plus fragile pour l'imposition des couples mariés, pas de majorité nette sur la TVA pour l'AVS ni sur le matériel de guerre."
   },
   {
    "electionId": "br-2026-r2",
@@ -3938,6 +4096,87 @@
    "date": "2026-07-02",
    "url": "https://www.touteleurope.eu/?p=306470",
    "summary": "Pourquoi ces dates ont été retenues et les critiques sur un second tour au lendemain du 1er mai."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "Spain kicks off election campaign ahead of Nov. 29 vote",
+   "source": "Anadolu Agency",
+   "date": "2026-11-13",
+   "url": "https://www.aa.com.tr/en/europe/spain-kicks-off-election-campaign-ahead-of-nov-29-vote/4124041",
+   "summary": "Ouverture officielle de la campagne : le président du gouvernement met en avant le bilan social de son exécutif, tandis qu'un sondage cité donne une majorité possible au PP et à Vox. Logement, immigration et affaires de corruption dominent les débats."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "fr",
+   "title": "Limitation des feux d'artifice : notre débat",
+   "source": "RFJ (Radio Fréquence Jura)",
+   "date": "2026-11-11",
+   "url": "https://www.rfj.ch/rfj/Actualite/Region/20261111-Limitation-des-feux-d-artifice-notre-debat.html",
+   "summary": "La radio régionale jurassienne organise un débat entre un élu UDC et un représentant des Vert-e-s sur l'initiative visant à interdire les feux d'artifice bruyants. Les deux camps s'opposent sur la nécessité d'une restriction nationale."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "en",
+   "title": "Should loud fireworks be banned in Switzerland?",
+   "source": "SWI swissinfo.ch",
+   "date": "2026-11-02",
+   "url": "https://www.swissinfo.ch/eng/votes/should-loud-fireworks-be-banned-in-switzerland/92275388",
+   "summary": "Présentation de l'initiative qui interdirait la vente et l'usage des feux d'artifice bruyants, en laissant autorisés les cierges magiques et fontaines. Partisans et opposants exposent leurs arguments sur le bruit, l'environnement et la tradition."
+  },
+  {
+   "electionId": "gm-2026-p",
+   "lang": "en",
+   "title": "Nine Candidates Confirmed for December 5 Presidential Election",
+   "source": "Gambia Journal",
+   "date": "2026-11-14",
+   "url": "https://gambiaj.com/news/politics/nine-candidates-confirmed-for-december-5-presidential-election/",
+   "summary": "La Commission électorale indépendante a arrêté une liste de neuf candidats après la clôture des dépôts. Plusieurs aspirants ne figurent pas sur le bulletin, à la suite de retraits ou de dossiers incomplets."
+  },
+  {
+   "electionId": "gm-2026-p",
+   "lang": "fr",
+   "title": "Gambie : neuf candidats retenus pour la présidentielle, dont Barrow, campagne dès le 16 novembre",
+   "source": "Madar (Mauritanie)",
+   "date": "2026-11-15",
+   "url": "https://fr.madar.mr/actualites/senegal/gambia-iec-final-list-nine-presidential-candidates-barrow-campaign-16-november-20261114",
+   "summary": "La liste définitive validée le 14 novembre compte neuf candidats, dont le président sortant Adama Barrow et Ousainou Darboe. La campagne officielle court du 16 novembre au 3 décembre."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "Spain general election: Right-wing majority projected as Sánchez calls snap vote",
+   "source": "The Week (Inde)",
+   "date": "2026-11-16",
+   "url": "https://www.theweek.in/news/world/2026/11/16/spain-general-election-right-wing-majority-projected-as-sanchez-calls-snap-vote.html",
+   "summary": "Point sur la campagne des législatives anticipées espagnoles : les sondages cités projettent une majorité de sièges pour le PP et Vox réunis."
+  },
+  {
+   "electionId": "gm-2026-p",
+   "lang": "en",
+   "title": "Gambia clears Barrow to run for third presidential term, approves 8 other candidates",
+   "source": "Reuters (TimesLIVE)",
+   "date": "2026-11-16",
+   "url": "https://www.timeslive.co.za/news/africa/2026-11-16-gambia-clears-barrow-to-run-for-third-presidential-term-approves-eight-other-candidates/",
+   "summary": "La commission électorale valide neuf candidatures, dont celle du président sortant Adama Barrow pour un troisième mandat et celle d'Ousainou Darboe, chef de l'UDP. La campagne officielle court jusqu'au 3 décembre."
+  },
+  {
+   "electionId": "gm-2026-p",
+   "lang": "fr",
+   "title": "Gambie : Présidentielle 2026, les huit candidats signent un pacte de paix",
+   "source": "KOACI",
+   "date": "2026-11-16",
+   "url": "https://www.koaci.com/article/2026/11/16/gambie/politique/gambie-presidentielle-2026-les-huit-candidats-signent-un-pacte-de-paix_202696.html",
+   "summary": "Avant l'ouverture de la campagne, les candidats à la présidentielle gambienne signent un pacte de paix proposé par la commission électorale, s'engageant à une campagne et un scrutin apaisés."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "fr",
+   "title": "Feijóo demande à Sánchez « où est l’argent des Espagnols » et dénonce la dégradation des services publics",
+   "source": "Demócrata (édition française)",
+   "date": "2026-11-12",
+   "url": "https://www.democrata.es/fr/elections-generales-en-espagne/feijoo-demande-a-sanchez-ou-est-l-argent-des-espagnols-et-denonce-la-degradation-des-services-publics/",
+   "summary": "Compte rendu du meeting d'ouverture de campagne du Parti populaire à Badalone. Alberto Núñez Feijóo y oppose le niveau des recettes fiscales, de la dette et des fonds européens à l'état des infrastructures et des services publics."
   }
  ],
  "results": [
