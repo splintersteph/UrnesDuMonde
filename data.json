@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "elections": [
   {
    "id": "br-2026-r2",
@@ -3360,10 +3360,11 @@
    "values": {
     "TVA pour la 13e rente AVS": 46,
     "Initiative feux d'artifice": 63,
-    "Initiative imposition des couples": 40
+    "Initiative imposition des couples": 40,
+    "Loi sur le matériel de guerre": 49
    },
-   "note": "Non : TVA AVS 51 %, feux d'artifice 35 %, imposition des couples 54 % ; marge d'erreur ±2,8 points. Loi sur le matériel de guerre non saisie : 49 % contre 46 %, mais les sources consultées divergent sur le sens du rapport.",
-   "source": "https://www.bluewin.ch/en/news/switzerland/a-nail-biter-over-ahv-funding-the-war-material-act-is-looking-tight-li.3677594"
+   "note": "Non : TVA AVS 51 %, feux d'artifice 35 %, imposition des couples 54 %, matériel de guerre 46 % ; marge d'erreur ±2,8 points. Chiffre du matériel de guerre confirmé par SWI swissinfo.ch (SSR).",
+   "source": "https://www.swissinfo.ch/eng/votes/november-29-votes-opposition-to-pension-financing-plan-edging-ahead/92396495"
   },
   {
    "electionId": "ch-2026-11",
@@ -3447,6 +3448,155 @@
    },
    "note": "Tracking ; Frente Amplio avec les coalitions territoriales de son espace.",
    "source": "https://electomania.es/tracking-sondaxe-18-nov-pp-y-psoe-lanzan-la-llamada-al-voto-util-con-la-diferencia-mas-estrecha-entre-ambos/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "Sigma Dos (pour El Mundo)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-17",
+   "n": 3759,
+   "base": "Estimation de vote (base non précisée par l'agrégateur)",
+   "unit": "%",
+   "values": {
+    "PP": 30.7,
+    "PSOE": 26.4,
+    "Vox": 19.8,
+    "Frente Amplio": 6.7
+   },
+   "note": "Chiffres relevés sur l'agrégateur Mapa Electoral ; Podemos 1,2 %",
+   "source": "https://mapaelectoral.es/encuestas/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "EM-Analytics (pour Electomanía)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-17",
+   "n": 4446,
+   "base": "Estimation de vote (base non précisée par l'agrégateur)",
+   "unit": "%",
+   "values": {
+    "PP": 30.8,
+    "PSOE": 27.0,
+    "Vox": 18.8,
+    "Frente Amplio": 7.7
+   },
+   "note": "Chiffres relevés sur l'agrégateur Mapa Electoral ; Podemos 1,3 %",
+   "source": "https://mapaelectoral.es/encuestas/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "Sigma Dos (pour El Mundo)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-18",
+   "n": 4511,
+   "base": "Estimation de vote (base non précisée par l'agrégateur)",
+   "unit": "%",
+   "values": {
+    "PP": 30.7,
+    "PSOE": 26.7,
+    "Vox": 19.7,
+    "Frente Amplio": 8.7
+   },
+   "note": "Chiffres relevés sur l'agrégateur Mapa Electoral ; Podemos 0,8 %",
+   "source": "https://mapaelectoral.es/encuestas/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "SW Demoscopia (pour La Séptima)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-18",
+   "n": 10000,
+   "base": "Estimation de vote (base non précisée par l'agrégateur)",
+   "unit": "%",
+   "values": {
+    "PP": 29.1,
+    "PSOE": 31.9,
+    "Vox": 16.4,
+    "Frente Amplio": 7.3
+   },
+   "note": "Tracking ; chiffres relevés sur l'agrégateur Mapa Electoral ; Podemos 1,6 %",
+   "source": "https://mapaelectoral.es/encuestas/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "EM-Analytics (pour Electomanía)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-18",
+   "n": 4927,
+   "base": "Estimation de vote (base non précisée par l'agrégateur)",
+   "unit": "%",
+   "values": {
+    "PP": 30.8,
+    "PSOE": 27.0,
+    "Vox": 18.9,
+    "Frente Amplio": 7.7
+   },
+   "note": "Chiffres relevés sur l'agrégateur Mapa Electoral ; Podemos 1,3 %",
+   "source": "https://mapaelectoral.es/encuestas/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "40dB (pour El País et Cadena SER)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-18",
+   "n": 2000,
+   "base": "Estimation de vote (base non précisée par l'agrégateur)",
+   "unit": "%",
+   "values": {
+    "PP": 32.2,
+    "PSOE": 30.7,
+    "Vox": 17.0,
+    "Frente Amplio": 5.2
+   },
+   "note": "Tracking quotidien ; chiffres relevés sur l'agrégateur Mapa Electoral ; Podemos 1,2 %",
+   "source": "https://mapaelectoral.es/encuestas/"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "40dB (pour El País et Cadena SER)",
+   "fieldwork": "non précisé",
+   "published": "2026-11-19",
+   "base": "Exprimés (estimation de vote)",
+   "unit": "%",
+   "values": {
+    "PP": 32.4,
+    "PSOE": 30.4,
+    "Vox": 17.2
+   },
+   "note": "Tracking quotidien ; projection PP 135 sièges, PSOE 121, Vox 57. Frente Amplio non saisi (chiffre publié en net recul sur la veille, à confirmer).",
+   "source": "https://www.democrata.es/encuestas/elecciones-generales/tracking-encuesta-29n-hoy-40db-19-noviembre-2026/"
+  },
+  {
+   "electionId": "gm-2026-p",
+   "pollster": "Gambia Participates",
+   "fieldwork": "non précisé",
+   "published": "2026-08-24",
+   "base": "Ensemble des sondés (17 % d'indécis)",
+   "unit": "%",
+   "values": {
+    "Adama Barrow": 32,
+    "Ousainou Darboe": 25,
+    "Talib Ahmed Bensouda": 19
+   },
+   "note": "Date de publication = date de l'article rapportant l'enquête ; taille d'échantillon non précisée. L'UDP et UNITE ont contesté la méthode.",
+   "source": "https://thepoint.gm/africa/gambia/headlines/parties-dispute-polls-finding-that-puts-barrow-ahead-of-dec-election"
+  },
+  {
+   "electionId": "es-2026",
+   "pollster": "DATA10 (pour OKDIARIO)",
+   "fieldwork": "13–18 nov.",
+   "published": "2026-11-19",
+   "n": 2300,
+   "base": "Estimation de vote (base non précisée)",
+   "unit": "%",
+   "values": {
+    "PP": 31.6,
+    "PSOE": 26.5,
+    "Vox": 19.4,
+    "Frente Amplio": 6.7
+   },
+   "note": "Tracking ; projection PP 130 sièges, PSOE 109, Vox 66, Frente Amplio 10 ; marge d'erreur ±2,0 points ; entretiens téléphoniques et en ligne.",
+   "source": "https://www.electografica.com/2026/11/encuesta-data10-261119.html"
   }
  ],
  "articles": [
@@ -3478,15 +3628,6 @@
    "summary": "Selon les résultats provisoires, le président sortant soutenu par le PAICV l'emporte dès le premier tour, loin devant la candidate soutenue par le MpD, qui a reconnu sa défaite. L'abstention atteint un niveau élevé."
   },
   {
-   "electionId": "es-2026",
-   "lang": "en",
-   "title": "Feijóo lands in Santander to seek the third PP deputy for Cantabria in the 29N elections",
-   "source": "Demócrata (édition anglaise)",
-   "date": "2026-11-15",
-   "url": "https://www.democrata.es/en/general-elections-spain/feijoo-lands-in-santander-to-seek-the-third-pp-deputy-for-cantabria-in-the-29n-elections/",
-   "summary": "Le président du PP a fait campagne à Santander pour tenter d'obtenir un troisième siège en Cantabrie. Il a également réagi aux incidents survenus lors d'un meeting de son parti au Pays basque."
-  },
-  {
    "electionId": "cv-2026-p",
    "lang": "fr",
    "title": "Présidentielle au Cap-Vert : derrière la stabilité politique, des défis sociaux à relever",
@@ -3503,24 +3644,6 @@
    "date": "2026-11-14",
    "url": "https://pressafrik.com/Presidentielle-au-Cap-Vert-pres-de-420-000-electeurs-appeles-aux-urnes-ce-dimanche-15-novembre_a314582.html",
    "summary": "Le premier tour réunit six candidats et 419 448 inscrits, dont environ 82 % votent dans l'archipel et le reste à l'étranger, dans 1 302 bureaux. Les résultats provisoires sont attendus au plus tard le 17 novembre."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "en",
-   "title": "Political round-up: General strike shifts momentum as parties fight for votes before Spain election",
-   "source": "The Olive Press",
-   "date": "2026-11-14",
-   "url": "https://www.theolivepress.es/spain-news/2026/11/14/political-round-up-general-strike-shifts-momentum-as-parties-fight-for-votes-before-spain-election/",
-   "summary": "Tour d'horizon de la campagne après la grève générale du 11 novembre sur le logement et les salaires, marquée par des heurts et plus d'une centaine d'interpellations. L'article rappelle l'écart entre les instituts privés, qui placent le PP en tête, et le CIS, qui donne l'avantage au PSOE."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "fr",
-   "title": "Sánchez appelle à une participation de 75% le 29N pour atteindre 176 sièges : « À voter, à gagner et à gouverner quatre ans de plus »",
-   "source": "Demócrata (édition française)",
-   "date": "2026-11-14",
-   "url": "https://www.democrata.es/fr/elections-generales-en-espagne/sanchez-appelle-a-une-participation-de-75-le-29n-pour-atteindre-176-sieges-a-voter-a-gagner-et-a-gouverner-quatre-ans-de-plus/",
-   "summary": "Lors d'un meeting à Palma de Majorque, le candidat socialiste a fixé un objectif de participation de 75 % pour viser la majorité absolue. Il a critiqué ses adversaires du PP et de Vox et défendu le bilan de son gouvernement."
   },
   {
    "electionId": "cv-2026-p",
@@ -3557,15 +3680,6 @@
    "date": "2026-11-13",
    "url": "https://www.ouestaf.com/cabo-verde-presidentielle-le-paicv-face-au-risque-dun-retour-a-la-cohabitation/",
    "summary": "Le média ouest-africain analyse l'enjeu institutionnel du scrutin, entre le président sortant soutenu par le PAICV et cinq autres candidats dont Joana Rosa. La campagne a porté sur le coût de la vie, le chômage des jeunes et les liaisons entre les îles."
-  },
-  {
-   "electionId": "gm-2026-p",
-   "lang": "fr",
-   "title": "Gambie : Présidentielle 2026, la CEI valide 5 candidatures dont celle d'Adam Barrow",
-   "source": "KOACI",
-   "date": "2026-11-13",
-   "url": "https://www.koaci.com/article/2026/11/13/gambie/societe/gambie-presidentielle-2026-la-cei-valide-5-candidatures-dont-celle-dadam-barrow_202590.html",
-   "summary": "La Commission électorale indépendante a annoncé la validation de cinq premières candidatures pour la présidentielle du 5 décembre. La liste comprend le chef de l'État sortant, des candidats de l'opposition et une candidate indépendante."
   },
   {
    "electionId": "cv-2026-p",
@@ -3719,15 +3833,6 @@
    "date": "2026-11-03",
    "url": "https://www.dhnet.be/dernieres-depeches/2026/11/03/jour-delections-decisives-aux-etats-unis-pour-trump-et-la-suite-de-son-mandat-PAIQDHS7UFF55LJCSUNFSY4EKY/",
    "summary": "Les Américains votent pour renouveler le Congrès à mi-mandat de Donald Trump, les sondages donnant l'avantage aux démocrates pour la Chambre. Le coût de la vie figure parmi les thèmes principaux de la campagne."
-  },
-  {
-   "electionId": "ch-2026-11",
-   "lang": "fr",
-   "title": "Pénalisation du mariage: un feuilleton fiscal vieux de 40 ans aux urnes",
-   "source": "Blick (édition romande)",
-   "date": "2026-11-02",
-   "url": "https://www.blick.ch/fr/suisse/votations-suisses/penalisation-du-mariage-un-feuilleton-fiscal-vieux-de-40-ans/tmpmz15",
-   "summary": "Retour sur l'historique de la « pénalisation du mariage » depuis un arrêt du Tribunal fédéral de 1984. L'initiative du Centre propose de revenir à une imposition commune des couples mariés, après l'adoption en mars 2026 de l'imposition individuelle."
   },
   {
    "electionId": "us-2026",
@@ -4297,15 +4402,6 @@
    "summary": "Pourquoi ces dates ont été retenues et les critiques sur un second tour au lendemain du 1er mai."
   },
   {
-   "electionId": "es-2026",
-   "lang": "en",
-   "title": "Spain kicks off election campaign ahead of Nov. 29 vote",
-   "source": "Anadolu Agency",
-   "date": "2026-11-13",
-   "url": "https://www.aa.com.tr/en/europe/spain-kicks-off-election-campaign-ahead-of-nov-29-vote/4124041",
-   "summary": "Ouverture officielle de la campagne : le président du gouvernement met en avant le bilan social de son exécutif, tandis qu'un sondage cité donne une majorité possible au PP et à Vox. Logement, immigration et affaires de corruption dominent les débats."
-  },
-  {
    "electionId": "ch-2026-11",
    "lang": "fr",
    "title": "Limitation des feux d'artifice : notre débat",
@@ -4315,24 +4411,6 @@
    "summary": "La radio régionale jurassienne organise un débat entre un élu UDC et un représentant des Vert-e-s sur l'initiative visant à interdire les feux d'artifice bruyants. Les deux camps s'opposent sur la nécessité d'une restriction nationale."
   },
   {
-   "electionId": "ch-2026-11",
-   "lang": "en",
-   "title": "Should loud fireworks be banned in Switzerland?",
-   "source": "SWI swissinfo.ch",
-   "date": "2026-11-02",
-   "url": "https://www.swissinfo.ch/eng/votes/should-loud-fireworks-be-banned-in-switzerland/92275388",
-   "summary": "Présentation de l'initiative qui interdirait la vente et l'usage des feux d'artifice bruyants, en laissant autorisés les cierges magiques et fontaines. Partisans et opposants exposent leurs arguments sur le bruit, l'environnement et la tradition."
-  },
-  {
-   "electionId": "gm-2026-p",
-   "lang": "en",
-   "title": "Nine Candidates Confirmed for December 5 Presidential Election",
-   "source": "Gambia Journal",
-   "date": "2026-11-14",
-   "url": "https://gambiaj.com/news/politics/nine-candidates-confirmed-for-december-5-presidential-election/",
-   "summary": "La Commission électorale indépendante a arrêté une liste de neuf candidats après la clôture des dépôts. Plusieurs aspirants ne figurent pas sur le bulletin, à la suite de retraits ou de dossiers incomplets."
-  },
-  {
    "electionId": "gm-2026-p",
    "lang": "fr",
    "title": "Gambie : neuf candidats retenus pour la présidentielle, dont Barrow, campagne dès le 16 novembre",
@@ -4340,15 +4418,6 @@
    "date": "2026-11-15",
    "url": "https://fr.madar.mr/actualites/senegal/gambia-iec-final-list-nine-presidential-candidates-barrow-campaign-16-november-20261114",
    "summary": "La liste définitive validée le 14 novembre compte neuf candidats, dont le président sortant Adama Barrow et Ousainou Darboe. La campagne officielle court du 16 novembre au 3 décembre."
-  },
-  {
-   "electionId": "es-2026",
-   "lang": "en",
-   "title": "Spain general election: Right-wing majority projected as Sánchez calls snap vote",
-   "source": "The Week (Inde)",
-   "date": "2026-11-16",
-   "url": "https://www.theweek.in/news/world/2026/11/16/spain-general-election-right-wing-majority-projected-as-sanchez-calls-snap-vote.html",
-   "summary": "Point sur la campagne des législatives anticipées espagnoles : les sondages cités projettent une majorité de sièges pour le PP et Vox réunis."
   },
   {
    "electionId": "gm-2026-p",
@@ -4450,15 +4519,6 @@
    "summary": "Compte rendu d'un meeting du chef du PP à Logroño, consacré à ses critiques envers le gouvernement et à l'appel à la mobilisation de son électorat."
   },
   {
-   "electionId": "es-2026",
-   "lang": "fr",
-   "title": "Le grand débat Sánchez-Feijóo du 19 novembre : à quelle heure c'est, où le regarder en direct et les sujets du face-à-face",
-   "source": "Demócrata (édition française)",
-   "date": "2026-11-14",
-   "url": "https://www.democrata.es/fr/actualite/debat-sanchez-feijoo-du-19-novembre-heure-ou-regarder/",
-   "summary": "Présentation du face-à-face télévisé du 19 novembre entre Pedro Sánchez et Alberto Núñez Feijóo, diffusé par la RTVE, et de ses cinq thèmes : logement, économie, services publics, corruption, immigration et politique étrangère."
-  },
-  {
    "electionId": "gm-2026-p",
    "lang": "fr",
    "title": "Présidentielle en Gambie : Adama Barrow face à huit adversaires, neuf candidatures validées pour le scrutin du 5 décembre",
@@ -4466,15 +4526,6 @@
    "date": "2026-11-15",
    "url": "https://www.sentv.info/presidentielle-en-gambie-adama-barrow-face-a-huit-adversaires-neuf-candidatures-validees-pour-le-scrutin-du-5-decembre/",
    "summary": "La chaîne sénégalaise détaille la liste des neuf candidats retenus par la commission électorale et le calendrier de la campagne, ouverte le 16 novembre."
-  },
-  {
-   "electionId": "gm-2026-p",
-   "lang": "en",
-   "title": "Gambia Presidential Race Takes Shape as Barrow Seeks Third Term",
-   "source": "Trends N Africa",
-   "date": "2026-11-13",
-   "url": "https://trendsnafrica.com/gambia-presidential-race-takes-shape-as-barrow-seeks-third-term/",
-   "summary": "Le site panafricain présente les principaux candidats et le débat sur la limitation des mandats présidentiels, absente de la Constitution gambienne."
   },
   {
    "electionId": "gm-2026-p",
@@ -4493,6 +4544,105 @@
    "date": "2026-11-18",
    "url": "https://www.thelocal.es/20261118/update-who-do-polls-say-will-win-the-spanish-election",
    "summary": "Le site anglophone fait le point sur les derniers sondages à dix jours du scrutin, qui donnent l'avantage au bloc PP-Vox tandis que le CIS place le PSOE en tête."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "fr",
+   "title": "En Espagne, le vote ne suffit pas : les alliances décideront qui pourra gouverner après les élections du 29 novembre",
+   "source": "Parlons Politique",
+   "date": "2026-11-18",
+   "url": "https://www.parlons-politique.fr/elections/en-espagne-le-vote-ne-suffit-pas-les-alliances-decideront-qui-pourra-gouverner-apres-les-elections-du-29-novembre_31457/",
+   "summary": "L'article rappelle que la plupart des sondages placent le PP devant le PSOE, et explique comment le découpage provincial et le poids des partis régionaux pèseront sur les coalitions possibles."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "fr",
+   "title": "Feijóo libère son agenda du mercredi et du jeudi pour préparer le face-à-face avec Sánchez du 19",
+   "source": "Demócrata (édition française)",
+   "date": "2026-11-16",
+   "url": "https://www.democrata.es/fr/politique/feijoo-libere-son-agenda-du-mercredi-et-du-jeudi-pour-preparer-le-face-a-face-avec-sanchez-du-19/",
+   "summary": "Le chef du PP suspend ses meetings pour préparer le débat télévisé du 19 novembre, animé par María Casado. Le face-à-face portera sur le logement, l'économie, les services publics, la corruption et l'immigration."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "Sánchez and Feijóo face each other tomorrow amid a climate of tension and political deadlock",
+   "source": "Demócrata (édition anglaise)",
+   "date": "2026-11-18",
+   "url": "https://www.democrata.es/en/politics/expansion-sanchez-and-feijoo-face-each-other-tomorrow-amid-a-climate-of-tension-and-political-deadlock/",
+   "summary": "Présentation du débat du 19 novembre entre le président du gouvernement et le chef de l'opposition, dont les relations ont été tendues pendant la législature. Le débat comprend cinq blocs thématiques."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "en",
+   "title": "November 29 votes: opposition to pension financing plan edging ahead",
+   "source": "SWI swissinfo.ch",
+   "date": "2026-11-18",
+   "url": "https://www.swissinfo.ch/eng/votes/november-29-votes-opposition-to-pension-financing-plan-edging-ahead/92396495",
+   "summary": "Selon le deuxième sondage gfs.bern pour la SSR, le non devance légèrement le oui sur la hausse de TVA pour la 13e rente AVS. L'initiative sur les feux d'artifice reste en tête et la loi sur le matériel de guerre demeure indécise."
+  },
+  {
+   "electionId": "ch-2026-11",
+   "lang": "fr",
+   "title": "Baume-Schneider tremble: la hausse de la TVA au bord du gouffre",
+   "source": "Blick (édition romande)",
+   "date": "2026-11-18",
+   "url": "https://www.blick.ch/fr/suisse/votations-suisses/baume-schneider-tremble-la-hausse-de-la-tva-au-bord-du-gouffre/6lz14sy",
+   "summary": "Le journal analyse le second sondage SSR, qui place la hausse de TVA pour l'AVS sous la barre des 50 %. Il souligne que l'objet doit obtenir la double majorité du peuple et des cantons."
+  },
+  {
+   "electionId": "gm-2026-p",
+   "lang": "en",
+   "title": "Over 2000 Domestic Observers Seek IEC Accreditation Ahead of December 5 Election",
+   "source": "Gambia Journal",
+   "date": "2026-11-18",
+   "url": "https://gambiaj.com/news/politics/elections/over-2000-domestic-observers-seek-iec-accreditation-ahead-of-december-5-election/",
+   "summary": "Un groupe d'observation local demande l'accréditation de plus de 2 000 personnes pour le scrutin. Des missions de l'UE, de la CEDEAO et de l'Union africaine mènent déjà des évaluations préélectorales."
+  },
+  {
+   "electionId": "gm-2026-p",
+   "lang": "fr",
+   "title": "Gambie : huit des neuf candidats signent un pacte de paix avant la présidentielle",
+   "source": "Bénin Web TV",
+   "date": "2026-11-17",
+   "url": "https://beninwebtv.bj/gambie-huit-des-neuf-candidats-signent-un-pacte-de-paix-avant-la-presidentielle/",
+   "summary": "Huit des neuf candidats ont signé le 16 novembre un pacte de paix à l'initiative de la Commission électorale, avec l'appui d'International IDEA. Ils s'engagent à rejeter la violence et à porter les litiges devant les voies légales."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "Spain’s Sánchez Struggles in Debate Against Main Rival Feijóo",
+   "source": "Bloomberg",
+   "date": "2026-11-20",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-20/spain-s-sanchez-struggles-in-debate-against-main-rival-feijoo",
+   "summary": "Compte rendu du seul face-à-face télévisé de la campagne entre Pedro Sánchez et Alberto Núñez Feijóo, marqué par des échanges tendus sur la corruption, le logement et les accidents ferroviaires."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "fr",
+   "title": "Débat Sánchez-Feijóo, en direct",
+   "source": "Demócrata (édition française)",
+   "date": "2026-11-19",
+   "url": "https://www.democrata.es/fr/elections-generales-en-espagne/sanchez-et-feijoo-mesurent-leurs-forces-dans-le-face-a-face-electoral-a-dix-jours-du-29n/",
+   "summary": "Suivi en direct du débat télévisé entre le président du gouvernement et le chef du PP, à dix jours du scrutin, avec les principaux thèmes abordés bloc par bloc."
+  },
+  {
+   "electionId": "es-2026",
+   "lang": "en",
+   "title": "Right-wing election victory in Spain could lead to changes for British expats",
+   "source": "Majorca Daily Bulletin",
+   "date": "2026-11-19",
+   "url": "https://www.majorcadailybulletin.com/news/local/2026/11/19/147551/right-wing-election-victory-spain-could-lead-changes-for-british-expats.html",
+   "summary": "Le quotidien anglophone des Baléares examine les conséquences possibles d'une alternance au profit de la droite pour les résidents britanniques en Espagne."
+  },
+  {
+   "electionId": "gm-2026-p",
+   "lang": "en",
+   "title": "Gambia: Talib Bensouda Pledges Agricultural Bank and Higher Groundnut Prices",
+   "source": "allAfrica",
+   "date": "2026-11-19",
+   "url": "https://allafrica.com/stories/202611190420.html",
+   "summary": "En campagne dans la région de North Bank, Talib Ahmed Bensouda promet la création d'une banque agricole et une hausse des prix d'achat de l'arachide."
   }
  ],
  "results": [
